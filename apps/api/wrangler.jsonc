@@ -5,9 +5,8 @@
   "compatibility_date": "2026-07-16",
   "compatibility_flags": ["nodejs_compat"],
   "vars": {
-    // Replace with the deployed Worker and web application origins before production deployment.
-    "BETTER_AUTH_URL": "http://localhost:8787",
-    "CORS_ORIGIN": "http://localhost:5173",
+    "BETTER_AUTH_URL": "https://neoai-api.02017883.workers.dev",
+    "CORS_ORIGIN": "https://neoai-web.02017883.workers.dev",
   },
   "secrets": {
     "required": ["BETTER_AUTH_SECRET", "DATABASE_URL"],
