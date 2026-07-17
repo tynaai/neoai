@@ -1,0 +1,118 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": [
+    "eslint",
+    "typescript",
+    "react",
+    "jsx-a11y",
+    "react-perf",
+    "import",
+    "node",
+    "unicorn",
+    "oxc"
+  ],
+  "env": {
+    "builtin": true,
+    "es2024": true
+  },
+  "categories": {
+    "correctness": "error",
+    "suspicious": "warn",
+    "perf": "warn"
+  },
+  "options": {
+    "typeAware": true,
+    "reportUnusedDisableDirectives": "warn"
+  },
+  "settings": {
+    "react": {
+      "version": "19.2.7",
+      "linkComponents": [{ "name": "Link", "linkAttribute": "to" }]
+    },
+    "jsx-a11y": {
+      "components": {
+        "Link": "a"
+      }
+    }
+  },
+  "ignorePatterns": [
+    "node_modules/**",
+    ".turbo/**",
+    "dist/**",
+    "build/**",
+    "coverage/**",
+    "apps/web/build/**",
+    "apps/web/.react-router/**"
+  ],
+  "rules": {
+    "eqeqeq": ["error", "always", { "null": "ignore" }],
+    "no-alert": "error",
+    "no-console": ["warn", { "allow": ["warn", "error"] }],
+    "no-debugger": "error",
+    "no-duplicate-imports": "error",
+    "no-empty": ["error", { "allowEmptyCatch": true }],
+    "no-implicit-coercion": "warn",
+    "no-unused-vars": "off",
+    "prefer-const": ["error", { "destructuring": "all" }],
+    "import/no-cycle": "error",
+    "import/no-duplicates": "error",
+    "import/no-unassigned-import": ["error", { "allow": ["**/*.css"] }],
+    "react/exhaustive-deps": "warn",
+    "react/jsx-key": "error",
+    "react/jsx-no-useless-fragment": "warn",
+    "react/no-array-index-key": "warn",
+    "react/no-danger": "warn",
+    "react/no-unstable-nested-components": "warn",
+    "react/react-in-jsx-scope": "off",
+    "react/rules-of-hooks": "error",
+    "react/self-closing-comp": "warn",
+    "react/only-export-components": ["warn", { "allowConstantExport": true }],
+    "react-perf/jsx-no-new-array-as-prop": "warn",
+    "react-perf/jsx-no-new-function-as-prop": "off",
+    "react-perf/jsx-no-new-object-as-prop": "warn",
+    "jsx-a11y/alt-text": "error",
+    "jsx-a11y/anchor-has-content": "error",
+    "jsx-a11y/anchor-is-valid": "warn",
+    "jsx-a11y/click-events-have-key-events": "warn",
+    "jsx-a11y/iframe-has-title": "error",
+    "jsx-a11y/no-autofocus": "warn",
+    "jsx-a11y/no-static-element-interactions": "warn",
+    "typescript/consistent-type-imports": "error",
+    "typescript/no-explicit-any": "warn",
+    "typescript/no-floating-promises": ["error", { "ignoreVoid": true }],
+    "typescript/no-misused-promises": "error",
+    "typescript/no-unused-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "^_",
+        "varsIgnorePattern": "^_",
+        "caughtErrorsIgnorePattern": "^_"
+      }
+    ]
+  },
+  "overrides": [
+    {
+      "files": ["apps/web/**/*.{ts,tsx}"],
+      "env": {
+        "browser": true
+      }
+    },
+    {
+      "files": [
+        "apps/api/**/*.{ts,tsx}",
+        "*.config.{js,cjs,mjs,ts,mts,cts}",
+        "apps/*/*.config.{js,cjs,mjs,ts,mts,cts}"
+      ],
+      "env": {
+        "node": true
+      }
+    },
+    {
+      "files": ["**/*.{test,spec}.{ts,tsx}", "**/__tests__/**/*.{ts,tsx}"],
+      "rules": {
+        "no-console": "off",
+        "typescript/no-explicit-any": "off"
+      }
+    }
+  ]
+}

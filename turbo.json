@@ -1,0 +1,71 @@
+{
+  "$schema": "https://turborepo.dev/schema.json",
+  "ui": "tui",
+  "tasks": {
+    "transit": {
+      "dependsOn": ["^transit"]
+    },
+    "build": {
+      "dependsOn": ["^build"],
+      "outputs": ["build/**", "dist/**"]
+    },
+    "//#quality": {
+      "dependsOn": ["//#lint", "//#format"],
+      "inputs": [],
+      "outputs": []
+    },
+    "//#quality:fix": {
+      "dependsOn": ["//#lint:fix", "//#format:fix"],
+      "cache": false
+    },
+    "//#lint": {
+      "inputs": [
+        "$TURBO_ROOT$/.oxlintrc.json",
+        "$TURBO_ROOT$/package.json",
+        "$TURBO_ROOT$/pnpm-lock.yaml",
+        "$TURBO_ROOT$/apps/**/*",
+        "$TURBO_ROOT$/packages/**/*",
+        "!$TURBO_ROOT$/apps/**/node_modules/**",
+        "!$TURBO_ROOT$/apps/**/.turbo/**",
+        "!$TURBO_ROOT$/apps/**/.wrangler/**",
+        "!$TURBO_ROOT$/apps/**/.react-router/**",
+        "!$TURBO_ROOT$/apps/**/build/**",
+        "!$TURBO_ROOT$/apps/**/dist/**"
+      ],
+      "outputs": []
+    },
+    "//#lint:fix": {
+      "cache": false
+    },
+    "//#format": {
+      "inputs": [
+        "$TURBO_ROOT$/.oxfmtrc.json",
+        "$TURBO_ROOT$/package.json",
+        "$TURBO_ROOT$/pnpm-lock.yaml",
+        "$TURBO_ROOT$/apps/**/*",
+        "$TURBO_ROOT$/packages/**/*",
+        "$TURBO_ROOT$/*.json",
+        "$TURBO_ROOT$/*.yaml",
+        "$TURBO_ROOT$/*.yml",
+        "!$TURBO_ROOT$/apps/**/node_modules/**",
+        "!$TURBO_ROOT$/apps/**/.turbo/**",
+        "!$TURBO_ROOT$/apps/**/.wrangler/**",
+        "!$TURBO_ROOT$/apps/**/.react-router/**",
+        "!$TURBO_ROOT$/apps/**/build/**",
+        "!$TURBO_ROOT$/apps/**/dist/**"
+      ],
+      "outputs": []
+    },
+    "//#format:fix": {
+      "dependsOn": ["//#lint:fix"],
+      "cache": false
+    },
+    "typecheck": {
+      "dependsOn": ["transit"]
+    },
+    "dev": {
+      "cache": false,
+      "persistent": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cf-worker-basic-starter",
+  "description": "Cloudflare worker basic monorepo starter template with turborepo",
+  "keywords": [],
+  "license": "MIT",
+  "scripts": {
+    "build": "turbo run build",
+    "typecheck": "turbo run typecheck",
+    "ci": "turbo run quality typecheck build",
+    "lint": "oxlint .",
+    "lint:fix": "oxlint --fix .",
+    "format": "oxfmt --check",
+    "format:fix": "oxfmt .",
+    "dev": "turbo run dev"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.59.0",
+    "oxlint": "^1.74.0",
+    "turbo": "^2.10.5",
+    "typescript": "^7.0.2"
+  },
+  "packageManager": "pnpm@10.16.1"
+}
