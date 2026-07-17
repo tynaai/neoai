@@ -12,19 +12,27 @@
     "typecheck": "tsc -b",
     "db:generate": "drizzle-kit generate --config drizzle.config.ts",
     "db:migrate": "drizzle-kit migrate --config drizzle.config.ts",
-    "cf-typegen": "wrangler types --env-interface CloudflareBindings"
+    "cf-typegen": "wrangler types --env-interface CloudflareBindings",
+    "mt:studio": "mastra studio --server-host localhost --server-port 8787 --server-api-prefix /api/mastra",
+    "mt:dev": "mastra dev"
   },
   "dependencies": {
     "@better-auth/drizzle-adapter": "^1.6.23",
+    "@mastra/auth-better-auth": "^1.1.1",
+    "@mastra/core": "^1.51.0",
+    "@mastra/hono": "^1.5.7",
+    "@mastra/observability": "^1.16.1",
     "@neondatabase/serverless": "^1.1.0",
     "better-auth": "^1.6.23",
     "drizzle-orm": "^0.45.2",
-    "hono": "^4.12.30"
+    "hono": "^4.12.30",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/node": "^26.1.0",
     "dotenv": "^17.4.2",
     "drizzle-kit": "^0.31.10",
+    "mastra": "^1.19.0",
     "typescript": "^7.0.2",
     "wrangler": "^4.111.0"
   },

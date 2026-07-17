@@ -9,7 +9,7 @@
     "CORS_ORIGIN": "https://neoai-web.02017883.workers.dev",
   },
   "secrets": {
-    "required": ["BETTER_AUTH_SECRET", "DATABASE_URL"],
+    "required": ["BETTER_AUTH_SECRET", "DATABASE_URL", "OPENAI_API_KEY"],
   },
   "services": [
     {
@@ -25,7 +25,7 @@
         "CORS_ORIGIN": "https://neoai.tynaai.tech",
       },
       "secrets": {
-        "required": ["BETTER_AUTH_SECRET", "DATABASE_URL"],
+        "required": ["BETTER_AUTH_SECRET", "DATABASE_URL", "OPENAI_API_KEY"],
       },
       "services": [
         {
