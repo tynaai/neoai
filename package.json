@@ -6,7 +6,7 @@
   "scripts": {
     "build": "turbo run build",
     "typecheck": "turbo run typecheck",
-    "ci": "turbo run quality typecheck build",
+    "ci": "turbo run //#lint typecheck build",
     "lint": "oxlint .",
     "lint:fix": "oxlint --fix .",
     "format": "oxfmt --check",

@@ -1,8 +1,47 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "main": "./src/main.ts",
+  "name": "neoai-api",
   "compatibility_date": "2026-07-16",
   "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    // Replace with the deployed Worker and web application origins before production deployment.
+    "BETTER_AUTH_URL": "http://localhost:8787",
+    "CORS_ORIGIN": "http://localhost:5173",
+  },
+  "secrets": {
+    "required": ["BETTER_AUTH_SECRET", "DATABASE_URL"],
+  },
+  "services": [
+    {
+      "binding": "WEB",
+      "service": "neoai-web",
+    },
+  ],
+  "env": {
+    "production": {
+      "vars": {
+        // Replace with the deployed production Worker and web application origins.
+        "BETTER_AUTH_URL": "https://neoai-api.tynaai.tech",
+        "CORS_ORIGIN": "https://neoai.tynaai.tech",
+      },
+      "secrets": {
+        "required": ["BETTER_AUTH_SECRET", "DATABASE_URL"],
+      },
+      "services": [
+        {
+          "binding": "WEB",
+          "service": "neoai-web-production",
+        },
+      ],
+      "routes": [
+        {
+          "pattern": "neoai-api.tynaai.tech",
+          "custom_domain": true,
+        },
+      ],
+    },
+  },
   "workers_dev": true,
   "preview_urls": true,
   "observability": {

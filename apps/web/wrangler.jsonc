@@ -1,6 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "compatibility_date": "2026-07-16",
+  "name": "neoai-web",
   "compatibility_flags": ["nodejs_compat"],
   "observability": {
     "enabled": true,
@@ -8,5 +9,15 @@
   "assets": {
     "directory": "./dist/client",
     "not_found_handling": "single-page-application",
+  },
+  "env": {
+    "production": {
+      "routes": [
+        {
+          "pattern": "neoai.tynaai.tech",
+          "custom_domain": true,
+        },
+      ],
+    },
   },
 }
