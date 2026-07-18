@@ -3,6 +3,7 @@ dist/
 .env
 .turbo
 *.tsbuildinfo
+bun.lock
 
 ### Wrangler ###
 .wrangler/

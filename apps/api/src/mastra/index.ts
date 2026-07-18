@@ -16,14 +16,8 @@ import {
 } from '@mastra/observability'
 
 // `credentials: true` forbids echoing back a literal "*" — and Hono's cors() only treats
-// `origin: '*'` as a wildcard when it's the exact string, not one array entry. So when
-// CORS_ORIGIN="*", reflect back whatever Origin the browser sent instead.
-const allowedOrigins = env.CORS_ORIGIN.split(',').map((o) => o.trim())
-const isWildcard = allowedOrigins.includes('*')
-const explicitOrigins = new Set([...allowedOrigins, 'http://localhost:3000'])
-
-const cors = {
-  origin: isWildcard ? (origin: string) => origin : (origin: string) => (explicitOrigins.has(origin) ? origin : undefined),
+// `origin: '*'` as a wildcard when it's the exact string, not one array entry. So instead of
+// reflecting "*", resolve it to an explicit safelist (env-configured origins + local dev ports).
 const resolveCorsOrigins = (origins: string) =>
   Array.from(
     new Set(
@@ -31,11 +25,7 @@ const resolveCorsOrigins = (origins: string) =>
         .split(',')
         .map((origin) => origin.trim())
         .filter((origin) => origin && origin !== '*')
-        .concat([
-          'http://localhost:5173',
-          'http://localhost:5174',
-          'http://localhost:3000',
-        ]),
+        .concat(['http://localhost:5173', 'http://localhost:5174', 'http://localhost:3000']),
     ),
   )
 
@@ -64,6 +54,9 @@ export const mastra = new Mastra({
   scorers: { conversationClarification: conversationClarificationScorer },
   storage: createMastraStorage(env),
   server: {
+    // Pinned to match apps/web/src/auth/auth-client.ts's dev port map (FE :5173 -> API :4111) —
+    // `mastra dev` otherwise falls back to whatever port is free, which drifts between runs.
+    port: 4111,
     apiPrefix: '/api/mastra',
     auth: new MastraAuthBetterAuth({
       auth,
