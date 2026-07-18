@@ -5,6 +5,7 @@ import { CheckCircle2Icon, UserPlusIcon } from 'lucide-react'
 import { Button } from '~/components/ui/button'
 import { Input } from '~/components/ui/input'
 import { Spinner } from '~/components/ui/spinner'
+import { cn } from '~/lib/utils'
 import { AuthShell } from './auth-shell'
 import { authClient } from './auth-client'
 import { getAuthErrorMessage } from './auth-errors'
@@ -116,7 +117,7 @@ export function RegisterPage() {
           Tạo tài khoản
         </Button>
       </form>
-      <p className="mt-7 animate-in fade-in slide-in-from-bottom-1 text-center text-sm text-[#4B5563] duration-700">
+      <p className={cn('mt-7 animate-in fade-in slide-in-from-bottom-1 duration-700', authStyles.secondaryText)}>
         Đã có tài khoản?{' '}
         <Link className={authStyles.link} to="/login">
           Đăng nhập

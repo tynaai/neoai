@@ -10,6 +10,21 @@
       content="Trợ lý AI tư vấn máy lạnh theo nhu cầu thật của khách hàng — Điện Máy Xanh"
     />
     <title>Trợ lý mua sắm AI · Điện Máy Xanh</title>
+    <script>
+      // Runs before first paint so the page never flashes the wrong theme on load.
+      (function () {
+        try {
+          var stored = localStorage.getItem('theme')
+          var theme =
+            stored === 'light' || stored === 'dark'
+              ? stored
+              : window.matchMedia('(prefers-color-scheme: dark)').matches
+                ? 'dark'
+                : 'light'
+          if (theme === 'dark') document.documentElement.classList.add('dark')
+        } catch (e) {}
+      })()
+    </script>
   </head>
 
   <body>

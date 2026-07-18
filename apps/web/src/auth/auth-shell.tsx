@@ -1,5 +1,7 @@
 import type { ReactNode } from 'react'
+import { motion } from 'motion/react'
 import { Link } from 'react-router'
+import { Sparkles } from 'lucide-react'
 
 type AuthShellProps = {
   children: ReactNode
@@ -8,41 +10,45 @@ type AuthShellProps = {
 
 export function AuthShell({ children, title }: AuthShellProps) {
   return (
-    <main className="relative flex min-h-svh items-center justify-center overflow-hidden bg-[#F7F9FC] px-5 py-8 text-[#111827] sm:px-8">
-      <div className="absolute inset-0 bg-[linear-gradient(#D8DEE8_1px,transparent_1px),linear-gradient(90deg,#D8DEE8_1px,transparent_1px)] bg-[size:48px_48px] opacity-30" />
-      <div className="absolute inset-x-0 top-0 h-1 bg-[#0B63CE]" />
-      <div className="absolute left-1/2 top-1/2 h-[620px] w-[620px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-[#EAF3FF] opacity-55 blur-3xl" />
-      <div className="absolute -right-20 top-16 h-40 w-40 rounded-[32px] border border-[#FFD400]/40 bg-[#FFF8CC]/80 rotate-12" />
-      <div className="absolute -left-24 bottom-16 h-48 w-48 rounded-[40px] border border-[#0B63CE]/15 bg-white/70 -rotate-12" />
+    <main className="relative flex min-h-svh items-center justify-center overflow-hidden bg-gradient-to-br from-[var(--hero-gradient-from)] via-[var(--hero-gradient-from)] to-[var(--hero-gradient-to)] px-5 py-10 text-brand-primary-foreground sm:px-8">
+      <motion.div
+        aria-hidden
+        animate={{ x: [0, 30, 0], y: [0, -20, 0] }}
+        transition={{ duration: 14, repeat: Number.POSITIVE_INFINITY, ease: 'easeInOut' }}
+        className="pointer-events-none absolute -top-24 -right-24 size-96 rounded-full bg-white/10 blur-3xl"
+      />
+      <motion.div
+        aria-hidden
+        animate={{ x: [0, -24, 0], y: [0, 16, 0] }}
+        transition={{ duration: 16, repeat: Number.POSITIVE_INFINITY, ease: 'easeInOut' }}
+        className="pointer-events-none absolute -bottom-32 -left-16 size-80 rounded-full bg-brand-accent/20 blur-3xl"
+      />
 
       <Link
-        aria-label="Điện máy XANH home"
-        className="group absolute left-5 top-6 z-10 inline-flex items-center gap-2 rounded-full border border-[#D8DEE8] bg-white/90 px-3 py-2 text-sm font-bold text-[#111827] shadow-[0_10px_28px_rgba(17,24,39,0.08)] backdrop-blur transition-all duration-300 hover:-translate-y-0.5 hover:border-[#0B63CE]/30 sm:left-8"
+        aria-label="Điện máy XANH — về trang chủ"
         to="/"
+        className="group absolute top-6 left-5 z-10 inline-flex items-center gap-1 rounded-full bg-white/15 px-3.5 py-2 text-sm font-heading tracking-wide text-white backdrop-blur-sm transition-colors hover:bg-white/25 sm:top-8 sm:left-8"
       >
-        <span className="grid size-7 place-items-center rounded-full bg-[#FFD400] text-xs font-black text-[#111827] shadow-[0_0_0_3px_rgba(255,212,0,0.24)]">
-          ĐM
-        </span>
-        <span>Điện máy</span>
-        <span className="text-[#0B63CE]">XANH</span>
+        Điện máy <span className="text-brand-accent">XANH</span>
       </Link>
 
-      <section className="relative w-full max-w-[500px] animate-in fade-in zoom-in-95 slide-in-from-bottom-4 duration-700">
+      <motion.section
+        initial={{ opacity: 0, y: 20, scale: 0.98 }}
+        animate={{ opacity: 1, y: 0, scale: 1 }}
+        transition={{ duration: 0.4 }}
+        className="relative w-full max-w-[460px]"
+      >
         <div className="mb-6 text-center">
-          <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[#0B63CE]">
-            Truy cập bảo mật
-          </p>
-          <h1 className="mt-3 text-[2.125rem] font-bold leading-tight tracking-normal text-[#111827]">
-            {title}
-          </h1>
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-white/15 px-3 py-1 text-xs font-medium text-white/90 backdrop-blur-sm">
+            <Sparkles className="size-3.5" /> Truy cập bảo mật
+          </span>
+          <h1 className="mt-4 font-heading text-3xl tracking-wide text-white sm:text-4xl">{title}</h1>
         </div>
 
-        <div className="rounded-[24px] border border-[#D8DEE8] bg-white/90 p-1.5 shadow-[0_28px_80px_rgba(17,24,39,0.14)] backdrop-blur-xl">
-          <div className="rounded-[18px] border border-white bg-white px-7 py-8 sm:px-10 sm:py-10">
-            {children}
-          </div>
+        <div className="rounded-3xl border border-white/15 bg-card p-7 text-card-foreground shadow-2xl sm:p-9">
+          {children}
         </div>
-      </section>
+      </motion.section>
     </main>
   )
 }

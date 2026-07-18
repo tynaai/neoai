@@ -1,15 +1,21 @@
-import { ChevronDown, LogOut, MapPin, MessageCircle, Sparkles } from 'lucide-react'
+import { motion } from 'motion/react'
+import { MessageCircle } from 'lucide-react'
 
 import { Badge } from '~/components/ui/badge'
 import { Button } from '~/components/ui/button'
-import { regionContext } from '~/lib/mock-data'
-import { LogoutButton } from '~/auth/logout-button'
+import { ThemeToggle } from './theme-toggle'
+import { UserMenu } from './user-menu'
 
 export function AdvisorHeader({ onOpenChat }: { onOpenChat?: () => void }) {
   return (
-    <header className="sticky top-0 z-40 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
+    <motion.header
+      initial={{ y: -16, opacity: 0 }}
+      animate={{ y: 0, opacity: 1 }}
+      transition={{ duration: 0.4, ease: 'easeOut' }}
+      className="sticky top-0 z-40 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80"
+    >
       <div className="mx-auto flex h-16 w-full items-stretch justify-between gap-2 pr-3 sm:pr-5">
-        <div className="flex min-w-0 items-center gap-3">
+        <div className="flex min-w-0 items-center gap-2">
           <div className="relative h-full w-[220px] shrink-0 sm:w-[248px]">
             <svg
               viewBox="0 0 493 110"
@@ -35,40 +41,10 @@ export function AdvisorHeader({ onOpenChat }: { onOpenChat?: () => void }) {
               className="absolute left-[3%] top-1/2 h-[140%] w-auto max-w-none -translate-y-1/2 object-contain"
             />
           </div>
-          <div className="hidden min-w-0 items-center gap-2 sm:flex">
-            <Sparkles className="size-4 text-primary" aria-hidden />
-            <span className="truncate text-sm font-semibold md:text-base">
-              AI Buying Mode
-            </span>
-            <Badge className="bg-brand-accent text-brand-accent-foreground">
-              Beta
-            </Badge>
-          </div>
+          <Badge className="bg-brand-accent text-brand-accent-foreground">Beta</Badge>
         </div>
 
-        <nav
-          aria-label="Điều hướng chế độ tư vấn"
-          className="flex shrink-0 items-center gap-1 sm:gap-2"
-        >
-          <Button
-            variant="ghost"
-            className="h-10 max-w-48 justify-start rounded-full px-2 sm:px-3"
-          >
-            <MapPin className="size-4 text-primary" aria-hidden />
-            <span className="hidden min-w-0 text-left md:block">
-              <span className="block text-[10px] text-muted-foreground">
-                Giao đến
-              </span>
-              <span className="block truncate text-xs font-semibold">
-                {regionContext.replace('Khu vực: ', '')}
-              </span>
-            </span>
-            <ChevronDown
-              className="hidden size-3.5 text-muted-foreground md:block"
-              aria-hidden
-            />
-            <span className="sr-only md:hidden">Chọn khu vực giao hàng</span>
-          </Button>
+        <nav aria-label="Điều hướng" className="flex shrink-0 items-center gap-2 sm:gap-3">
           {onOpenChat && (
             <Button className="h-9 rounded-full" onClick={onOpenChat}>
               <MessageCircle aria-hidden />
@@ -76,14 +52,10 @@ export function AdvisorHeader({ onOpenChat }: { onOpenChat?: () => void }) {
               <span className="sr-only sm:hidden">Tư vấn AI</span>
             </Button>
           )}
-          <Button variant="outline" className="h-9 rounded-full">
-            <LogOut aria-hidden />
-            <span className="hidden sm:inline">Thoát chế độ</span>
-            <span className="sr-only sm:hidden">Thoát chế độ</span>
-          </Button>
-          <LogoutButton />
+          <ThemeToggle />
+          <UserMenu />
         </nav>
       </div>
-    </header>
+    </motion.header>
   )
 }

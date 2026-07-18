@@ -1,4 +1,5 @@
 import { useRef, useState } from 'react'
+import { motion } from 'motion/react'
 import { ChevronLeft, ChevronRight, LayoutGrid } from 'lucide-react'
 
 import { Button } from '~/components/ui/button'
@@ -34,39 +35,53 @@ export function ProductGrid({
 
   return (
     <section id="products" ref={sectionRef} className="mx-auto w-full max-w-6xl scroll-mt-20 px-4 py-8 sm:px-6">
-      <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
-        <div className="flex items-center gap-2">
-          <span className="grid size-8 place-items-center rounded-full bg-brand-primary-soft text-primary">
-            <LayoutGrid className="size-4" aria-hidden />
+      <motion.div
+        initial={{ opacity: 0, y: 12 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, margin: '-60px' }}
+        transition={{ duration: 0.4 }}
+        className="mb-4 flex flex-wrap items-center justify-between gap-3"
+      >
+        <div className="flex items-center gap-2.5">
+          <span className="grid size-9 place-items-center rounded-xl bg-brand-primary-soft text-primary">
+            <LayoutGrid className="size-4.5" aria-hidden />
           </span>
           <div>
-            <h2 className="text-lg font-bold sm:text-xl">Tất cả máy lạnh</h2>
+            <h2 className="font-heading text-xl tracking-wide sm:text-2xl">Tất cả máy lạnh</h2>
             <p className="text-xs text-muted-foreground sm:text-sm">
               {data ? `${data.total.toLocaleString('vi-VN')} sản phẩm chính hãng` : 'Đang tải...'}
             </p>
           </div>
         </div>
-      </div>
+      </motion.div>
 
       <div className="no-scrollbar mb-5 flex gap-2 overflow-x-auto pb-1">
-        <Button
-          size="sm"
-          variant={activeBrand === null ? 'default' : 'outline'}
-          className="shrink-0 rounded-full"
+        <motion.button
+          type="button"
+          whileTap={{ scale: 0.94 }}
           onClick={() => changeBrand(null)}
+          className={
+            activeBrand === null
+              ? 'inline-flex h-8 shrink-0 items-center rounded-full bg-primary px-3.5 text-sm font-medium text-primary-foreground shadow-sm'
+              : 'inline-flex h-8 shrink-0 items-center rounded-full border border-border bg-background px-3.5 text-sm font-medium text-foreground transition-colors hover:bg-muted'
+          }
         >
           Tất cả
-        </Button>
+        </motion.button>
         {brands.map((brand) => (
-          <Button
+          <motion.button
             key={brand}
-            size="sm"
-            variant={activeBrand === brand ? 'default' : 'outline'}
-            className="shrink-0 rounded-full"
+            type="button"
+            whileTap={{ scale: 0.94 }}
             onClick={() => changeBrand(brand)}
+            className={
+              activeBrand === brand
+                ? 'inline-flex h-8 shrink-0 items-center rounded-full bg-primary px-3.5 text-sm font-medium text-primary-foreground shadow-sm'
+                : 'inline-flex h-8 shrink-0 items-center rounded-full border border-border bg-background px-3.5 text-sm font-medium text-foreground transition-colors hover:bg-muted'
+            }
           >
             {brand}
-          </Button>
+          </motion.button>
         ))}
       </div>
 
