@@ -14,8 +14,23 @@ import {
   SensitiveDataFilter,
 } from '@mastra/observability'
 
+const resolveCorsOrigins = (origins: string) =>
+  Array.from(
+    new Set(
+      origins
+        .split(',')
+        .map((origin) => origin.trim())
+        .filter((origin) => origin && origin !== '*')
+        .concat([
+          'http://localhost:5173',
+          'http://localhost:5174',
+          'http://localhost:3000',
+        ]),
+    ),
+  )
+
 const cors = {
-  origin: [...env.CORS_ORIGIN.split(','), 'http://localhost:3000'],
+  origin: resolveCorsOrigins(env.CORS_ORIGIN),
   allowHeaders: [
     'Content-Type',
     'Authorization',

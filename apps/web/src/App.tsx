@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { BrowserRouter, Route, Routes } from 'react-router'
 import { MessageCircleMore } from 'lucide-react'
 
 import {
@@ -36,10 +37,16 @@ import { ResultsPanel } from '~/components/advisor/results-panel'
 import { ProductDetail } from '~/components/advisor/product-detail'
 import { StockCheck } from '~/components/advisor/stock-check'
 import { CompareView } from '~/components/advisor/compare-view'
+import {
+  ForgotPasswordPage,
+  LoginPage,
+  ProtectedRoute,
+  RegisterPage,
+} from './auth'
 
 type View = 'advisor' | 'compare'
 
-function App() {
+function AdvisorApp() {
   const [view, setView] = useState<View>('advisor')
   const [needFields, setNeedFields] = useState<NeedField[]>(initialNeedProfile)
   const [highlightId, setHighlightId] = useState<string | null>(null)
@@ -208,6 +215,21 @@ function ResultsPlaceholder() {
         ))}
       </CardContent>
     </Card>
+  )
+}
+
+function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route element={<ProtectedRoute />}>
+          <Route element={<AdvisorApp />} path="/" />
+        </Route>
+        <Route element={<LoginPage />} path="/login" />
+        <Route element={<RegisterPage />} path="/register" />
+        <Route element={<ForgotPasswordPage />} path="/forgot-password" />
+      </Routes>
+    </BrowserRouter>
   )
 }
 

@@ -5,7 +5,22 @@ import { drizzle } from 'drizzle-orm/neon-http'
 import * as schema from './db/schema'
 import type { AppEnv } from './env'
 
-const mastraStudioOrigin = 'http://localhost:3000'
+const defaultTrustedOrigins = [
+  'http://localhost:5173',
+  'http://localhost:5174',
+  'http://localhost:3000',
+]
+
+const resolveOrigins = (origins: string) =>
+  Array.from(
+    new Set(
+      origins
+        .split(',')
+        .map((origin) => origin.trim())
+        .filter((origin) => origin && origin !== '*')
+        .concat(defaultTrustedOrigins),
+    ),
+  )
 
 export const createAuth = (env: AppEnv) => {
   const client = neon(env.DATABASE_URL)
@@ -15,7 +30,7 @@ export const createAuth = (env: AppEnv) => {
     appName: 'NeoAI',
     baseURL: env.BETTER_AUTH_URL,
     secret: env.BETTER_AUTH_SECRET,
-    trustedOrigins: [...env.CORS_ORIGIN.split(','), mastraStudioOrigin],
+    trustedOrigins: resolveOrigins(env.CORS_ORIGIN),
     database: drizzleAdapter(db, {
       provider: 'pg',
       schema,
