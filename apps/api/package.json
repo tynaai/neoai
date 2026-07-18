@@ -8,6 +8,7 @@
     "build": "mastra build",
     "start": "node --env-file-if-exists=.env .mastra/output/index.mjs",
     "dev": "mastra dev",
+    "test:eval:intent": "node --env-file-if-exists=.env ./node_modules/vitest/vitest.mjs run src/mastra/evals/intent-identifier.test.ts",
     "typecheck": "tsc -b",
     "db:generate": "drizzle-kit generate --config drizzle.config.ts",
     "db:migrate": "drizzle-kit migrate --config drizzle.config.ts"
@@ -30,7 +31,8 @@
     "dotenv": "^17.4.2",
     "drizzle-kit": "^0.31.10",
     "mastra": "^1.19.0",
-    "typescript": "^7.0.2"
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.10"
   },
   "packageManager": "pnpm@10.16.1"
 }
