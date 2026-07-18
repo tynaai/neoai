@@ -1,34 +1,88 @@
+import { chatRoute } from '@mastra/ai-sdk'
+import { MastraAuthBetterAuth } from '@mastra/auth-better-auth'
 import { Mastra } from '@mastra/core/mastra'
+import { registerApiRoute } from '@mastra/core/server'
+import { createAuth } from '../auth'
+import { env } from '../env'
+import { createConversationAgent } from './agents/conversation'
+import { createMastraStorage } from './storage'
 import {
-  MastraPlatformExporter,
   Observability,
+  MastraStorageExporter,
   SensitiveDataFilter,
 } from '@mastra/observability'
-import { env } from 'cloudflare:workers'
-import { conversationAgent } from './agents/conversation'
 
-// TODO: setup observable
+const cors = {
+  origin: [...env.CORS_ORIGIN.split(','), 'http://localhost:3000'],
+  allowHeaders: [
+    'Content-Type',
+    'Authorization',
+    'x-mastra-client-type',
+    'x-mastra-dev-playground',
+  ],
+  allowMethods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
+  exposeHeaders: ['Content-Length', 'X-Requested-With'],
+  credentials: true,
+}
+
+const auth = createAuth(env)
+
 export const mastra = new Mastra({
-  agents: { conversationAgent },
+  agents: { conversationAgent: createConversationAgent() },
+  storage: createMastraStorage(env),
+  server: {
+    apiPrefix: '/api/mastra',
+    auth: new MastraAuthBetterAuth({
+      auth,
+    }),
+    cors,
+    apiRoutes: [
+      registerApiRoute('/api/auth/*', {
+        method: 'ALL',
+        requiresAuth: false,
+        handler: (c) => auth.handler(c.req.raw),
+      }),
+      registerApiRoute('/api/me', {
+        method: 'GET',
+        requiresAuth: false,
+        handler: async (c) => {
+          const session = await auth.api.getSession({
+            headers: c.req.raw.headers,
+          })
+
+          if (!session) {
+            return c.body(null, 401)
+          }
+
+          return c.json({ user: session.user, session: session.session })
+        },
+      }),
+      {
+        ...chatRoute({
+          path: '/api/chat',
+          agent: 'conversation-agent',
+          version: 'v6',
+        }),
+        requiresAuth: false,
+      },
+    ],
+  },
+  studio: {
+    auth: new MastraAuthBetterAuth({
+      auth,
+    }),
+  },
   // Mastra automatically emits spans, metrics, and logs for agent runs. The
   // platform exporter makes those signals available in Mastra Observability,
   // independently of whether they originated from the API or Studio.
-  // observability: new Observability({
-  //   configs: {
-  //     default: {
-  //       serviceName: 'neoai-api',
-  //       // A Worker can be reclaimed as soon as it sends the response. Flush each
-  //       // event immediately instead of relying on the exporter's timer.
-  //       exporters: [
-  //         new MastraPlatformExporter({
-  //           accessToken: env.MASTRA_PLATFORM_ACCESS_TOKEN,
-  //           projectId: env.MASTRA_PROJECT_ID,
-  //           maxBatchSize: 1,
-  //         }),
-  //       ],
-  //       logging: { enabled: true, level: 'info' },
-  //       spanOutputProcessors: [new SensitiveDataFilter()],
-  //     },
-  //   },
-  // }),
+  observability: new Observability({
+    configs: {
+      default: {
+        serviceName: 'neoai-api',
+        exporters: [new MastraStorageExporter()],
+        logging: { enabled: true, level: 'info' },
+        spanOutputProcessors: [new SensitiveDataFilter()],
+      },
+    },
+  }),
 })

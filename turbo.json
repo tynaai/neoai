@@ -11,7 +11,7 @@
     "build": {
       "dependsOn": ["^build"],
       "env": ["CLOUDFLARE_ENV"],
-      "outputs": ["build/**", "dist/**"]
+      "outputs": [".mastra/**", "build/**", "dist/**"]
     },
     "//#quality": {
       "dependsOn": ["//#lint", "//#format"],

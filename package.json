@@ -1,5 +1,5 @@
 {
-  "name": "cf-worker-basic-starter",
+  "name": "neoai",
   "description": "Cloudflare worker basic monorepo starter template with turborepo",
   "keywords": [],
   "license": "MIT",

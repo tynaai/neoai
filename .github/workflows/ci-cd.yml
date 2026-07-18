@@ -48,11 +48,12 @@ jobs:
       - name: Upload build output
         uses: actions/upload-artifact@v4
         with:
-          name: worker-build-${{ github.sha }}
+          name: application-build-${{ github.sha }}
           path: |
-            apps/api/dist
+            apps/api/.mastra/output
             apps/web/dist
           if-no-files-found: error
+          include-hidden-files: true
           retention-days: 7
 
   release-tag:
@@ -74,7 +75,7 @@ jobs:
           fi
 
   deploy-dev:
-    name: Deploy development to Cloudflare
+    name: Deploy development web to Cloudflare
     needs: ci
     if: github.event_name == 'push' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
     runs-on: ubuntu-latest
@@ -100,15 +101,8 @@ jobs:
       - name: Download CI build output
         uses: actions/download-artifact@v4
         with:
-          name: worker-build-${{ github.sha }}
+          name: application-build-${{ github.sha }}
           path: apps
-
-      - name: Deploy API Worker
-        working-directory: apps/api
-        run: pnpm run deploy
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
       - name: Deploy web Worker
         working-directory: apps/web
@@ -118,7 +112,7 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
   deploy-production:
-    name: Deploy production to Cloudflare
+    name: Deploy production web to Cloudflare
     needs:
       - ci
       - release-tag
@@ -146,15 +140,8 @@ jobs:
       - name: Download CI build output
         uses: actions/download-artifact@v4
         with:
-          name: worker-build-${{ github.sha }}
+          name: application-build-${{ github.sha }}
           path: apps
-
-      - name: Deploy API Worker
-        working-directory: apps/api
-        run: pnpm run deploy:production
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
       - name: Deploy web Worker
         working-directory: apps/web
