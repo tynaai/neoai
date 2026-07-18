@@ -3,6 +3,7 @@ import { ChevronDown, LogOut, MapPin, Sparkles } from 'lucide-react'
 import { Badge } from '~/components/ui/badge'
 import { Button } from '~/components/ui/button'
 import { regionContext } from '~/lib/mock-data'
+import { LogoutButton } from '~/auth/logout-button'
 
 export function AdvisorHeader() {
   return (
@@ -17,13 +18,7 @@ export function AdvisorHeader() {
               aria-hidden
             >
               <defs>
-                <linearGradient
-                  id="dmx-blue"
-                  x1="0"
-                  y1="0"
-                  x2="1"
-                  y2="0.35"
-                >
+                <linearGradient id="dmx-blue" x1="0" y1="0" x2="1" y2="0.35">
                   <stop offset="0" stopColor="#2A34C0" />
                   <stop offset="0.5" stopColor="#1B45C6" />
                   <stop offset="1" stopColor="#0062D8" />
@@ -79,6 +74,7 @@ export function AdvisorHeader() {
             <span className="hidden sm:inline">Thoát chế độ</span>
             <span className="sr-only sm:hidden">Thoát chế độ</span>
           </Button>
+          <LogoutButton />
         </nav>
       </div>
     </header>

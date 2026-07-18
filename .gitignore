@@ -12,3 +12,4 @@ dist/
 !.dev.vars.example
 
 .mastra
+.codex/
