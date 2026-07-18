@@ -6,6 +6,7 @@ import { createAuth } from '../auth'
 import { env } from '../env'
 import { runAdvisorPipelineStream } from './advisor/pipeline'
 import { createConversationAgent } from './agents/conversation'
+import { createIntentIdentifierAgent } from './agents/intent-identifier'
 import { conversationClarificationScorer } from './evals/conversation'
 import { createMastraStorage } from './storage'
 import {
@@ -23,6 +24,23 @@ const explicitOrigins = new Set([...allowedOrigins, 'http://localhost:3000'])
 
 const cors = {
   origin: isWildcard ? (origin: string) => origin : (origin: string) => (explicitOrigins.has(origin) ? origin : undefined),
+const resolveCorsOrigins = (origins: string) =>
+  Array.from(
+    new Set(
+      origins
+        .split(',')
+        .map((origin) => origin.trim())
+        .filter((origin) => origin && origin !== '*')
+        .concat([
+          'http://localhost:5173',
+          'http://localhost:5174',
+          'http://localhost:3000',
+        ]),
+    ),
+  )
+
+const cors = {
+  origin: resolveCorsOrigins(env.CORS_ORIGIN),
   allowHeaders: [
     'Content-Type',
     'Authorization',
@@ -37,7 +55,10 @@ const cors = {
 const auth = createAuth(env)
 
 export const mastra = new Mastra({
-  agents: { conversationAgent: createConversationAgent() },
+  agents: {
+    conversationAgent: createConversationAgent(),
+    intentIdentifierAgent: createIntentIdentifierAgent(),
+  },
   // Register for Studio/API dataset experiments only. It is intentionally not
   // attached to the agent, so production chat requests never trigger scoring.
   scorers: { conversationClarification: conversationClarificationScorer },

@@ -1,11 +1,6 @@
 import { Agent } from '@mastra/core/agent'
 import { Memory } from '@mastra/memory'
-
-const conversationModel = {
-  id: 'openai/DeepSeek-V4-Flash',
-  url: process.env.A_OPENAI_BASE_URL,
-  apiKey: process.env.A_OPENAI_API_KEY,
-} as const
+import { conversationModel } from './model'
 
 export const createConversationAgent = () =>
   new Agent({
