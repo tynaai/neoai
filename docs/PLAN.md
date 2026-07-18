@@ -16,6 +16,7 @@
 - Vite 8 + React 19 + TypeScript, deploy qua Cloudflare Workers (Wrangler)
 - Chat UI: Vercel AI SDK (`ai` + `@ai-sdk/react`) + `streamdown` (render markdown streaming, có plugin math/mermaid/code/cjk)
 - Component đã có: `ai-elements/conversation.tsx`, `message.tsx`, `prompt-input.tsx` (chat 1 cột) + UI primitives Radix/shadcn — **CHƯA có component panel phải hiển thị sản phẩm** (layout 2-panel trong SPEC.md chưa build)
+- Animation: **`motion`** (rebrand của framer-motion, đã thêm vào `package.json` của `apps/web`) — dùng cho hiệu ứng card xuất hiện/re-rank ở panel phải (STEP 7) khi `search_filters` đổi. Không thêm icon lib riêng (iconify) hay `react-markdown` riêng — `lucide-react` và `streamdown` đã cover đủ 2 nhu cầu đó, tránh trùng lặp dependency.
 
 **3 công cụ nền tảng nên dùng đúng theo stack thật (thay vì tự viết tay):**
 - **Mastra Workflow**: hỗ trợ sẵn việc tách step deterministic (code thuần) và step agent (gọi LLM) trong cùng 1 workflow — đúng nguyên tắc "tách quyết định khỏi diễn đạt" đã chốt nhiều lần trong SPEC.md. Khuyến nghị chính thức của Mastra: *"start with deterministic code and only introduce an agent at the specific points where human-like reasoning is required."* ([Mastra Docs — Agents and tools](https://mastra.ai/docs/workflows/agents-and-tools))
