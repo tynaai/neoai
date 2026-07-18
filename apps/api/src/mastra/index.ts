@@ -5,6 +5,7 @@ import { registerApiRoute } from '@mastra/core/server'
 import { createAuth } from '../auth'
 import { env } from '../env'
 import { createConversationAgent } from './agents/conversation'
+import { createIntentIdentifierAgent } from './agents/intent-identifier'
 import { conversationClarificationScorer } from './evals/conversation'
 import { createMastraStorage } from './storage'
 import {
@@ -29,7 +30,10 @@ const cors = {
 const auth = createAuth(env)
 
 export const mastra = new Mastra({
-  agents: { conversationAgent: createConversationAgent() },
+  agents: {
+    conversationAgent: createConversationAgent(),
+    intentIdentifierAgent: createIntentIdentifierAgent(),
+  },
   // Register for Studio/API dataset experiments only. It is intentionally not
   // attached to the agent, so production chat requests never trigger scoring.
   scorers: { conversationClarification: conversationClarificationScorer },
