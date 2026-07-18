@@ -25,7 +25,7 @@ import {
 
 function App() {
   const transport = useMemo(
-    () => new DefaultChatTransport({ api: 'http://localhost:8787/api/chat' }),
+    () => new DefaultChatTransport({ api: import.meta.env.API_URL }),
     [],
   )
   const { error, messages, sendMessage, status, stop } = useChat({ transport })
