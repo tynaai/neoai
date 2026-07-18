@@ -1,4 +1,8 @@
 // One-off seed script. Default dry-run; set CONFIRM_SEED=yes to write for real.
+//
+// Processes multiple category sources (each its own markdown file, same frontmatter+section
+// shape) into the shared `products` table + `product_embeddings` vector index. Sources so far
+// differ in coverage, not shape — see per-source notes below.
 
 import 'dotenv/config'
 import { readFileSync } from 'node:fs'
@@ -17,7 +21,27 @@ import { products } from '../src/db/schema'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
-const DATA_FILE = process.argv[2] ?? resolve(__dirname, '../../data/all-products.md')
+interface DataSource {
+  file: string
+  // Used when the file's own frontmatter `category_code` is empty (e.g. airCondition-products.md
+  // has category_code: "" for every product) — arbitrary but must stay distinct per category and
+  // match whatever the advisor pipeline filters on (see TU_LANH_CATEGORY_CODE in retrieval.ts).
+  categoryCodeFallback: string
+  categoryLabel: string // logging only
+}
+
+// A single positional arg still works for ad-hoc one-off files (categoryCodeFallback empty —
+// relies on the file's own frontmatter field in that case).
+const DATA_SOURCES: DataSource[] = process.argv[2]
+  ? [{ file: resolve(process.argv[2]), categoryCodeFallback: '', categoryLabel: 'custom' }]
+  : [
+      { file: resolve(__dirname, '../../data/freezer-products.md'), categoryCodeFallback: '38', categoryLabel: 'Tủ lạnh' },
+      {
+        file: resolve(__dirname, '../../data/airCondition-products.md'),
+        categoryCodeFallback: '2002',
+        categoryLabel: 'Máy lạnh',
+      },
+    ]
 
 const SEPARATOR = '<!-- rag-document-separator -->'
 // Must differ from Drizzle table `products` or index creation fails (no `embedding` column there).
@@ -29,7 +53,9 @@ const DB_INSERT_BATCH_SIZE = 200
 
 const DRY_RUN = process.env.CONFIRM_SEED !== 'yes'
 
-// Raw/bookkeeping fields excluded from embed text (see SPEC.md).
+// Raw/bookkeeping fields excluded from embed text (see SPEC.md). Only present in the tủ lạnh
+// source (freezer-products.md) — airCondition-products.md has no dmx_* bookkeeping fields at
+// all, so this set simply never matches there, which is fine.
 const EXCLUDED_SPEC_KEYS = new Set([
   'model_code',
   'sku',
@@ -102,6 +128,8 @@ function extractEmbeddingFacts(specsSection: string): string[] {
   return out
 }
 
+// Not every source has a "## Khuyến mãi" section (airCondition-products.md doesn't) — returns
+// [] when absent, same as "no promotions data" rather than an error.
 function extractPromotions(block: string): string[] {
   const sectionMatch = block.match(/## Khuyến mãi\n([\s\S]*?)(?:\n## |$)/)
   if (!sectionMatch) return []
@@ -111,7 +139,7 @@ function extractPromotions(block: string): string[] {
     .filter((line): line is string => Boolean(line) && !line.startsWith('**Khuyến mãi'))
 }
 
-function parseProductBlock(block: string): ParsedProduct | null {
+function parseProductBlock(block: string, categoryCodeFallback: string): ParsedProduct | null {
   // Block starts with a comment line before frontmatter, so don't anchor ^.
   const frontmatterMatch = block.match(/---\n([\s\S]*?)\n---/)
   if (!frontmatterMatch) return null
@@ -122,16 +150,20 @@ function parseProductBlock(block: string): ParsedProduct | null {
   if (!id || !title) return null
 
   const brand = extractFrontmatterField(frontmatter, 'brand')
-  const categoryCode = extractFrontmatterField(frontmatter, 'category_code')
+  const categoryCodeRaw = extractFrontmatterField(frontmatter, 'category_code')
+  const categoryCode = categoryCodeRaw && categoryCodeRaw.trim() !== '' ? categoryCodeRaw : (categoryCodeFallback || null)
   const productUrl = extractFrontmatterField(frontmatter, 'product_url')
   const thumbnailUrl = extractFrontmatterField(frontmatter, 'thumbnail_url')
 
+  // Price section is absent entirely in airCondition-products.md — both regexes just won't
+  // match, priceCurrent/priceOriginal stay null rather than fabricated.
   const promoPriceRaw = block.match(/-\s+\*\*Giá khuyến mãi:\*\*\s*([^\n]+)/)?.[1]
   const originalPriceRaw = block.match(/-\s+\*\*Giá gốc:\*\*\s*([^\n]+)/)?.[1]
   const priceOriginal = parseVndPrice(originalPriceRaw)
   // Prefer promo price as current, fallback to original
   const priceCurrent = parseVndPrice(promoPriceRaw) ?? priceOriginal
 
+  // dmx_specs_json is a freezer-products.md-only bonus field — absent in airCondition source.
   const specsJsonRaw = block.match(/-\s+\*\*dmx_specs_json:\*\*\s*(\{.*\})\s*$/m)?.[1]
   let specs: Record<string, unknown> | null = null
   if (specsJsonRaw) {
@@ -166,20 +198,23 @@ function parseProductBlock(block: string): ParsedProduct | null {
   }
 }
 
-function parseAllProducts(filePath: string): ParsedProduct[] {
-  const content = readFileSync(filePath, 'utf-8')
+function parseSource(source: DataSource): { source: DataSource; products: ParsedProduct[] } {
+  const content = readFileSync(source.file, 'utf-8')
   const blocks = content.split(SEPARATOR)
   const parsed: ParsedProduct[] = []
   let skipped = 0
 
   for (const block of blocks) {
-    const product = parseProductBlock(block)
+    const product = parseProductBlock(block, source.categoryCodeFallback)
     if (product) parsed.push(product)
     else if (block.trim()) skipped++
   }
 
-  console.log(`Parsed ${parsed.length} sản phẩm, bỏ qua ${skipped} block không parse được.`)
-  return parsed
+  const withPrice = parsed.filter((p) => p.priceCurrent !== null).length
+  console.log(
+    `[${source.categoryLabel}] ${source.file}\n  parsed ${parsed.length}, bỏ qua ${skipped} block không parse được, ${withPrice}/${parsed.length} có giá.`,
+  )
+  return { source, products: parsed }
 }
 
 function chunk<T>(arr: T[], size: number): T[][] {
@@ -189,17 +224,20 @@ function chunk<T>(arr: T[], size: number): T[][] {
 }
 
 async function main() {
-  console.log(`Đọc dữ liệu từ: ${DATA_FILE}`)
-  const parsedProducts = parseAllProducts(DATA_FILE)
+  const parsedBySource = DATA_SOURCES.map(parseSource)
+  const parsedProducts = parsedBySource.flatMap((s) => s.products)
 
   const withPrice = parsedProducts.filter((p) => p.priceCurrent !== null).length
-  console.log(`Sản phẩm có giá: ${withPrice}/${parsedProducts.length}`)
+  console.log(`\nTổng: ${parsedProducts.length} sản phẩm (${DATA_SOURCES.length} nguồn), ${withPrice} có giá.`)
 
   if (DRY_RUN) {
     console.log('\nDRY RUN (mặc định) — chưa ghi gì vào DB, chưa gọi embedding API.')
     console.log('Set CONFIRM_SEED=yes để chạy thật (sẽ tốn phí OpenAI embedding + ghi vào Neon).')
-    console.log('\nVí dụ sản phẩm đầu tiên đã parse:')
-    console.log(JSON.stringify(parsedProducts[0], null, 2).slice(0, 1500))
+    console.log('\nVí dụ sản phẩm đầu tiên mỗi nguồn:')
+    for (const { source, products: sourceProducts } of parsedBySource) {
+      console.log(`\n--- ${source.categoryLabel} ---`)
+      console.log(JSON.stringify(sourceProducts[0], null, 2).slice(0, 1200))
+    }
     return
   }
 

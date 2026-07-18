@@ -1,10 +1,7 @@
-// One-off seed script for policy docs (bảo hành, giao hàng, điều khoản...).
-// Default dry-run; set CONFIRM_SEED=yes to write for real.
+// One-off seed script for policy docs. Default dry-run; set CONFIRM_SEED=yes to write for real.
 //
-// Unlike products, policy docs have no structured/quantitative fields to filter on
-// (no price/stock/category) — pure RAG, so this only writes to a vector index,
-// no Drizzle table. See SPEC.md Paintpoint 3 Vấn đề nhỏ 6 + Hybrid retrieval note
-// ("RAG chỉ dùng cho... policy/FAQ").
+// Unlike products, policy docs have no structured/quantitative fields to filter on — pure RAG,
+// so this only writes to a vector index, no Drizzle table.
 
 import 'dotenv/config'
 import { readdirSync, readFileSync } from 'node:fs'
