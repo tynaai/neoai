@@ -80,7 +80,12 @@ Chatbot hiện tại của ĐMX cũng là **AI-enabled chứ chưa phải AI-nat
 
 | Họ tên |
 |---|
+| Mai Huy Hoàng|
 | Lê Hữu Khoa |
+| Võ Trọng Tiển|
+| Đỗ Như Trọng |
+| Lâm Tiến Thăng|
+| Đàm Mạnh Dũng|
 
 
 ## 🚀 Quick Start
