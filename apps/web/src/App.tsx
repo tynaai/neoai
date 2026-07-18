@@ -1,109 +1,213 @@
-import { useChat } from '@ai-sdk/react'
-import { DefaultChatTransport } from 'ai'
-import { BotIcon, SparklesIcon } from 'lucide-react'
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
+import { MessageCircleMore } from 'lucide-react'
+
 import {
-  Conversation,
-  ConversationContent,
-  ConversationEmptyState,
-  ConversationScrollButton,
-} from '~/components/ai-elements/conversation'
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from '~/components/ui/card'
 import {
-  Message,
-  MessageContent,
-  MessageResponse,
-} from '~/components/ai-elements/message'
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+} from '~/components/ui/dialog'
+import { Skeleton } from '~/components/ui/skeleton'
 import {
-  PromptInput,
-  PromptInputBody,
-  PromptInputFooter,
-  PromptInputSubmit,
-  PromptInputTextarea,
-  PromptInputTools,
-  type PromptInputMessage,
-} from '~/components/ai-elements/prompt-input'
+  boostPriority,
+  defaultWeights,
+  initialNeedProfile,
+  products,
+  rankProducts,
+  priorityLabels,
+  priorityOrder,
+  type NeedField,
+  type PriorityKey,
+  type Product,
+  type Weights,
+} from '~/lib/mock-data'
+import { AdvisorHeader } from '~/components/advisor/advisor-header'
+import { BriefChipBar } from '~/components/advisor/brief-chip-bar'
+import { AiChatPanel } from '~/components/advisor/ai-chat-panel'
+import { ResultsPanel } from '~/components/advisor/results-panel'
+import { ProductDetail } from '~/components/advisor/product-detail'
+import { StockCheck } from '~/components/advisor/stock-check'
+import { CompareView } from '~/components/advisor/compare-view'
+
+type View = 'advisor' | 'compare'
 
 function App() {
-  const transport = useMemo(
-    () => new DefaultChatTransport({ api: import.meta.env.API_URL }),
-    [],
-  )
-  const { error, messages, sendMessage, status, stop } = useChat({ transport })
+  const [view, setView] = useState<View>('advisor')
+  const [needFields, setNeedFields] = useState<NeedField[]>(initialNeedProfile)
+  const [highlightId, setHighlightId] = useState<string | null>(null)
+  const [resultsRevealed, setResultsRevealed] = useState(false)
+  const [weights, setWeights] = useState<Weights>(defaultWeights)
+  const [order, setOrder] = useState<string[]>(products.map((p) => p.id))
+  const [explain, setExplain] = useState<string | null>(null)
+  const [activePriority, setActivePriority] = useState<PriorityKey | null>(null)
+  const [detailId, setDetailId] = useState<string | null>(null)
+  const [stockId, setStockId] = useState<string | null>(null)
 
-  const handleSubmit = async ({ files, text }: PromptInputMessage) => {
-    if (!text.trim() && files.length === 0) return
+  const ranked = useMemo(() => rankProducts(weights).ranked, [weights])
+  const syncedNeedFields = useMemo(() => {
+    const priorityText = priorityOrder(weights)
+      .map((key) => priorityLabels[key])
+      .join(' > ')
+    return needFields.map((field) =>
+      field.id === 'priority' ? { ...field, value: priorityText } : field,
+    )
+  }, [needFields, weights])
 
-    await sendMessage({ files, text })
+  function handleConfirmNeed(fieldId: string, value: string) {
+    setNeedFields((prev) =>
+      prev.map((f) =>
+        f.id === fieldId ? { ...f, value, confirmed: true } : f,
+      ),
+    )
+    setHighlightId(fieldId)
+    window.setTimeout(() => setHighlightId(null), 1800)
   }
 
+  function handlePriority(key: PriorityKey) {
+    const next = boostPriority(weights, key)
+    const result = rankProducts(next, order)
+    setWeights(next)
+    setOrder(result.ranked.map((s) => s.product.id))
+    setActivePriority(key)
+    if (result.explain) {
+      setExplain(result.explain)
+      window.setTimeout(() => setExplain(null), 5000)
+    }
+  }
+
+  function handleEditNeed(fieldId: string, value: string) {
+    handleConfirmNeed(fieldId, value)
+  }
+
+  const detailProduct = detailId
+    ? (products.find((p) => p.id === detailId) ?? null)
+    : null
+  const hasKids =
+    syncedNeedFields.find((field) => field.id === 'kids')?.value === 'Có'
+  const stockProduct = stockId
+    ? (products.find((p) => p.id === stockId) ?? null)
+    : null
+
   return (
-    <main className="flex min-h-svh bg-muted/30 p-3 sm:p-6">
-      <section className="mx-auto flex min-h-[calc(100svh-1.5rem)] w-full max-w-4xl flex-col overflow-hidden rounded-2xl border bg-background shadow-sm sm:min-h-[calc(100svh-3rem)]">
-        <header className="flex items-center gap-3 border-b px-5 py-4">
-          <div className="flex size-10 items-center justify-center rounded-xl bg-primary text-primary-foreground">
-            <SparklesIcon className="size-5" />
-          </div>
-          <div>
-            <h1 className="font-semibold">NeoAI</h1>
-            <p className="text-sm text-muted-foreground">
-              Mastra memory with Vercel AI Elements
-            </p>
-          </div>
-        </header>
-
-        <Conversation>
-          <ConversationContent className="mx-auto w-full max-w-3xl px-5 py-8">
-            {messages.length === 0 ? (
-              <ConversationEmptyState
-                description="Ask a question to start a memory-backed conversation."
-                icon={<BotIcon className="size-8" />}
-                title="How can I help?"
+    <div className="flex min-h-svh flex-col bg-muted/40">
+      <AdvisorHeader />
+      <main className="flex-1">
+        {view === 'advisor' ? (
+          <div className="grid w-full gap-0 lg:grid-cols-[440px_minmax(0,1fr)] xl:grid-cols-[500px_minmax(0,1fr)] 2xl:grid-cols-[540px_minmax(0,1fr)]">
+            <div className="h-[560px] border-b bg-card lg:sticky lg:top-16 lg:h-[calc(100svh-64px)] lg:self-start lg:border-r lg:border-b-0">
+              <AiChatPanel
+                needFields={syncedNeedFields}
+                ranked={ranked}
+                onConfirmNeed={handleConfirmNeed}
+                onRevealResults={() => setResultsRevealed(true)}
+                onOpenCompare={() => setView('compare')}
+                resultsRevealed={resultsRevealed}
               />
-            ) : (
-              messages.map((message) => (
-                <Message from={message.role} key={message.id}>
-                  <MessageContent>
-                    {message.parts.map((part, index) => {
-                      if (part.type !== 'text') return null
-
-                      return (
-                        <MessageResponse key={`${message.id}-${index}`}>
-                          {part.text}
-                        </MessageResponse>
-                      )
-                    })}
-                  </MessageContent>
-                </Message>
-              ))
-            )}
-          </ConversationContent>
-          <ConversationScrollButton />
-        </Conversation>
-
-        <div className="border-t bg-background p-4 sm:p-5">
-          <div className="mx-auto w-full max-w-3xl">
-            {error && (
-              <p className="mb-3 text-sm text-destructive" role="alert">
-                {error.message}
-              </p>
-            )}
-            <PromptInput onSubmit={handleSubmit}>
-              <PromptInputBody>
-                <PromptInputTextarea placeholder="Message NeoAI…" />
-              </PromptInputBody>
-              <PromptInputFooter>
-                <PromptInputTools>
-                  <span className="px-2 text-xs text-muted-foreground">
-                    Enter to send · Shift+Enter for a new line
-                  </span>
-                </PromptInputTools>
-                <PromptInputSubmit onStop={stop} status={status} />
-              </PromptInputFooter>
-            </PromptInput>
+            </div>
+            <div className="flex min-w-0 flex-col gap-5 px-3 py-4 sm:px-5 lg:px-6 lg:py-6">
+              <Card className="sticky top-16 z-20 gap-0 border-primary/15 bg-card/95 py-0 shadow-sm backdrop-blur">
+                <CardContent className="px-4 py-3 sm:px-5">
+                  <BriefChipBar
+                    fields={syncedNeedFields}
+                    highlightId={highlightId}
+                    onEdit={handleEditNeed}
+                  />
+                </CardContent>
+              </Card>
+              {resultsRevealed ? (
+                <ResultsPanel
+                  ranked={ranked}
+                  weights={weights}
+                  explain={explain}
+                  activePriority={activePriority}
+                  onRefine={handlePriority}
+                  onViewDetail={setDetailId}
+                  onCheckStock={setStockId}
+                  onOpenCompare={() => setView('compare')}
+                />
+              ) : (
+                <ResultsPlaceholder />
+              )}
+            </div>
           </div>
-        </div>
-      </section>
-    </main>
+        ) : (
+          <CompareView onBack={() => setView('advisor')} hasKids={hasKids} />
+        )}
+      </main>
+      <ProductDetail
+        product={detailProduct}
+        open={Boolean(detailProduct)}
+        onOpenChange={(open) => !open && setDetailId(null)}
+      />
+      <StockCheckOverlay
+        product={stockProduct}
+        open={Boolean(stockProduct)}
+        onOpenChange={(open) => !open && setStockId(null)}
+      />
+    </div>
+  )
+}
+
+function StockCheckOverlay({
+  product,
+  open,
+  onOpenChange,
+}: {
+  product: Product | null
+  open: boolean
+  onOpenChange: (open: boolean) => void
+}) {
+  return (
+    <Dialog open={open} onOpenChange={onOpenChange}>
+      <DialogContent className="max-h-[85svh] overflow-y-auto sm:max-w-lg">
+        <DialogHeader className="pr-8">
+          <DialogTitle>Kiểm tra tồn kho</DialogTitle>
+          <DialogDescription>
+            {product?.name ?? 'Sản phẩm đã chọn'}
+          </DialogDescription>
+        </DialogHeader>
+        {product ? <StockCheck product={product} /> : null}
+      </DialogContent>
+    </Dialog>
+  )
+}
+
+function ResultsPlaceholder() {
+  return (
+    <Card className="min-h-[420px] flex-1 justify-center border-dashed bg-card/70 text-center shadow-none">
+      <CardHeader className="items-center">
+        <span className="grid size-14 place-items-center rounded-full bg-brand-primary-soft text-primary">
+          <MessageCircleMore className="size-6" aria-hidden />
+        </span>
+        <CardTitle className="text-base">
+          Đang hoàn thiện hồ sơ nhu cầu
+        </CardTitle>
+        <CardDescription className="max-w-md">
+          Trả lời vài câu hỏi trong khung tư vấn để nhận top 3 sản phẩm phù hợp
+          nhất.
+        </CardDescription>
+      </CardHeader>
+      <CardContent className="mx-auto grid w-full max-w-2xl gap-3 sm:grid-cols-3">
+        {[1, 2, 3].map((item) => (
+          <div
+            key={item}
+            className="space-y-3 rounded-xl border bg-background p-3 text-left"
+          >
+            <Skeleton className="aspect-[4/3] w-full" />
+            <Skeleton className="h-4 w-4/5" />
+            <Skeleton className="h-3 w-2/3" />
+          </div>
+        ))}
+      </CardContent>
+    </Card>
   )
 }
 

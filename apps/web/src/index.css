@@ -39,6 +39,15 @@
   --color-card: var(--card);
   --color-foreground: var(--foreground);
   --color-background: var(--background);
+  --color-brand-primary: var(--brand-primary);
+  --color-brand-primary-foreground: var(--brand-primary-foreground);
+  --color-brand-primary-soft: var(--brand-primary-soft);
+  --color-brand-accent: var(--brand-accent);
+  --color-brand-accent-foreground: var(--brand-accent-foreground);
+  --color-brand-success: var(--brand-success);
+  --color-brand-success-soft: var(--brand-success-soft);
+  --color-brand-warning: var(--brand-warning);
+  --color-brand-warning-soft: var(--brand-warning-soft);
   --radius-sm: calc(var(--radius) * 0.6);
   --radius-md: calc(var(--radius) * 0.8);
   --radius-lg: var(--radius);
@@ -55,14 +64,14 @@
   --card-foreground: oklch(0.145 0 0);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.145 0 0);
-  --primary: oklch(0.205 0 0);
-  --primary-foreground: oklch(0.985 0 0);
+  --primary: var(--brand-primary);
+  --primary-foreground: var(--brand-primary-foreground);
   --secondary: oklch(0.97 0 0);
   --secondary-foreground: oklch(0.205 0 0);
   --muted: oklch(0.97 0 0);
   --muted-foreground: oklch(0.556 0 0);
-  --accent: oklch(0.97 0 0);
-  --accent-foreground: oklch(0.205 0 0);
+  --accent: var(--brand-accent);
+  --accent-foreground: var(--brand-accent-foreground);
   --destructive: oklch(0.577 0.245 27.325);
   --border: oklch(0.922 0 0);
   --input: oklch(0.922 0 0);
@@ -81,6 +90,17 @@
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
+
+  /* Điện Máy Xanh semantic brand palette */
+  --brand-primary: oklch(0.48 0.14 258);
+  --brand-primary-foreground: oklch(0.99 0.01 258);
+  --brand-primary-soft: oklch(0.955 0.02 258);
+  --brand-accent: oklch(0.88 0.17 95);
+  --brand-accent-foreground: oklch(0.28 0.07 75);
+  --brand-success: oklch(0.62 0.16 155);
+  --brand-success-soft: oklch(0.96 0.04 155);
+  --brand-warning: oklch(0.72 0.15 65);
+  --brand-warning-soft: oklch(0.96 0.05 75);
 }
 
 .dark {
@@ -90,14 +110,14 @@
   --card-foreground: oklch(0.985 0 0);
   --popover: oklch(0.205 0 0);
   --popover-foreground: oklch(0.985 0 0);
-  --primary: oklch(0.922 0 0);
-  --primary-foreground: oklch(0.205 0 0);
+  --primary: var(--brand-primary);
+  --primary-foreground: var(--brand-primary-foreground);
   --secondary: oklch(0.269 0 0);
   --secondary-foreground: oklch(0.985 0 0);
   --muted: oklch(0.269 0 0);
   --muted-foreground: oklch(0.708 0 0);
-  --accent: oklch(0.269 0 0);
-  --accent-foreground: oklch(0.985 0 0);
+  --accent: var(--brand-accent);
+  --accent-foreground: var(--brand-accent-foreground);
   --destructive: oklch(0.704 0.191 22.216);
   --border: oklch(1 0 0 / 10%);
   --input: oklch(1 0 0 / 15%);
@@ -123,6 +143,22 @@
   }
   body {
     @apply min-h-svh bg-background text-foreground;
+    min-width: 320px;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+  }
+  ::selection {
+    background: color-mix(in oklch, var(--brand-primary) 18%, transparent);
+  }
+  .chat-scroll {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(148 163 184 / 55%) transparent;
+  }
+  .chat-scroll::-webkit-scrollbar {
+    width: 5px;
+  }
+  .chat-scroll::-webkit-scrollbar-thumb {
+    border-radius: 999px;
+    background: rgb(148 163 184 / 55%);
   }
   button:not(:disabled),
   [role='button']:not(:disabled) {
@@ -130,5 +166,17 @@
   }
   html {
     @apply font-sans;
+  }
+  /* Respect reduced-motion globally: neutralize entrance/transition motion
+     (the FLIP + count-up JS hooks check this media query independently). */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
   }
 }
