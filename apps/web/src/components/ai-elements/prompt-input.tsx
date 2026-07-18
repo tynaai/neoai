@@ -911,13 +911,11 @@ export const PromptInput = ({
         title="Upload files"
         type="file"
       />
-      <form
-        className={cn('w-full', className)}
-        onSubmit={handleSubmit}
-        ref={formRef}
-        {...props}
-      >
-        <InputGroup className="overflow-hidden">{children}</InputGroup>
+      <form className="w-full" onSubmit={handleSubmit} ref={formRef} {...props}>
+        {/* `className` on PromptInput used to land on this invisible `<form>` wrapper — the
+        actual visible box is InputGroup. Forward it there instead so callers can style the
+        real input chrome (border/radius/shadow/focus ring). */}
+        <InputGroup className={cn('overflow-hidden', className)}>{children}</InputGroup>
       </form>
     </>
   )
@@ -938,12 +936,12 @@ export const PromptInput = ({
 
 export type PromptInputBodyProps = HTMLAttributes<HTMLDivElement>
 
-export const PromptInputBody = ({
-  className,
-  ...props
-}: PromptInputBodyProps) => (
-  <div className={cn('contents', className)} {...props} />
-)
+// A real DOM node here (even `display:contents`) breaks the parent InputGroup's
+// `has-[>textarea]:h-auto` rule — `:has()` matches actual DOM children, unaffected by
+// `display:contents`, so the textarea stops being a *direct* child and InputGroup gets stuck
+// at its fixed `h-8`, clipping any multi-line textarea. A Fragment adds no DOM node at all, so
+// the textarea stays a direct child and the auto-height rule applies as designed.
+export const PromptInputBody = ({ children }: PromptInputBodyProps) => <>{children}</>
 
 export type PromptInputTextareaProps = ComponentProps<typeof InputGroupTextarea>
 

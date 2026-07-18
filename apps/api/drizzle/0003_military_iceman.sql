@@ -1,0 +1,1 @@
+ALTER TABLE "conversation_state" ADD COLUMN "last_shown_ids" text[] DEFAULT ARRAY[]::text[] NOT NULL;
