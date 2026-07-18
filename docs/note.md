@@ -67,3 +67,15 @@
 2. Đo & log thời gian phản hồi thật, đối chiếu với mốc <3s/<5s đã tự đặt trong SPEC.md — hiện đang là "lời hứa" chưa có số liệu chứng minh.
 3. Thêm slot hỏi trả góp (nhanh, tận dụng schema SPIN có sẵn).
 4. Cân nhắc thêm 1 ngành hàng thứ 2 có giá thật (vd điện thoại) nếu còn thời gian — chứng minh kiến trúc generalize được thật, không chỉ nói suông.
+
+
+## Đổi font: Anta/Genos → Chakra Petch/Be Vietnam Pro
+
+**Lý do**: bị báo là "lỗi". Kiểm tra kỹ thì build/deploy local không lỗi (font file lên đúng, @font-face render đúng trong test cô lập) — nhưng nguyên nhân gốc rễ nhiều khả năng nhất là **Anta không có bảng chữ tiếng Việt** (chỉ có latin/latin-ext/math/symbols, xác nhận qua metadata @fontsource) — toàn bộ dấu tiếng Việt phải fallback sang font khác giữa chữ, nhìn không đồng nhất/"gãy". Site live (`neoai.tynaai.tech`) tại thời điểm kiểm tra còn đang chạy bản build cũ hơn (chưa deploy đợt đổi font này), nên không loại trừ một phần là do đang xem bản chưa cập nhật.
+
+**Đã research + so sánh trực quan** (screenshot) các lựa chọn thay thế, ưu tiên tiêu chí: có sẵn tiếng Việt native + nhiều weight thật (không phải giả lập):
+- Loại: Rajdhani (không có subset vietnamese), Orbitron (chỉ latin), Sora (chỉ latin/latin-ext, không có vietnamese).
+- Chọn **Chakra Petch** thay Anta — cùng phong cách vuông vức/kỹ thuật, có sẵn subset `vietnamese`, 5 weight thật (300-700).
+- Chọn **Be Vietnam Pro** thay Genos — font thiết kế riêng cho tiếng Việt (tên đã nói lên điều đó), nét tròn dễ đọc gần giống Genos, subset vietnamese đầy đủ, weight 100-900.
+
+Đã đổi trong `apps/web/src/index.css` (`--font-heading`, `--font-sans`) + `package.json`/`pnpm-lock.yaml`. Verify: `getComputedStyle` xác nhận đúng font áp dụng, không có request nào fail khi tải font, screenshot cho thấy dấu tiếng Việt hiển thị liền mạch không lệch font giữa chữ.

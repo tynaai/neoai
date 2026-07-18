@@ -1,5 +1,5 @@
 # NEOAI
-- version: 2.0
+- version: 1.0
 > Trợ lý AI ví như 1 bạn sale so sánh và tư vấn sản phẩm theo nhu cầu thật của khách hàng
 
 ##  context

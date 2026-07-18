@@ -1,15 +1,18 @@
 import { useState } from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router'
+import { motion } from 'motion/react'
 import { Sparkles } from 'lucide-react'
 
 import { AdvisorHeader } from '~/components/advisor/advisor-header'
+import { BoothShowcase } from '~/components/storefront/booth-showcase'
 import { ChatSidebar } from '~/components/storefront/chat-sidebar'
 import { Hero } from '~/components/storefront/hero'
 import { ProductCarousel } from '~/components/storefront/product-carousel'
 import { ProductGrid } from '~/components/storefront/product-grid'
+import { PromoCarousel } from '~/components/storefront/promo-carousel'
 import type { StoreProduct } from '~/lib/products-api'
 import { useProducts } from '~/lib/use-products'
-import { ForgotPasswordPage, LoginPage, ProtectedRoute, RegisterPage } from './auth'
+import { ForgotPasswordPage, LoginPage, RegisterPage } from './auth'
 
 const MAX_COMPARE_ITEMS = 4
 
@@ -41,7 +44,9 @@ function StorefrontHome() {
     <div className="flex min-h-svh flex-col bg-muted/40">
       <AdvisorHeader onOpenChat={() => setChatOpen(true)} />
       <main className="flex-1">
-        <Hero onOpenChat={() => setChatOpen(true)} featuredProduct={featured?.items[0]} />
+        <Hero onOpenChat={() => setChatOpen(true)} />
+        <PromoCarousel />
+        <BoothShowcase />
         <ProductCarousel
           products={featured?.items ?? []}
           loading={featuredLoading}
@@ -51,15 +56,21 @@ function StorefrontHome() {
         <ProductGrid compareIds={compareIds} onToggleCompare={toggleCompare} />
       </main>
 
-      <button
+      <motion.button
         type="button"
         onClick={() => setChatOpen(true)}
         aria-label="Mở trợ lý AI tư vấn máy lạnh"
-        className="fixed right-5 bottom-5 z-40 flex items-center gap-2 rounded-full bg-primary px-4 py-3 text-primary-foreground shadow-lg transition-transform hover:scale-105 hover:bg-primary/90 sm:right-6 sm:bottom-6"
+        initial={{ opacity: 0, scale: 0.6 }}
+        animate={{ opacity: 1, scale: 1 }}
+        transition={{ type: 'spring', stiffness: 260, damping: 18, delay: 0.6 }}
+        whileHover={{ scale: 1.06 }}
+        whileTap={{ scale: 0.94 }}
+        className="fixed right-5 bottom-5 z-40 flex items-center gap-2 rounded-full bg-primary px-4 py-3 text-primary-foreground shadow-lg shadow-primary/30 hover:bg-primary/90 sm:right-6 sm:bottom-6"
       >
+        <span className="absolute inset-0 -z-10 animate-ping rounded-full bg-primary/40" style={{ animationDuration: '2.4s' }} />
         <Sparkles className="size-5" aria-hidden />
         <span className="hidden text-sm font-semibold sm:inline">Tư vấn AI</span>
-      </button>
+      </motion.button>
 
       <ChatSidebar
         open={chatOpen}
@@ -76,9 +87,8 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route element={<ProtectedRoute />}>
-          <Route element={<StorefrontHome />} path="/" />
-        </Route>
+        {/* Landing page is public — chat/products/compare all hit unauthenticated API routes. */}
+        <Route element={<StorefrontHome />} path="/" />
         <Route element={<LoginPage />} path="/login" />
         <Route element={<RegisterPage />} path="/register" />
         <Route element={<ForgotPasswordPage />} path="/forgot-password" />

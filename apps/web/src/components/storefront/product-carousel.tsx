@@ -1,4 +1,5 @@
 import { useRef } from 'react'
+import { motion } from 'motion/react'
 import { ChevronLeft, ChevronRight, Sparkles } from 'lucide-react'
 
 import { Button } from '~/components/ui/button'
@@ -30,13 +31,19 @@ export function ProductCarousel({
 
   return (
     <section className="mx-auto w-full max-w-6xl px-4 py-8 sm:px-6">
-      <div className="mb-4 flex items-center justify-between gap-3">
-        <div className="flex items-center gap-2">
-          <span className="grid size-8 place-items-center rounded-full bg-brand-primary-soft text-primary">
-            <Sparkles className="size-4" aria-hidden />
+      <motion.div
+        initial={{ opacity: 0, y: 12 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, margin: '-60px' }}
+        transition={{ duration: 0.4 }}
+        className="mb-4 flex items-center justify-between gap-3"
+      >
+        <div className="flex items-center gap-2.5">
+          <span className="grid size-9 place-items-center rounded-xl bg-gradient-to-br from-brand-accent to-brand-accent/60 text-brand-accent-foreground shadow-sm">
+            <Sparkles className="size-4.5" aria-hidden />
           </span>
           <div>
-            <h2 className="text-lg font-bold sm:text-xl">Máy lạnh nổi bật</h2>
+            <h2 className="font-heading text-xl tracking-wide sm:text-2xl">Máy lạnh nổi bật</h2>
             <p className="text-xs text-muted-foreground sm:text-sm">Gợi ý cho bạn từ catalog Điện Máy Xanh</p>
           </div>
         </div>
@@ -44,16 +51,23 @@ export function ProductCarousel({
           <Button
             variant="outline"
             size="icon"
+            className="rounded-full"
             aria-label="Xem sản phẩm trước"
             onClick={() => scrollByCards(-1)}
           >
             <ChevronLeft />
           </Button>
-          <Button variant="outline" size="icon" aria-label="Xem sản phẩm tiếp theo" onClick={() => scrollByCards(1)}>
+          <Button
+            variant="outline"
+            size="icon"
+            className="rounded-full"
+            aria-label="Xem sản phẩm tiếp theo"
+            onClick={() => scrollByCards(1)}
+          >
             <ChevronRight />
           </Button>
         </div>
-      </div>
+      </motion.div>
 
       <div
         ref={scrollerRef}
