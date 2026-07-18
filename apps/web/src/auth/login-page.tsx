@@ -15,6 +15,20 @@ import {
   validatePassword,
 } from './auth-validation'
 
+const waitForSession = async () => {
+  for (let attempt = 0; attempt < 4; attempt += 1) {
+    const { data: session } = await authClient.getSession()
+
+    if (session?.user && session?.session) {
+      return true
+    }
+
+    await new Promise((resolve) => window.setTimeout(resolve, 150))
+  }
+
+  return false
+}
+
 export function LoginPage() {
   const location = useLocation()
   const navigate = useNavigate()
@@ -59,6 +73,15 @@ export function LoginPage() {
 
     if (signInError) {
       setError(getAuthErrorMessage(signInError))
+      return
+    }
+
+    const hasSession = await waitForSession()
+
+    if (!hasSession) {
+      setError(
+        'Đăng nhập thành công nhưng phiên đăng nhập chưa sẵn sàng. Vui lòng thử lại sau vài giây.',
+      )
       return
     }
 

@@ -15,10 +15,7 @@ export function LogoutButton() {
     setIsSigningOut(true)
 
     try {
-      await Promise.race([
-        authClient.signOut(),
-        new Promise((resolve) => window.setTimeout(resolve, 2500)),
-      ])
+      await authClient.signOut()
     } catch {
       // Still leave the protected app even if the network request fails.
     } finally {
