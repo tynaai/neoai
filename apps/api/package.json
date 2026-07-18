@@ -10,9 +10,11 @@
     "dev": "mastra dev",
     "typecheck": "tsc -b",
     "db:generate": "drizzle-kit generate --config drizzle.config.ts",
-    "db:migrate": "drizzle-kit migrate --config drizzle.config.ts"
+    "db:migrate": "drizzle-kit migrate --config drizzle.config.ts",
+    "seed:products": "bun run scripts/all-products.ts"
   },
   "dependencies": {
+    "ai": "^7.0.31",
     "@better-auth/drizzle-adapter": "^1.6.23",
     "@mastra/ai-sdk": "^1.6.2",
     "@mastra/auth-better-auth": "^1.1.1",
@@ -20,6 +22,7 @@
     "@mastra/memory": "^1.23.0",
     "@mastra/observability": "^1.16.1",
     "@mastra/pg": "^1.16.0",
+    "@mastra/rag": "^2.4.1",
     "@neondatabase/serverless": "^1.1.0",
     "better-auth": "^1.6.23",
     "drizzle-orm": "^0.45.2",
