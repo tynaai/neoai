@@ -1,28 +1,73 @@
 import { useState } from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router'
+import { Sparkles } from 'lucide-react'
 
 import { AdvisorHeader } from '~/components/advisor/advisor-header'
-import { RealChatPanel } from '~/components/advisor/real-chat-panel'
-import { RealResultsPanel } from '~/components/advisor/real-results-panel'
-import type { AdvisorResponse } from '~/lib/advisor-api'
+import { ChatSidebar } from '~/components/storefront/chat-sidebar'
+import { Hero } from '~/components/storefront/hero'
+import { ProductCarousel } from '~/components/storefront/product-carousel'
+import { ProductGrid } from '~/components/storefront/product-grid'
+import type { StoreProduct } from '~/lib/products-api'
+import { useProducts } from '~/lib/use-products'
 import { ForgotPasswordPage, LoginPage, ProtectedRoute, RegisterPage } from './auth'
 
-function AdvisorApp() {
-  const [response, setResponse] = useState<AdvisorResponse | null>(null)
+const MAX_COMPARE_ITEMS = 4
+
+function StorefrontHome() {
+  const [chatOpen, setChatOpen] = useState(false)
+  const [compareItems, setCompareItems] = useState<StoreProduct[]>([])
+  // Shared "featured" fetch (page 1, 10 items) — both the hero image and the carousel read
+  // from it so we don't fire two near-identical requests on first paint.
+  const { data: featured, loading: featuredLoading } = useProducts({ page: 1, pageSize: 10 })
+
+  const compareIds = compareItems.map((p) => p.id)
+
+  // Tagging a product opens the chat sidebar so the tag is immediately visible; untagging
+  // doesn't (the user is on the grid dismissing it, not asking to see chat).
+  const toggleCompare = (product: StoreProduct) => {
+    if (compareIds.includes(product.id)) {
+      setCompareItems((prev) => prev.filter((p) => p.id !== product.id))
+      return
+    }
+    if (compareItems.length >= MAX_COMPARE_ITEMS) return
+    setCompareItems((prev) => [...prev, product])
+    setChatOpen(true)
+  }
+
+  const removeCompareItem = (id: string) => setCompareItems((prev) => prev.filter((p) => p.id !== id))
+  const clearCompare = () => setCompareItems([])
 
   return (
     <div className="flex min-h-svh flex-col bg-muted/40">
-      <AdvisorHeader />
+      <AdvisorHeader onOpenChat={() => setChatOpen(true)} />
       <main className="flex-1">
-        <div className="grid w-full gap-0 lg:grid-cols-[440px_minmax(0,1fr)] xl:grid-cols-[500px_minmax(0,1fr)] 2xl:grid-cols-[540px_minmax(0,1fr)]">
-          <div className="h-[560px] border-b bg-card lg:sticky lg:top-16 lg:h-[calc(100svh-64px)] lg:self-start lg:border-r lg:border-b-0">
-            <RealChatPanel onResponse={setResponse} />
-          </div>
-          <div className="flex min-w-0 flex-col gap-5 px-3 py-4 sm:px-5 lg:px-6 lg:py-6">
-            <RealResultsPanel response={response} />
-          </div>
-        </div>
+        <Hero onOpenChat={() => setChatOpen(true)} featuredProduct={featured?.items[0]} />
+        <ProductCarousel
+          products={featured?.items ?? []}
+          loading={featuredLoading}
+          compareIds={compareIds}
+          onToggleCompare={toggleCompare}
+        />
+        <ProductGrid compareIds={compareIds} onToggleCompare={toggleCompare} />
       </main>
+
+      <button
+        type="button"
+        onClick={() => setChatOpen(true)}
+        aria-label="Mở trợ lý AI tư vấn máy lạnh"
+        className="fixed right-5 bottom-5 z-40 flex items-center gap-2 rounded-full bg-primary px-4 py-3 text-primary-foreground shadow-lg transition-transform hover:scale-105 hover:bg-primary/90 sm:right-6 sm:bottom-6"
+      >
+        <Sparkles className="size-5" aria-hidden />
+        <span className="hidden text-sm font-semibold sm:inline">Tư vấn AI</span>
+      </button>
+
+      <ChatSidebar
+        open={chatOpen}
+        onOpenChange={setChatOpen}
+        compareItems={compareItems}
+        onRemoveCompareItem={removeCompareItem}
+        onClearCompare={clearCompare}
+      />
     </div>
   )
 }
@@ -32,7 +77,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route element={<ProtectedRoute />}>
-          <Route element={<AdvisorApp />} path="/" />
+          <Route element={<StorefrontHome />} path="/" />
         </Route>
         <Route element={<LoginPage />} path="/login" />
         <Route element={<RegisterPage />} path="/register" />

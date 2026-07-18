@@ -8,6 +8,8 @@ import { runAdvisorPipelineStream } from './advisor/pipeline'
 import { createConversationAgent } from './agents/conversation'
 import { createIntentIdentifierAgent } from './agents/intent-identifier'
 import { conversationClarificationScorer } from './evals/conversation'
+import { fetchProductsByIds, streamCompareReply } from './products/compare'
+import { listProductBrands, listProducts, MAY_LANH_CATEGORY_CODE } from './products/list'
 import { createMastraStorage } from './storage'
 import {
   Observability,
@@ -83,6 +85,29 @@ export const mastra = new Mastra({
           return c.json({ user: session.user, session: session.session })
         },
       }),
+      // Plain paginated catalog listing for the storefront grid — defaults to máy lạnh.
+      registerApiRoute('/api/products', {
+        method: 'GET',
+        requiresAuth: false,
+        handler: async (c) => {
+          const result = await listProducts({
+            categoryCode: c.req.query('category') ?? MAY_LANH_CATEGORY_CODE,
+            page: Number(c.req.query('page') ?? '1'),
+            pageSize: Number(c.req.query('pageSize') ?? '24'),
+            brand: c.req.query('brand'),
+            search: c.req.query('search'),
+          })
+          return c.json(result)
+        },
+      }),
+      registerApiRoute('/api/products/brands', {
+        method: 'GET',
+        requiresAuth: false,
+        handler: async (c) => {
+          const brands = await listProductBrands(c.req.query('category') ?? MAY_LANH_CATEGORY_CODE)
+          return c.json({ brands })
+        },
+      }),
       {
         ...chatRoute({
           path: '/api/chat',
@@ -114,6 +139,53 @@ export const mastra = new Mastra({
           const stream = new ReadableStream<Uint8Array>({
             async start(controller) {
               controller.enqueue(line({ type: 'meta', ...meta }))
+              try {
+                for await (const delta of textStream) {
+                  controller.enqueue(line({ type: 'text-delta', delta }))
+                }
+                controller.enqueue(line({ type: 'done' }))
+              } catch (err) {
+                controller.enqueue(line({ type: 'error', message: err instanceof Error ? err.message : String(err) }))
+              } finally {
+                controller.close()
+              }
+            },
+          })
+
+          return c.body(stream, 200, {
+            'Content-Type': 'application/x-ndjson; charset=utf-8',
+            'Cache-Control': 'no-cache',
+            'X-Content-Type-Options': 'nosniff',
+          })
+        },
+      }),
+      // Single-shot "ask/compare about these specific product ids" — fetch-by-id + 1 LLM call,
+      // no retrieval/scoring. Same NDJSON shape as /api/advisor/chat (meta, text-delta*, done).
+      registerApiRoute('/api/products/compare', {
+        method: 'POST',
+        requiresAuth: false,
+        handler: async (c) => {
+          const body = await c.req.json<{ productIds?: string[]; message?: string }>()
+          const productIds = Array.isArray(body.productIds)
+            ? body.productIds.filter((id): id is string => typeof id === 'string')
+            : []
+          if (productIds.length === 0) {
+            return c.json({ error: 'Cần ít nhất 1 productId để so sánh/hỏi' }, 400)
+          }
+
+          const compareProducts = await fetchProductsByIds(productIds)
+          if (compareProducts.length === 0) {
+            return c.json({ error: 'Không tìm thấy sản phẩm nào khớp productIds' }, 404)
+          }
+
+          const textStream = await streamCompareReply(compareProducts, body.message ?? '')
+
+          const encoder = new TextEncoder()
+          const line = (obj: unknown) => encoder.encode(`${JSON.stringify(obj)}\n`)
+
+          const stream = new ReadableStream<Uint8Array>({
+            async start(controller) {
+              controller.enqueue(line({ type: 'meta', products: compareProducts }))
               try {
                 for await (const delta of textStream) {
                   controller.enqueue(line({ type: 'text-delta', delta }))
