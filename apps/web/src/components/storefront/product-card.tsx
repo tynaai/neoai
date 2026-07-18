@@ -1,23 +1,22 @@
 import { useState } from 'react'
 import { motion } from 'motion/react'
-import { ExternalLink, ImageOff } from 'lucide-react'
+import { ExternalLink, GitCompareArrows, ImageOff } from 'lucide-react'
 
 import { Badge } from '~/components/ui/badge'
+import { Button } from '~/components/ui/button'
 import { Card, CardContent, CardFooter } from '~/components/ui/card'
 import { cn, formatVnd } from '~/lib/utils'
-import { ROLE_BADGE, type AdvisorProduct } from '~/lib/advisor-api'
-import { DynamicIcon } from './icon'
+import type { StoreProduct } from '~/lib/products-api'
 
-const ROLE_BADGE_VARIANT = {
-  best_fit: 'brand',
-  cheapest_above_threshold: 'success',
-  model_choice: 'warning',
-} as const
-
-const IMAGE_ASPECT = 'aspect-square'
-
-export function RealProductCard({ product }: { product: AdvisorProduct }) {
-  const badge = ROLE_BADGE[product.role]
+export function StorefrontProductCard({
+  product,
+  isComparing = false,
+  onToggleCompare,
+}: {
+  product: StoreProduct
+  isComparing?: boolean
+  onToggleCompare?: (product: StoreProduct) => void
+}) {
   const [imgFailed, setImgFailed] = useState(false)
   const showImage = product.thumbnailUrl && !imgFailed
 
@@ -26,31 +25,18 @@ export function RealProductCard({ product }: { product: AdvisorProduct }) {
       ? Math.round((1 - product.priceCurrent / product.priceOriginal) * 100)
       : null
 
-  const chips = [
-    product.facts.capacityLiters !== null ? `${product.facts.capacityLiters}L` : null,
-    product.facts.householdSize !== null ? `${product.facts.householdSize} người` : null,
-    product.facts.powerKwhYear !== null ? `${product.facts.powerKwhYear} kWh/năm` : null,
-    product.facts.isInverter ? 'Inverter' : null,
-  ].filter((c): c is string => c !== null)
-
   return (
     <motion.div
       layout
-      layoutId={product.id}
-      initial={{ opacity: 0, y: 16, scale: 0.97 }}
-      animate={{ opacity: 1, y: 0, scale: 1 }}
-      exit={{ opacity: 0, scale: 0.96 }}
+      initial={{ opacity: 0, y: 16 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, margin: '-40px' }}
       transition={{ type: 'spring', stiffness: 300, damping: 28 }}
       whileHover={{ y: -4 }}
-      className="group"
+      className="group h-full"
     >
-      <Card
-        className={cn(
-          'h-full gap-0 overflow-hidden py-0 shadow-sm transition-shadow group-hover:shadow-lg',
-          product.role === 'best_fit' && 'ring-1 ring-primary/30',
-        )}
-      >
-        <div className={cn('relative w-full overflow-hidden bg-muted', IMAGE_ASPECT)}>
+      <Card className="h-full gap-0 overflow-hidden py-0 shadow-sm transition-shadow group-hover:shadow-lg">
+        <div className="relative w-full overflow-hidden bg-muted aspect-square">
           {showImage ? (
             <img
               src={product.thumbnailUrl ?? undefined}
@@ -66,19 +52,15 @@ export function RealProductCard({ product }: { product: AdvisorProduct }) {
             </div>
           )}
 
-          <div className="absolute inset-x-0 top-0 flex items-start justify-between gap-1 p-2">
-            <Badge variant={ROLE_BADGE_VARIANT[product.role]} className="shadow-sm backdrop-blur-sm">
-              <DynamicIcon name={badge.icon} />
-              {badge.label}
+          {discountPercent !== null && discountPercent > 0 && (
+            <Badge className="absolute top-2 left-2 bg-destructive text-destructive-foreground shadow-sm">
+              -{discountPercent}%
             </Badge>
-            {discountPercent !== null && discountPercent > 0 && (
-              <Badge className="bg-destructive text-destructive-foreground shadow-sm">-{discountPercent}%</Badge>
-            )}
-          </div>
+          )}
         </div>
 
         <CardContent className="flex flex-1 flex-col gap-1.5 px-3 py-2.5">
-          <h3 className="line-clamp-1 text-sm font-semibold leading-snug" title={product.title}>
+          <h3 className="line-clamp-2 min-h-9 text-sm font-semibold leading-snug" title={product.title}>
             {product.title}
           </h3>
           {product.brand && <p className="text-[11px] text-muted-foreground">{product.brand}</p>}
@@ -98,40 +80,51 @@ export function RealProductCard({ product }: { product: AdvisorProduct }) {
             )}
           </div>
 
-          {chips.length > 0 && (
-            <div className="flex flex-wrap gap-1">
-              {chips.map((chip) => (
-                <span
-                  key={chip}
-                  className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-medium text-muted-foreground"
-                >
-                  {chip}
-                </span>
-              ))}
-            </div>
+          {product.promotions.length > 0 && (
+            <p className="text-[11px] text-muted-foreground">🎁 {product.promotions.length} ưu đãi</p>
           )}
         </CardContent>
 
-        <CardFooter className="justify-between border-t px-3 py-2">
+        <CardFooter className="items-center justify-between border-t px-3 py-2">
           {product.productUrl ? (
             <a
               href={product.productUrl}
               target="_blank"
               rel="noreferrer"
-              className={cn(
-                'inline-flex items-center gap-1 text-xs font-medium text-primary hover:underline',
-              )}
+              className={cn('inline-flex items-center gap-1 text-xs font-medium text-primary hover:underline')}
             >
               Xem trên ĐMX <ExternalLink className="size-3" />
             </a>
           ) : (
             <span className="text-xs text-muted-foreground">Chưa có link</span>
           )}
-          {product.promotions.length > 0 && (
-            <span className="text-[11px] text-muted-foreground">🎁 {product.promotions.length} ưu đãi</span>
+          {onToggleCompare && (
+            <Button
+              type="button"
+              size="xs"
+              variant={isComparing ? 'default' : 'outline'}
+              className="rounded-full"
+              onClick={() => onToggleCompare(product)}
+            >
+              <GitCompareArrows className="size-3" />
+              {isComparing ? 'Đã chọn' : 'So sánh'}
+            </Button>
           )}
         </CardFooter>
       </Card>
     </motion.div>
+  )
+}
+
+export function StorefrontProductCardSkeleton() {
+  return (
+    <div className="flex h-full flex-col gap-3 overflow-hidden rounded-xl border bg-card p-0 shadow-sm">
+      <div className="aspect-square w-full animate-pulse bg-muted" />
+      <div className="flex flex-col gap-2 px-3 pb-3">
+        <div className="h-4 w-4/5 animate-pulse rounded bg-muted" />
+        <div className="h-3 w-2/5 animate-pulse rounded bg-muted" />
+        <div className="h-4 w-1/2 animate-pulse rounded bg-muted" />
+      </div>
+    </div>
   )
 }

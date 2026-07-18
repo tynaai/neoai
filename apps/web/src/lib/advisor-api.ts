@@ -1,3 +1,5 @@
+import { readNdjsonLines } from './ndjson-stream'
+
 const API_BASE = import.meta.env.VITE_ADVISOR_API_URL ?? 'http://localhost:4112'
 
 export interface AdvisorFacts {
@@ -51,37 +53,20 @@ export async function sendAdvisorMessage(
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ conversationId, message, history }),
   })
-  if (!res.ok || !res.body) {
+  if (!res.ok) {
     throw new Error(`Advisor API lỗi ${res.status}`)
   }
 
-  const reader = res.body.getReader()
-  const decoder = new TextDecoder()
-  let buffer = ''
-
-  while (true) {
-    const { done, value } = await reader.read()
-    if (done) break
-    buffer += decoder.decode(value, { stream: true })
-
-    let newlineIndex = buffer.indexOf('\n')
-    while (newlineIndex !== -1) {
-      const line = buffer.slice(0, newlineIndex)
-      buffer = buffer.slice(newlineIndex + 1)
-      newlineIndex = buffer.indexOf('\n')
-      if (!line.trim()) continue
-
-      const parsed = JSON.parse(line) as { type: string; [key: string]: unknown }
-      if (parsed.type === 'meta') {
-        const { type: _type, ...meta } = parsed
-        callbacks.onMeta(meta as unknown as AdvisorResponse)
-      } else if (parsed.type === 'text-delta') {
-        callbacks.onTextDelta(parsed.delta as string)
-      } else if (parsed.type === 'error') {
-        throw new Error((parsed.message as string) ?? 'Advisor stream lỗi')
-      }
+  await readNdjsonLines(res, (parsed) => {
+    if (parsed.type === 'meta') {
+      const { type: _type, ...meta } = parsed
+      callbacks.onMeta(meta as unknown as AdvisorResponse)
+    } else if (parsed.type === 'text-delta') {
+      callbacks.onTextDelta(parsed.delta as string)
+    } else if (parsed.type === 'error') {
+      throw new Error((parsed.message as string) ?? 'Advisor stream lỗi')
     }
-  }
+  })
   callbacks.onDone?.()
 }
 

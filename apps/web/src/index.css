@@ -160,6 +160,12 @@
     border-radius: 999px;
     background: rgb(148 163 184 / 55%);
   }
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
   button:not(:disabled),
   [role='button']:not(:disabled) {
     cursor: pointer;

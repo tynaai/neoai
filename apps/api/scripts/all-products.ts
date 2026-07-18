@@ -155,13 +155,16 @@ function parseProductBlock(block: string, categoryCodeFallback: string): ParsedP
   const productUrl = extractFrontmatterField(frontmatter, 'product_url')
   const thumbnailUrl = extractFrontmatterField(frontmatter, 'thumbnail_url')
 
-  // Price section is absent entirely in airCondition-products.md — both regexes just won't
-  // match, priceCurrent/priceOriginal stay null rather than fabricated.
+  // Two price shapes across sources: the finished "Giá khuyến mãi/Giá gốc" bullets, or the raw
+  // dmx_current_price/dmx_original_price bookkeeping fields (both freezer- and airCondition-
+  // products.md currently use the latter). Try the finished shape first, fall back to raw.
   const promoPriceRaw = block.match(/-\s+\*\*Giá khuyến mãi:\*\*\s*([^\n]+)/)?.[1]
   const originalPriceRaw = block.match(/-\s+\*\*Giá gốc:\*\*\s*([^\n]+)/)?.[1]
-  const priceOriginal = parseVndPrice(originalPriceRaw)
+  const dmxCurrentPriceRaw = block.match(/-\s+\*\*dmx_current_price:\*\*\s*([^\n]+)/)?.[1]
+  const dmxOriginalPriceRaw = block.match(/-\s+\*\*dmx_original_price:\*\*\s*([^\n]+)/)?.[1]
+  const priceOriginal = parseVndPrice(originalPriceRaw) ?? parseVndPrice(dmxOriginalPriceRaw)
   // Prefer promo price as current, fallback to original
-  const priceCurrent = parseVndPrice(promoPriceRaw) ?? priceOriginal
+  const priceCurrent = parseVndPrice(promoPriceRaw) ?? parseVndPrice(dmxCurrentPriceRaw) ?? priceOriginal
 
   // dmx_specs_json is a freezer-products.md-only bonus field — absent in airCondition source.
   const specsJsonRaw = block.match(/-\s+\*\*dmx_specs_json:\*\*\s*(\{.*\})\s*$/m)?.[1]

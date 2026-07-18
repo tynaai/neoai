@@ -1,11 +1,11 @@
-import { ChevronDown, LogOut, MapPin, Sparkles } from 'lucide-react'
+import { ChevronDown, LogOut, MapPin, MessageCircle, Sparkles } from 'lucide-react'
 
 import { Badge } from '~/components/ui/badge'
 import { Button } from '~/components/ui/button'
 import { regionContext } from '~/lib/mock-data'
 import { LogoutButton } from '~/auth/logout-button'
 
-export function AdvisorHeader() {
+export function AdvisorHeader({ onOpenChat }: { onOpenChat?: () => void }) {
   return (
     <header className="sticky top-0 z-40 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
       <div className="mx-auto flex h-16 w-full items-stretch justify-between gap-2 pr-3 sm:pr-5">
@@ -69,6 +69,13 @@ export function AdvisorHeader() {
             />
             <span className="sr-only md:hidden">Chọn khu vực giao hàng</span>
           </Button>
+          {onOpenChat && (
+            <Button className="h-9 rounded-full" onClick={onOpenChat}>
+              <MessageCircle aria-hidden />
+              <span className="hidden sm:inline">Tư vấn AI</span>
+              <span className="sr-only sm:hidden">Tư vấn AI</span>
+            </Button>
+          )}
           <Button variant="outline" className="h-9 rounded-full">
             <LogOut aria-hidden />
             <span className="hidden sm:inline">Thoát chế độ</span>
