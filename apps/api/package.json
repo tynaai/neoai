@@ -11,7 +11,8 @@
     "typecheck": "tsc -b",
     "db:generate": "drizzle-kit generate --config drizzle.config.ts",
     "db:migrate": "drizzle-kit migrate --config drizzle.config.ts",
-    "seed:products": "bun run scripts/all-products.ts"
+    "seed:products": "bun run scripts/all-products.ts",
+    "seed:policy": "bun run scripts/policy.ts"
   },
   "dependencies": {
     "ai": "^7.0.31",
