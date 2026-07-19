@@ -10,10 +10,10 @@ import { Hero } from '~/components/storefront/hero'
 import { ProductCarousel } from '~/components/storefront/product-carousel'
 import { ProductGrid } from '~/components/storefront/product-grid'
 import { PromoCarousel } from '~/components/storefront/promo-carousel'
+import type { AdvisorResponse } from '~/lib/advisor-api'
 import { PRODUCT_DND_MIME, readDraggedProduct } from '~/lib/product-dnd'
 import { DEFAULT_CATEGORY_CODE, STORE_CATEGORIES, type StoreProduct } from '~/lib/products-api'
 import { useProducts } from '~/lib/use-products'
-import { DEFAULT_COMPARE_PROMPT, useAdvisorChat } from '~/lib/use-advisor-chat'
 import { ForgotPasswordPage, LoginPage, RegisterPage } from './auth'
 
 const MAX_COMPARE_ITEMS = 4
@@ -28,7 +28,7 @@ function StorefrontHome() {
   // from it so we don't fire two near-identical requests on first paint.
   const { data: featured, loading: featuredLoading } = useProducts({ page: 1, pageSize: 10, category })
 
-  const { messages, status, response, submitMessage } = useAdvisorChat(compareItems)
+  const [response, setResponse] = useState<AdvisorResponse | null>(null)
 
   const compareIds = compareItems.map((p) => p.id)
 
@@ -52,10 +52,10 @@ function StorefrontHome() {
   const clearCompare = () => setCompareItems([])
   const toggleChat = () => setChatOpen((open) => !open)
 
-  const compareNow = () => {
+  // RealChatPanel owns the actual submit — this just reacts to a compare question going out.
+  const handleCompareSubmit = () => {
     setChatOpen(true)
     setExpanded(true)
-    void submitMessage(DEFAULT_COMPARE_PROMPT, compareItems)
   }
 
   // First time the AI actually has products to show, expand once so users discover the results
@@ -128,14 +128,12 @@ function StorefrontHome() {
       <ChatSidebar
         open={chatOpen}
         onOpenChange={setChatOpen}
-        messages={messages}
-        status={status}
-        onSubmit={submitMessage}
+        onResponse={setResponse}
         response={response}
         compareItems={compareItems}
         onRemoveCompareItem={removeCompareItem}
         onClearCompare={clearCompare}
-        onCompareNow={compareNow}
+        onCompareSubmit={handleCompareSubmit}
         onDropProduct={addCompareItem}
         expanded={expanded}
         onExpandedChange={setExpanded}

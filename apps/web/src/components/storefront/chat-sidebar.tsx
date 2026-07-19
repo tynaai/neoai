@@ -5,34 +5,29 @@ import { RealResultsPanel } from '~/components/advisor/real-results-panel'
 import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle } from '~/components/ui/sheet'
 import type { AdvisorResponse } from '~/lib/advisor-api'
 import type { StoreProduct } from '~/lib/products-api'
-import type { ChatMessage, ChatStatus } from '~/lib/use-advisor-chat'
 import { cn } from '~/lib/utils'
 
 export function ChatSidebar({
   open,
   onOpenChange,
-  messages,
-  status,
-  onSubmit,
+  onResponse,
   response,
   compareItems,
   onRemoveCompareItem,
   onClearCompare,
-  onCompareNow,
+  onCompareSubmit,
   onDropProduct,
   expanded,
   onExpandedChange,
 }: {
   open: boolean
   onOpenChange: (open: boolean) => void
-  messages: ChatMessage[]
-  status: ChatStatus
-  onSubmit: (text: string) => void
+  onResponse: (r: AdvisorResponse) => void
   response: AdvisorResponse | null
   compareItems: StoreProduct[]
   onRemoveCompareItem: (id: string) => void
   onClearCompare: () => void
-  onCompareNow: () => void
+  onCompareSubmit: () => void
   onDropProduct: (product: StoreProduct) => void
   expanded: boolean
   onExpandedChange: (expanded: boolean) => void
@@ -83,13 +78,11 @@ export function ChatSidebar({
             </SheetHeader>
 
             <RealChatPanel
-              messages={messages}
-              status={status}
-              onSubmit={onSubmit}
+              onResponse={onResponse}
               compareItems={compareItems}
               onRemoveCompareItem={onRemoveCompareItem}
               onClearCompare={onClearCompare}
-              onCompareNow={onCompareNow}
+              onCompareSubmit={onCompareSubmit}
               onDropProduct={onDropProduct}
             />
 
