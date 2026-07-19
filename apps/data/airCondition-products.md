@@ -59,6 +59,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362465
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 29490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -122,6 +134,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335837
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+- **dmx_current_price:** 9590000
+- **dmx_original_price:** 9990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -184,6 +209,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/336040
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+- **dmx_current_price:** 11390000
+- **dmx_original_price:** 11690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -246,6 +284,21 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/336043.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 17790000
+- **dmx_original_price:** 18090000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -310,6 +363,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/320893.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 6190000
+- **dmx_original_price:** 8590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -373,6 +440,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/361686.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 9500000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -431,6 +511,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/338854
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 61090000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -489,6 +582,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/338769
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 58890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -555,6 +661,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/327059
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 14090000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -625,6 +745,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/322606/lg-inverter-1-5-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 19390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -687,6 +820,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/320851
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 13990000
+- **dmx_original_price:** 15890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -799,6 +946,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/309828/samsung-inverter
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1009,6 +1168,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/306961
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
+- **dmx_current_price:** 38290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Mặt nạ dàn lạnh Cassette Panasonic CZ-KPU3H
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1073,6 +1246,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/303861/may-lanh-aqua-in
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -1125,6 +1311,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299819
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 24
+- **dmx_current_price:** 35000000
+- **dmx_original_price:** 42090000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1178,6 +1379,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299816
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 184
+- **dmx_current_price:** 60690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1231,6 +1445,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299815
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 184
+- **dmx_current_price:** 50400000
+- **dmx_original_price:** 60690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1284,6 +1513,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299814
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 184
+- **dmx_current_price:** 56290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1337,6 +1579,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299813
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 184
+- **dmx_current_price:** 47290000
+- **dmx_original_price:** 56290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1390,6 +1647,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299812
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 184
+- **dmx_current_price:** 37590000
+- **dmx_original_price:** 44590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1494,6 +1766,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/279775
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 53790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Mặt nạ dàn lạnh Cassette Panasonic CZ-KPU3H
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1545,6 +1831,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/279774
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 53790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Mặt nạ dàn lạnh Cassette Panasonic CZ-KPU3H
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1599,6 +1899,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/279773
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 50190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Mặt nạ dàn lạnh Cassette Panasonic CZ-KPU3H
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1653,6 +1967,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/279772
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
+- **dmx_current_price:** 39590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Mặt nạ dàn lạnh Cassette Panasonic CZ-KPU3H
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1720,6 +2048,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/277628
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 32490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1767,6 +2108,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273974/dan-lanh-multi-l
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 19
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -1812,6 +2165,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273973/dan-lanh-multi-l
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 19
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1859,6 +2224,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273972/dan-lanh-multi-l
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 19
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -1904,6 +2281,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273971/dan-lanh-multi-i
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 19
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -1952,6 +2341,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273970/dan-lanh-multi-l
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 13
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -1998,6 +2399,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273969/dan-lanh-multi-l
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 13
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2046,6 +2459,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273968/dan-lanh-multi-l
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 13
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -2093,6 +2518,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273967/dan-lanh-multi-l
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 13
+- **dmx_current_price:** 10390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2144,6 +2582,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273892/may-lanh-tu-dung
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 184
+- **dmx_current_price:** 44490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2196,6 +2647,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273891/tu-dung-inverter
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 184
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -2246,6 +2709,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273890/may-lanh-tu-dung
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 184
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2302,6 +2777,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273889/am-tran-lg-5-hp-
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 24
+- **dmx_current_price:** 50790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2356,6 +2844,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273888/am-tran-lg-4-hp-
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 84
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2465,6 +2965,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/272062/funiki-15-hp-hsi
 - **Bảo hành động cơ:** Máy nén 24 tháng
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -2522,6 +3034,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/272061/funiki-1-hp-hsic
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 24 tháng
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 9890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2579,6 +3104,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/248228/am-tran-lg-inver
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 24.6 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -2635,6 +3172,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/248227/am-tran-lg-inver
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 20.4 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -2690,6 +3239,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/248226/am-tran-lg-inver
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 20.4 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2748,6 +3309,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/242921/am-tran-midea-in
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 84 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2864,6 +3437,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/231061/daikin-ftkc71uvm
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -2911,6 +3496,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/230774/dan-nong-multi-m
 - **Phạm vi sử dụng:** Không
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -2971,6 +3568,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/223570/lg-apnq48gt3e4-3
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 184
+- **dmx_current_price:** 53490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -3030,6 +3640,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/223568/lg-apnq30gr5a4-3
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 184
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -3212,6 +3834,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/63546/May-lanh-Mitsubis
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -3359,6 +3993,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/63728/mitsubishi-srk-09
 - **Loại Inverter:** Máy lạnh không Inverter
 - **Dòng sản phẩm:** 2013
 - **Loại Gas:** R-22
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -3661,6 +4307,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/67588/mitsubishi-heavy-
 ## Thông số và tính năng
 - **Loại Inverter:** Máy lạnh Inverter
 - **Dòng sản phẩm:** 2014
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -5203,6 +5861,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74859/may-lanh-lg-v13ap
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-410A
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -5477,6 +6147,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/174808/may-lanh-gree-gw
 - **Bảo hành động cơ:** Máy nén 30 tháng
 - **Cao phụ kiện chính:** 22.4 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -5535,6 +6218,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/223567/lg-apnq24gs1a4-1
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 180
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -5590,6 +6285,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/230276/daikin-ftkm60svm
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -5648,6 +6355,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/230357/midea-multi-msaf
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -5873,6 +6592,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/248229/am-tran-lg-inver
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 84 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -5928,6 +6659,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153922/gree-gwc18qd-e3n
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 22.4 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -5985,6 +6729,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/230777/dan-nong-multi-m
 - **Phạm vi sử dụng:** Không
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -6051,6 +6807,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/273347
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 17990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -6114,6 +6883,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299827
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 18990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -6177,6 +6960,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/344396
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 16790000
+- **dmx_original_price:** 17490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -6383,6 +7181,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/63726/mitsubishi-srk-12
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -6491,6 +7301,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/63762/S12ENA-nowatermar
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -6550,6 +7372,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/63765/mitsubishi-heavy-
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -6578,6 +7412,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/63766/mitsubishi-heavy-
 - **Dòng sản phẩm:** 2013
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -6762,6 +7608,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/63789/mitsubishi-heavy-
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -7301,6 +8159,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/67585/mitsubishi-srk10y
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -7348,6 +8218,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/67586/mitsubishi-heavy-
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.2 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -7897,6 +8779,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71187/may-lanh-lg-s09en
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -7941,6 +8835,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71338/samsung-ar09jcfss
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 24.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -7991,6 +8897,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71339/samsung-ar12jvfsb
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -8304,6 +9222,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71799/mitsubishi-heavy-
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.2 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -8660,6 +9590,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/73680/lg-s09enm-550x160
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -8711,6 +9653,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/73681/lg-v10apm-550x160
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -8756,6 +9710,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/73684/lg-h09enb-550x160
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -8976,6 +9942,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75196/daikin-ftxs50gvmv
 - **Bảo hành động cơ:** Máy nén 4 năm
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -9026,6 +10004,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75210/mitsubishi-electr
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -9070,6 +10060,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75211/mitsubishi-electr
 - **Phạm vi sử dụng:** Từ 30 - 40m² (từ 80 đến 120m³)
 - **Loại Gas:** R-22
 - **Cao phụ kiện chính:** 32.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -9120,6 +10122,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75237/mitsubishi-electr
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -9216,6 +10230,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75261/may-lanh-mitsubis
 - **Loại Gas:** R-22
 - **Cao phụ kiện chính:** 30.9 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -9263,6 +10289,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75284/mitsubishi-heavy-
 - **Phạm vi sử dụng:** Từ 30 - 40m² (từ 80 đến 120m³)
 - **Loại Gas:** R-22
 - **Cao phụ kiện chính:** 31.8 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -9573,6 +10611,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/76988/may-lanh-lg-v10en
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -9772,6 +10822,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/77812/may-lanh-samsung-
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 24.9 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -9823,6 +10885,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/83372/may-lanh-aqua-aqa
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -9923,6 +10998,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/88598/dieu-hoa-mitsubis
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.2 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -9984,6 +11071,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91859/toshiba-ras-h10zk
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -10038,6 +11137,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92018/may-lanh-lg-v10en
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -10091,6 +11202,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92131/may-lanh-lg-v13en
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -10197,6 +11320,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/101675/may-lanh-samsung
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29.8 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -10321,6 +11456,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148862/lg-v13ens-1-550x
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -10379,6 +11526,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148874/lg-v10env-3-550x
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 27 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -10426,6 +11585,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153100/may-lanh-electro
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -10485,6 +11656,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153740/toshiba-ras-h10d
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 25.2 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -10543,6 +11726,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153767/toshiba-ras-h13c
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -10596,6 +11791,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153925/gree-gwc18cc-k3d
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29.8 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -10643,6 +11851,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154735/may-lanh-gree-gp
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 76 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -10701,6 +11922,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/156397/beko-rsvc18av-25
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 39 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -10762,6 +11995,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/158619/may-lanh-lg-v10e
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -10811,6 +12056,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/159666/may-lanh-daikin-
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 28.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -10863,6 +12120,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/159814/may-lanh-daikin-
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 28.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -10920,6 +12189,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/167753/may-lanh-toshiba
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 25.2 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -10979,6 +12260,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/167873/may-lanh-toshiba
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -11034,6 +12327,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/178983/may-lanh-aqua-aq
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 27.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -11095,6 +12401,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/185499/panasonic-1-hp-c
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -11153,6 +12471,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/185766/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -11214,6 +12544,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/185767/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -11272,6 +12614,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198286/may-lanh-toshiba
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 25 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -11332,6 +12686,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198288/may-lanh-toshiba
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -11398,6 +12764,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198290/may-lanh-toshiba
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -11462,6 +12840,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198800/tcl-tac-n09cs-kc
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -11517,6 +12907,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/203518/daikin-ftkq50sav
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -11639,6 +13041,20 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/214817/comfee-sirius-9e
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -11705,6 +13121,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217762/toshiba-ras-h10x
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -11766,6 +13194,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/221930/electrolux-esv09
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -11830,6 +13270,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/222266/midea-msafa-10cr
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -11893,6 +13345,20 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/222552/comfee-siriusa-9
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -11954,6 +13420,20 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/222569/comfee-siriusa-9
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -12012,6 +13492,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234633/lg-v24enf1-2-550
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12075,6 +13567,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235585/samsung-ar09tyhq
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12147,6 +13651,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235769/midea-msmtii-10h
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 31
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -12206,6 +13722,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235770/may-dieu-hoa-2-c
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 18
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12268,6 +13796,20 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235772/comfee-siriusb-9
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -12323,6 +13865,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/256650/panasonic-2-hp-c
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12455,6 +14009,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/287669/may-lanh-sharp-i
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -12514,6 +14080,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/2002/30274
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12578,6 +14156,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/303862
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12640,6 +14232,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/306109/may-lanh-funiki-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12764,6 +14368,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/310223
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 11690000
+- **dmx_original_price:** 15990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12824,6 +14443,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322608
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 13390000
+- **dmx_original_price:** 15990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12893,6 +14526,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/324588
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 12290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -12955,6 +14602,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/329580
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13086,6 +14746,21 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/336496-600x600-1.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10590000
+- **dmx_original_price:** 11390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13153,6 +14828,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/336497
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 17990000
+- **dmx_original_price:** 20190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13220,6 +14910,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/356535
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 20
+- **dmx_current_price:** 14190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13290,6 +14993,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362487
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 22290000
+- **dmx_original_price:** 24990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13321,6 +15038,17 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/70102/mitsubishi-heavy-
 - **Dòng sản phẩm:** 2014
 - **Loại Gas:** R-22
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -13344,6 +15072,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/115160/may-lanh-dieu-ho
 
 ## Thông số và tính năng
 - **Chất liệu dàn tản nhiệt:** Ống dẫn gas bằng Đồng - Lá tản nhiệt bằng Nhôm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13369,6 +15109,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/115093/may-lanh-may-lan
 ## Thông số và tính năng
 - **Chất liệu dàn tản nhiệt:** Ống dẫn gas bằng Đồng - Lá tản nhiệt bằng Nhôm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -13392,6 +15144,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/114411/may-lanh-may-lan
 
 ## Thông số và tính năng
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -13414,6 +15179,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/114409/may-lanh-may-lan
 - **Hình ảnh:** [Xem ảnh sản phẩm](https://cdn.tgdd.vn/Products/Images/2002/114409/may-lanh-may-lanh-aqua-aqa-kr18kb-550x160.jpg)
 
 ## Thông số và tính năng
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13612,6 +15390,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/63725/mitsubishi-srk-13
 
 ## Thông số và tính năng
 - **Loại Inverter:** Máy lạnh không Inverter
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13831,6 +15621,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/363375.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 8690000
+- **dmx_original_price:** 8990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13902,6 +15705,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/363376.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 12690000
+- **dmx_original_price:** 12990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -13973,6 +15789,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/363374.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 7690000
+- **dmx_original_price:** 7990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14031,6 +15860,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/362708.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 25
+- **dmx_current_price:** 8290000
+- **dmx_original_price:** 8790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14088,6 +15930,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/362709.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 25
+- **dmx_current_price:** 9690000
+- **dmx_original_price:** 10290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14152,6 +16007,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362707
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 12190000
+- **dmx_original_price:** 14190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14217,6 +16085,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362702
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10590000
+- **dmx_original_price:** 11590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14283,6 +16164,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362484
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10790000
+- **dmx_original_price:** 11990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14350,6 +16245,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362481
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 9550000
+- **dmx_original_price:** 10490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14417,6 +16326,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362485
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 15950000
+- **dmx_original_price:** 17990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14480,6 +16403,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362467
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 9790000
+- **dmx_original_price:** 10690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14544,6 +16481,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/362466.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 8590000
+- **dmx_original_price:** 9190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14608,6 +16559,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362468
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 15390000
+- **dmx_original_price:** 16690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14673,6 +16638,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362462
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 12190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14738,6 +16715,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362463
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 14890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14803,6 +16792,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/362464
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 22290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14870,6 +16871,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/361958.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 25
+- **dmx_current_price:** 8790000
+- **dmx_original_price:** 10490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14937,6 +16951,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361965
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 10990000
+- **dmx_original_price:** 13790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -14999,6 +17026,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361692
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 9190000
+- **dmx_original_price:** 10990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15061,6 +17102,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361695
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 17190000
+- **dmx_original_price:** 20590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15124,6 +17179,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/361690.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 7690000
+- **dmx_original_price:** 9090000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15186,6 +17254,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361694
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 14490000
+- **dmx_original_price:** 16890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15253,6 +17335,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361682
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 14990000
+- **dmx_original_price:** 18690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15320,6 +17415,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/361677.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 7190000
+- **dmx_original_price:** 9990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15388,6 +17496,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/361674.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 6190000
+- **dmx_original_price:** 8690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15455,6 +17576,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361680
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 11990000
+- **dmx_original_price:** 15790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15513,6 +17647,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361661
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 14790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15572,6 +17718,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/361659.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
+- **dmx_current_price:** 8390000
+- **dmx_original_price:** 8790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15630,6 +17789,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361660
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
+- **dmx_current_price:** 9890000
+- **dmx_original_price:** 10290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15688,6 +17860,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361662
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 21790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15760,6 +17944,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361656
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 15290000
+- **dmx_original_price:** 16490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15832,6 +18029,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361655
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 12190000
+- **dmx_original_price:** 13990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15904,6 +18114,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361657
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 24490000
+- **dmx_original_price:** 25190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Quạt đứng Midea FS40-10NAVN(K) 55W
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -15976,6 +18201,22 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361658
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 31690000
+- **dmx_original_price:** 34990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Tặng Quạt đứng Midea FS40-10NAVN(K) 55W
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16044,6 +18285,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361653
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
+- **dmx_current_price:** 20090000
+- **dmx_original_price:** 21090000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16112,6 +18366,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361654
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
+- **dmx_current_price:** 26490000
+- **dmx_original_price:** 28390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16180,6 +18447,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/361651.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 10290000
+- **dmx_original_price:** 11590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16248,6 +18528,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361652
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 12790000
+- **dmx_original_price:** 14190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16319,6 +18612,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/361476
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 12290000
+- **dmx_original_price:** 13690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16391,6 +18698,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/336494
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10990000
+- **dmx_original_price:** 12390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16456,6 +18778,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/360646.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 10290000
+- **dmx_original_price:** 10490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16521,6 +18857,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360648
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 18990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16586,6 +18935,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360647
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 12490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16655,6 +19017,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360644
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 11490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16724,6 +19099,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360645
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 13490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16793,6 +19181,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360579
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 12490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16862,6 +19263,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360643
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 14490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16927,6 +19341,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360640
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10190000
+- **dmx_original_price:** 10590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -16992,6 +19420,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360638
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 8890000
+- **dmx_original_price:** 9290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17060,6 +19502,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360633
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 9790000
+- **dmx_original_price:** 9990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17128,6 +19584,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/360636
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 11090000
+- **dmx_original_price:** 11490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17196,6 +19666,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/356536-600x600-1.jpg"
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)t (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -17262,6 +19745,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/356537-600x600-1.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 10990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)t (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17331,6 +19828,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/344745
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 16590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17400,6 +19910,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/344746
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 19290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17470,6 +19993,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/341509
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 20490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17540,6 +20076,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/341503
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 16590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17610,6 +20159,22 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/340575.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 9990000
+- **dmx_original_price:** 10490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17680,6 +20245,22 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/334086.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 8490000
+- **dmx_original_price:** 8990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17743,6 +20324,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/340324
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 9290000
+- **dmx_original_price:** 9590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17806,6 +20402,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/340372
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10690000
+- **dmx_original_price:** 10990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17872,6 +20483,22 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/339452.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 11090000
+- **dmx_original_price:** 11590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -17938,6 +20565,21 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/339453.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 14490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18004,6 +20646,22 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/339419.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 10290000
+- **dmx_original_price:** 10790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18064,6 +20722,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/338146.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 6990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18123,6 +20794,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/338261.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 7990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18182,6 +20866,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/338262
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 12990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18245,6 +20942,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/338147
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -18306,6 +21016,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/338247
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -18366,6 +21089,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/338259
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 31
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18437,6 +21173,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/337186
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 33890000
+- **dmx_original_price:** 36890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18508,6 +21259,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/337054
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 13590000
+- **dmx_original_price:** 15090000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18579,6 +21343,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/337164
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 16490000
+- **dmx_original_price:** 18490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18650,6 +21427,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/337166
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 27990000
+- **dmx_original_price:** 28590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Quạt đứng Midea FS40-10NAVN(K) 55W
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18712,6 +21504,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/335839.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+- **dmx_current_price:** 11390000
+- **dmx_original_price:** 11790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18773,6 +21578,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/336044.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+- **dmx_current_price:** 14590000
+- **dmx_original_price:** 14990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18834,6 +21652,21 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/336045.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 20090000
+- **dmx_original_price:** 20390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18903,6 +21736,21 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/335743-600x600-1.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 26
+- **dmx_current_price:** 9290000
+- **dmx_original_price:** 10490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -18972,6 +21820,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/335752.jpg"
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -19037,6 +21898,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335485
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 14590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19103,6 +21977,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335214
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 13290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19169,6 +22056,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335482
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 11290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19235,6 +22135,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335193
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 9990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19295,6 +22208,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/335473.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 25
+- **dmx_current_price:** 9790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19355,6 +22281,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335476
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 13090000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19415,6 +22354,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335477
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 16790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19478,6 +22430,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335305
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 15690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)t (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19541,6 +22507,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335304
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 8990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)t (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19604,6 +22584,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/335134.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 7990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19667,6 +22659,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335306
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 18890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)t (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19733,6 +22739,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335133
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 9890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19799,6 +22818,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335261
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19863,6 +22895,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335266
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 16890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19927,6 +22972,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/335303
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 20390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -19997,6 +23055,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/334609-600x600-1.jpg"
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -20064,6 +23134,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334705
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 22790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20132,6 +23215,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334704
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 15990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20200,6 +23296,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334706
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 27990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20268,6 +23377,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/334606-600x600-1.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 11400000
+- **dmx_original_price:** 11590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20335,6 +23458,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334701
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 13290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20402,6 +23538,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334702
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 18490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20469,6 +23618,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334703
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 23490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20533,6 +23695,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334698
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -20595,6 +23769,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334699
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 15990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20725,6 +23912,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334584
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 33690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20791,6 +23992,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334591
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 36690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20857,6 +24072,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334524
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 12390000
+- **dmx_original_price:** 12790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20923,6 +24151,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334581
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 15390000
+- **dmx_original_price:** 15890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -20989,6 +24232,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334583
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 24190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21055,6 +24311,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334523
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 11390000
+- **dmx_original_price:** 11690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21121,6 +24390,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334566
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 19790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21187,6 +24470,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334568
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 26490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21253,6 +24550,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334563
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 13990000
+- **dmx_original_price:** 14290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21316,6 +24628,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334570
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 28790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21377,6 +24703,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334522
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21438,6 +24776,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334537
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 18990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21499,6 +24849,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334536
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 13490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21560,6 +24924,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334538
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 25590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21627,6 +25003,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/334437-600x600-1.jpg"
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 24
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)t (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -21693,6 +25082,21 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/334369-600x600-4.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 24
+- **dmx_current_price:** 7990000
+- **dmx_original_price:** 9390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)t (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21759,6 +25163,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334438
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)t (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21827,6 +25244,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334432
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 24390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21895,6 +25324,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334433
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 32990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -21963,6 +25405,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334298
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 13890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22031,6 +25485,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334428
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 16790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22100,6 +25566,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334297
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 14490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22169,6 +25647,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334425
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 17990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22238,6 +25728,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334426
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 26890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22307,6 +25809,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334427
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 37390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22370,6 +25884,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334087
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 11290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22432,6 +25959,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334400
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 22590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22494,6 +26034,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/334399.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 18490000
+- **dmx_original_price:** 19690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22556,6 +26110,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334398
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 13790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22619,6 +26186,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/334397-600x600-1.jpg"
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -22680,6 +26259,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334088
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22750,6 +26341,22 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334085
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 7740000
+- **dmx_original_price:** 8290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22820,6 +26427,22 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/334311.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 8740000
+- **dmx_original_price:** 9290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22890,6 +26513,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334312
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 12790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -22960,6 +26598,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334313
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 15990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -23031,6 +26684,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334306
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -23104,6 +26771,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/334084.jpg"
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -23175,6 +26856,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/334304.jpg"
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -23242,6 +26937,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/334044.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 8990000
+- **dmx_original_price:** 9990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -23311,6 +27020,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/334018-600x600-1.jpg"
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -23375,6 +27097,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/334019
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -23441,6 +27176,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/334017.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 25
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -23515,6 +27263,17 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333804
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -23588,6 +27347,17 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333738
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -23658,6 +27428,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333773
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 16190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -23729,6 +27511,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333791
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 24790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -23801,6 +27596,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333737
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -23868,6 +27675,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333735
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -23937,6 +27756,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333764
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 39
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -24004,6 +27835,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333759
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Quạt đứng Midea FS40-10NAVN(K) 55W
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24073,6 +27917,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333763
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 39
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -24136,6 +27992,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/333468.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 9590000
+- **dmx_original_price:** 10590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24202,6 +28072,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/333353-600x600-1.jpg"
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -24267,6 +28150,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333319
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 12790000
+- **dmx_original_price:** 14890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24335,6 +28232,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/333320
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 14990000
+- **dmx_original_price:** 16990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24403,6 +28315,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/333227-600x600-4.jpg"
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -24468,6 +28393,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/333282.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 8790000
+- **dmx_original_price:** 9650000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24540,6 +28479,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/326010
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 15990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24612,6 +28566,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/326012
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 19990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24683,6 +28652,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/326006
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 21490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24754,6 +28736,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/326005
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 14990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24825,6 +28820,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/326007
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 25890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -24896,6 +28904,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/234634
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -24956,6 +28976,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/321386.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 8590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25017,6 +29051,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/325768
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 9790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25082,6 +29129,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/307333.jpg"
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -25145,6 +29204,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/307170
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25210,6 +29282,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/325765
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 32
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -25269,6 +29353,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/321387
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 8490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25398,6 +29495,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/324878
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 37290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25465,6 +29577,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/324876
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 23390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25532,6 +29658,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/324877
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 33390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25599,6 +29738,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/323088
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 26590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25667,6 +29819,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/323089
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -25731,6 +29895,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322750
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 13490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25796,6 +29972,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322751
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 16290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25861,6 +30050,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/323085
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 24890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25923,6 +30125,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/322937.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 12990000
+- **dmx_original_price:** 13890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -25985,6 +30200,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322936
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 10790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -26051,6 +30278,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322932
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -26115,6 +30354,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322933
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -26181,6 +30433,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322934
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -26245,6 +30509,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322935
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 26690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -26313,6 +30590,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/320848
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -26374,6 +30664,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/320849/aqua-inverter-1-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -26439,6 +30742,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322123
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 20690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -26511,6 +30828,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/322121
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -26581,6 +30911,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/322122.jpg"
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -26645,6 +30987,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/321680.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -26710,6 +31064,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/321681
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -26769,6 +31135,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/307169
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29.4 cm
+- **dmx_current_price:** 10990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -26832,6 +31211,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/307168.jpg"
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 24.8 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -26893,6 +31284,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/321465.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
+- **dmx_current_price:** 6990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -26954,6 +31358,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/321466
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 22
+- **dmx_current_price:** 16990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27019,6 +31436,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/321463/toshiba-inverter
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -27082,6 +31511,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/321464
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 22990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27147,6 +31589,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/321385
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -27210,6 +31664,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/321383.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 14890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27274,6 +31740,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/321382.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 11990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27338,6 +31816,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/321384
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 21590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27408,6 +31898,22 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/320984.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 9390000
+- **dmx_original_price:** 9890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27478,6 +31984,22 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/320985.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 9990000
+- **dmx_original_price:** 10790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27543,6 +32065,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/299825.png"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 7190000
+- **dmx_original_price:** 9990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27610,6 +32145,17 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/299824.jpg"
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -27674,6 +32220,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299826
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 11990000
+- **dmx_original_price:** 15790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27739,6 +32298,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/320946/nagakawa-inverte
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 33
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27807,6 +32379,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/320701
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -27872,6 +32456,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/320872/lg-inverter-2-5-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -27939,6 +32535,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/320702
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 12690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28003,6 +32611,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/320703/lg-inverter-2-hp
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28071,6 +32691,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/320602/sharp-inverter-1
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -28135,6 +32767,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/320603/sharp-inverter-1
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28202,6 +32846,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/320604/sharp-inverter-2
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -28254,6 +32910,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/318361
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 13
+- **dmx_current_price:** 31990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28307,6 +32976,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/318360
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 13
+- **dmx_current_price:** 25690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28360,6 +33042,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/318362
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 13
+- **dmx_current_price:** 35990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28418,6 +33113,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/309555
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+- **dmx_current_price:** 14590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28476,6 +33185,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/309554
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+- **dmx_current_price:** 11590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28534,6 +33257,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/309556
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 33
+- **dmx_current_price:** 19590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28594,6 +33331,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/307865
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+- **dmx_current_price:** 11790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28655,6 +33406,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/307257/gree-inverter-1-
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -28714,6 +33478,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/309553
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 17990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28773,6 +33551,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/306715/may-lanh-aqua-in
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28835,6 +33626,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/309552/aqua-inverter-15
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -28888,6 +33692,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/309549
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 24
+- **dmx_current_price:** 20190000
+- **dmx_original_price:** 26390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28942,6 +33761,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/309548
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 24
+- **dmx_current_price:** 14990000
+- **dmx_original_price:** 19990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -28996,6 +33830,22 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/309550
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 84
+- **dmx_current_price:** 31500000
+- **dmx_original_price:** 34500000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29050,6 +33900,22 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/309551
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 34000000
+- **dmx_original_price:** 39500000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29116,6 +33982,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/309393
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 37
+- **dmx_current_price:** 15590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29184,6 +34063,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/304224
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -29247,6 +34138,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/307259-600x600-2.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29312,6 +34216,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/307258/TimerThumb/30725
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -29363,6 +34280,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/307166/may-lanh-funiki-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 24 tháng
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29420,6 +34349,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/307165.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 24 tháng
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 7590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29486,6 +34428,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/304226-600x600-1.jpg"
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -29551,6 +34505,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/304227
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 21990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29617,6 +34584,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/304225-600x600-1.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29746,6 +34725,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/303876/may-dieu-hoa-2-c
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -29806,6 +34797,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/303872/may-lanh-panason
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29868,6 +34871,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/303871/may-lanh-panason
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -29936,6 +34951,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/303867
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -30002,6 +35029,19 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/303868-600x600-2.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 17390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -30069,6 +35109,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/303869
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 26590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -30136,6 +35189,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/303870/may-lanh-panason
 - **Bảo hành động cơ:** Máy nén 12 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -30199,6 +35264,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/303865
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -30264,6 +35342,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/303863
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -30328,6 +35419,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/303864
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Thêm 1 Năm Bảo Hành - Khách hàng đăng ký qua app Daikin VietNam Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -30388,6 +35492,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/303866
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -30450,6 +35566,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/303859/may-lanh-aqua-in
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -30511,6 +35640,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/303860/may-lanh-aqua-in
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -30577,6 +35719,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/303858/may-lanh-aqua-in
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -30641,6 +35796,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/303107
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -30708,6 +35875,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/303106
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -30774,6 +35953,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/302748/may-lanh-midea-i
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 15490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -30841,6 +36033,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/302747
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 10590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -30908,6 +36112,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/302746
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 6990000
+- **dmx_original_price:** 9290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -30977,6 +36194,20 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/302494/may-lanh-comfee-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -31048,6 +36279,20 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/302496/may-lanh-comfee-
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 32
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -31117,6 +36362,20 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/302495/may-lanh-comfee-
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -31181,6 +36440,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/302173/may-lanh-sharp-i
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -31244,6 +36515,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/302174/may-lanh-sharp-i
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -31306,6 +36589,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/302175/may-lanh-sharp-i
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -31374,6 +36669,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/300080/may-lanh-lg-inve
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 36
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -31444,6 +36751,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/300081/may-lanh-lg-inve
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -31508,6 +36827,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/300078
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 19390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -31573,6 +36905,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/300079
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
+- **dmx_current_price:** 23790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -31638,6 +36983,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/300076/may-lanh-lg-inve
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -31702,6 +37059,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/300077
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -31754,6 +37123,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299822
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 57290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -31807,6 +37190,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299823
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 57290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -31860,6 +37256,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299820
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 24
+- **dmx_current_price:** 42190000
+- **dmx_original_price:** 50690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -31913,6 +37324,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299821
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 24
+- **dmx_current_price:** 50690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -31966,6 +37390,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299817
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 20
+- **dmx_current_price:** 31390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -32019,6 +37456,21 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/299818
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 20
+- **dmx_current_price:** 30790000
+- **dmx_original_price:** 35790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -32079,6 +37531,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/289620
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 20
+- **dmx_current_price:** 11290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -32203,6 +37668,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/280141
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 32
+- **dmx_current_price:** 20190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -32265,6 +37743,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/276988
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -32329,6 +37819,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/272060.jpg"
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -32391,6 +37893,17 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/280140
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -32447,6 +37960,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/272059/funiki-1-hp-hsc0
 - **Bảo hành động cơ:** Máy nén 24 tháng
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -32499,6 +38024,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/276989/funiki-15-hp-hsc
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 24 tháng
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 9000000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -32561,6 +38099,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/276405/samsung-inverter
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 33
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -32627,6 +38177,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/276404/samsung-inverter
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 35
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -32678,6 +38240,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/274766/panasonic-25-hp-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -32728,6 +38302,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/274765/panasonic-2-hp-n
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -32783,6 +38369,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/229453
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Không
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 8390000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -32894,6 +38493,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273502/am-tran-2-chieu-
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 83
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -32946,6 +38557,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273503/am-tran-2-chieu-
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 83
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -33012,6 +38635,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/273348
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 12590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -33078,6 +38714,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/273349
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
+- **dmx_current_price:** 13990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -33141,6 +38790,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273344/2-chieu-lg-inver
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -33202,6 +38863,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273345/2-chieu-lg-inver
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -33261,6 +38934,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/270103/aqua-1-hp-aqa-kc
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -33314,6 +39000,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273009/aqua-2-hp-aqa-kc
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 32
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -33363,6 +39062,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273008/aqua-15-hp-aqa-k
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** Hãng không công bố
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -33479,6 +39191,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/273006/aqua-inverter-1-
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -33546,6 +39271,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/272351-600x600-1.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -33615,6 +39352,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/272349
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -33683,6 +39432,18 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/07/timerseo/272350-600x600-2.jpg"
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -33750,6 +39511,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/272353
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 34590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -33818,6 +39592,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/272352
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 38190000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -33882,6 +39669,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/271498/daikin-inverter-
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -33945,6 +39744,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/271500/daikin-inverter-
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34007,6 +39818,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/271497/daikin-inverter-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -34072,6 +39895,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/271496/daikin-inverter-
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34132,6 +39967,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/220243/kangaroo-kgac12c
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34185,6 +40032,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/270319/kangaroo-inverte
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -34302,6 +40161,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/270213/kangaroo-2-hp-kg
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 31
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34362,6 +40233,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/220245/kangaroo-kgac09c
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34421,6 +40304,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/241608/kangaroo-15-hp-k
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 20
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34479,6 +40374,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/270100/aqua-inverter-15
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34535,6 +40443,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/270097/aqua-inverter-1-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 26
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -34596,6 +40517,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/268976/casper-kc-12fc32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34654,6 +40587,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/268977/casper-kc-18fc32
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -34781,6 +40726,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/268973/casper-ic-12tl32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34844,6 +40801,18 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/268974
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -34909,6 +40878,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/267687/toshiba-1-hp-inv
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -34971,6 +40952,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/267689/toshiba-15-hp-in
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 25
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -35035,6 +41028,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/267690
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 19690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -35096,6 +41102,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264217/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -35154,6 +41172,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264218/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -35331,6 +41361,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264213/panasonic-cs-wpu
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -35388,6 +41430,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264214/panasonic-cs-wpu
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -35447,6 +41501,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264215/panasonic-cs-wpu
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -35505,6 +41571,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264216/panasonic-cs-wpu
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -35558,6 +41636,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264209/panasonic-cs-pu9
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -35616,6 +41706,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264210/panasonic-cs-pu1
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -35676,6 +41778,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264211/panasonic-cs-pu1
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -35732,6 +41846,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264212/panasonic-cs-pu2
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -35792,6 +41918,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264206/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 24
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -35854,6 +41992,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264207/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -35914,6 +42064,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264204/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -35976,6 +42138,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/264205/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -36035,6 +42209,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/236419/dieu-hoa-2-chieu
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -36151,6 +42338,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/260317/may-dieu-hoa-2-c
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -36211,6 +42411,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/236417/may-dieu-hoa-2-c
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -36278,6 +42491,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/237446
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 24290000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -36347,6 +42573,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/237441/daikin-fthf25vav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -36414,6 +42652,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/251786
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 36790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -36479,6 +42730,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/242872/casper-inverter-
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 32.8 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -36542,6 +42805,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/242871/casper-inverter-
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -36604,6 +42879,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/242868/casper-2-hp-lc-1
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -36734,6 +43021,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/239000
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 16690000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -36804,6 +43104,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/241932
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+- **dmx_current_price:** 20090000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -36874,6 +43187,20 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/241933
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 30590000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng Tủ lạnh Aqua AQR-D100FA(BS) Hoặc Giảm 2,700,000Đ
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -36940,6 +43267,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/236391/daikin-ftka25vmv
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37005,6 +43344,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/236393/daikin-ftka35vmv
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37067,6 +43418,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235768/beko-rsvc12vt-55
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37128,6 +43491,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235766/beko-rsvc09vt-12
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -37195,6 +43570,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235762/casper-gc-09is32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37260,6 +43647,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235764/casper-gc-12is32
 - **Bảo hành động cơ:** Máy nén 12 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37324,6 +43723,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235759/casper-lc-09fs32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37386,6 +43797,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235761/casper-lc-12fs32
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 24
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -37455,6 +43878,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235756/235756-550x160.j
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37519,6 +43954,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/311211/tcl-inverter-2-h
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -37586,6 +44033,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235758/tcl-tac-13csd-tp
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37649,6 +44108,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235747/nagakawa-ns-c09r
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -37714,6 +44186,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235748/nagakawa-ns-c12r
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 3 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -37784,6 +44269,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235744/nagakawa-nis-c09
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37851,6 +44349,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235745/nagakawa-nis-c12
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 25
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -37920,6 +44431,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235746/nagakawa-nis-c18
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -37988,6 +44512,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235726/sharp-ah-xp10yhw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 22
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -38050,6 +44586,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235728/sharp-ah-xp13yhw
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -38118,6 +44666,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235722/sharp-ah-xp10ymw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -38184,6 +44744,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235724/sharp-ah-xp13ymw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -38246,6 +44818,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235725/sharp-ah-xp18ymw
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -38316,6 +44900,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235719/lg-v10apfuv-550x
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -38451,6 +45047,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235711/aqua-aqa-kcrv10t
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -38517,6 +45126,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235716/aqua-aqa-kcrv13t
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -38582,6 +45204,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235717/aqua-aqa-kcrv18t
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -38644,6 +45279,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235703/aqua-aqa-kcrv10w
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -38705,6 +45353,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/235704/aqua-aqa-kcrv13w
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -38771,6 +45432,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234641/toshiba-ras-h10l
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -38833,6 +45506,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234643/toshiba-ras-h18l
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -38898,6 +45583,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234642/toshiba-ras-h13l
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -38962,6 +45659,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217755/toshiba-ras-h10d
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -39024,6 +45733,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234638/toshiba-ras-h13c
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -39088,6 +45809,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234639/toshiba-ras-h18c
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -39155,6 +45888,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234170/lg-v10api1-12-55
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -39221,6 +45966,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234172/lg-v13api1-1-550
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -39290,6 +46047,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234173/lg-v18api1-1-550
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -39353,6 +46122,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234169/lg-v13enh1-1-550
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -39415,6 +46196,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/234166/lg-v10enh1-thumb
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -39471,6 +46264,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/233779/dan-lanh-multi-g
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 18
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -39518,6 +46324,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/233752/dan-nong-multi-g
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -39571,6 +46390,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/233774/dan-lanh-multi-g
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 18
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -39635,6 +46467,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/220272/gree-gwc07pa-k3d
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 25
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -39701,6 +46546,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/232925/gree-gwc18pc-k3d
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 22
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -39766,6 +46624,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/220287/gree-gwc09pb-k3d
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 26
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -39834,6 +46705,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/220367/gree-gwc12pb-k3d
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -39898,6 +46782,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/232926/may-lanh-gree-gw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 33
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -39957,6 +46854,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/232921/gree-gwc24ke-k6n
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 24
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -40019,6 +46929,20 @@ thumbnail_url: "https://cdn.tgdd.vn/2026/05/timerseo/220286.jpg"
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 27
+- **dmx_current_price:** 7990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -40141,6 +47065,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/220371/gree-gwc18kd-k6n
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 22
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -40256,6 +47193,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/230375/midea-multi-msaf
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -40427,6 +47376,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/229767/casper-gh-12tl32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -40483,6 +47444,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/229759/casper-gh-09tl32
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 37
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -40796,6 +47769,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/221851/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -40859,6 +47844,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/221834/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -40926,6 +47923,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/219732/daikin-ftka50uav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -40991,6 +48000,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/219733/daikin-ftka60uav
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -41058,6 +48079,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/219645/daikin-atka25uav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -41124,6 +48157,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/219661/daikin-atka35uav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -41183,6 +48228,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/219663/daikin-atf25uv1v
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -41244,6 +48301,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/219664/daikin-atf35uv1v
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -41301,6 +48370,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218670/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -41421,6 +48502,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218666/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -41481,6 +48574,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218667/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -41540,6 +48645,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218668/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -41604,6 +48721,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218660/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -41667,6 +48796,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218663/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -41726,6 +48867,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218664/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -41792,6 +48945,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218658/casper-gc-12tl32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -41848,6 +49013,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218657/casper-gc-09tl32
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -41907,6 +49084,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218655/casper-lc-18tl32
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -41971,6 +49160,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218652/casper-lc-09tl32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -42034,6 +49235,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218654/casper-lc-12tl32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -42093,6 +49306,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218114/tcl-tac-10csd-xa
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -42157,6 +49382,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/218164/tcl-tac-13csd-xa
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -42220,6 +49457,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217794/sharp-ah-x9xew-1
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -42280,6 +49529,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217803/sharp-ah-x18xew-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -42344,6 +49605,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217785/toshiba-ras-h13c
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 14990000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -42407,6 +49681,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217788/toshiba-ras-h18c
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 21490000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -42470,6 +49757,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217720/midea-msafa-18cr
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -42529,6 +49828,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217466/midea-msafa-10cr
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -42593,6 +49904,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217470/midea-msafa-13cr
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+- **dmx_current_price:** 9790000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -42657,6 +49981,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217476/midea-msag-18crd
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 32
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -42725,6 +50061,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217473/midea-msag-10crd
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -42791,6 +50139,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217453/samsung-ar13tyaa
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -42863,6 +50223,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217452/samsung-ar10tyaa
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -42930,6 +50302,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217447/samsung-ar10tygc
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -42999,6 +50383,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217448/samsung-ar13tygc
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43066,6 +50462,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217449/samsung-ar18tygc
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43119,6 +50527,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217450/samsung-ar24tygc
 - **Phạm vi sử dụng:** Từ 30 - 40m² (từ 80 đến 120m³)
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Không
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -43187,6 +50607,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217442/samsung-ar10tyhy
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43254,6 +50686,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217443/samsung-ar13tyhy
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43316,6 +50760,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217445/samsung-ar24tyhy
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -43384,6 +50840,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/217444/samsung-ar18tyhy
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43448,6 +50916,20 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/214834/comfee-sirius-12
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43507,6 +50989,20 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/214820/comfee-sirius-9e
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Cơ hội trúng 30 iPhone 17 Pro 256G Xem chi tiết
+  - 1 đổi 1 trong 1 năm nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi) (Xem chi tiết tại đây)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -43569,6 +51065,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/208837/beko-rsvh09vs-55
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43628,6 +51136,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/208842/beko-rsvh12vs-9-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -43696,6 +51216,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/203522/daikin-ftkc50uvm
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43763,6 +51295,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/203523/daikin-ftkc60uvm
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -43836,6 +51380,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/203519/daikin-atkc25uav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43907,6 +51463,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/203520/daikin-atkc35uav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -43962,6 +51530,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200445/gree-gwc09ib-k3n
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -44020,6 +51601,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200446/gree-gwc12ic-k3n
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44073,6 +51667,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200472/gree-gwc18id-k3n
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -44140,6 +51747,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200465/gree-gwc09fb-k6d
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44204,6 +51824,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200468/gree-gwc12fb-k6d
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 25
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -44272,6 +51905,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200454/toshiba-ras-h10j
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44338,6 +51983,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200459/toshiba-ras-h13j
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44402,6 +52059,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200460/toshiba-ras-h18j
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 32
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -44468,6 +52137,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200447/gree-gwh09wa-k3d
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44526,6 +52208,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200449/gree-gwh18wc-k3d
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -44591,6 +52286,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200448/gree-gwh12wa-k3d
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44648,6 +52356,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200443/gree-gwc12wa-k3d
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -44707,6 +52428,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200444/gree-gwc18wc-k3d
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44763,6 +52497,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200440/gree-gwc09wa-k3d
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 26
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -44824,6 +52571,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200017/daikin-atkq25tav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44884,6 +52643,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/200018/daikin-atkq35tav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44942,6 +52713,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/157629/may-lanh-daikin-
 - **Bảo hành động cơ:** Máy nén 4 năm
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -44992,6 +52775,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/157643/may-lanh-daikin-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 4 năm
 - **Cao phụ kiện chính:** 28.3 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -45054,6 +52849,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/199755/daikin-fthf60rvm
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -45107,6 +52914,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/158007/daikin-fthf50rvm
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -45169,6 +52988,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198950/electrolux-esv12
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -45223,6 +53054,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198951/electrolux-esv18
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 31
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -45284,6 +53127,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198949/electrolux-esv09
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -45341,6 +53196,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198946/may-lanh-samsung
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -45511,6 +53378,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198945/samsung-ar10ryft
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -45569,6 +53448,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198837/midea-msaf-18crn
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -45630,6 +53521,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198832/midea-msaf-10crn
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -45688,6 +53591,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198939/midea-msaf-13crn
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -45754,6 +53669,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198936/midea-msab-10crd
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -45813,6 +53740,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198937/may-lanh-midea-m
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -45871,6 +53810,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198935/midea-msfr-18crd
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -45936,6 +53887,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198933/midea-msfr-10crd
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -45998,6 +53961,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198934/midea-msfr-13crd
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -46055,6 +54030,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198930/may-lanh-midea-m
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -46118,6 +54105,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198931/may-lanh-midea-m
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -46176,6 +54175,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198932/midea-msaf-18crd
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -46243,6 +54254,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198802/tcl-tac-10csi-ke
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -46305,6 +54328,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198805/tcl-tac-13csi-ke
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -46357,6 +54392,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198808/tcl-tac-18csi-ke
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -46413,6 +54460,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198379/may-lanh-lg-v10a
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 27 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -46531,6 +54590,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198373/may-lanh-lg-v10e
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -46594,6 +54665,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198377/may-lanh-lg-v13e
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -46649,6 +54732,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148850/lg-v10enf-1-550x
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 30.8 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -46709,6 +54804,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198169/lg-v24enf-550x16
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 34.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -46764,6 +54871,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148851/lg-v13enf-550x16
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 30.8 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -46828,6 +54947,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148852/lg-v18enf-9-550x
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 34
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -46891,6 +55022,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198152/sharp-ah-xp10wmw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -46947,6 +55090,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198155/sharp-ah-xp18wmw
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 31.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -47010,6 +55165,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198154/sharp-ah-xp13wmw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47066,6 +55233,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198147/may-lanh-sharp-a
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 29.2 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -47131,6 +55310,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198146/sharp-ah-xp10whw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47192,6 +55383,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198109/may-lanh-beko-rs
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47251,6 +55454,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198110/beko-rsvc12vs-55
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -47316,6 +55531,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198106/aqua-aqa-kcrv13n
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47380,6 +55608,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198105/aqua-aqa-kcrv10n
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47437,6 +55678,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198093/may-lanh-aqua-aq
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 27
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -47499,6 +55753,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198096/aqua-aqa-kcrv18w
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 30.7 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47557,6 +55824,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/198091/may-lanh-aqua-aq
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47612,6 +55892,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/192058/may-lanh-daikin-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -47672,6 +55964,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/192060/daikin-fthf35rav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47729,6 +56033,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/191556/may-lanh-tcl-tac
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 25 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47781,6 +56097,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/173990/may-lanh-tcl-tac
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 25 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -47837,6 +56165,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/191555/may-lanh-tcl-tac
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29.2 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -47901,6 +56241,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/304228/may-lanh-samsung
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -47963,6 +56315,19 @@ thumbnail_url: "https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/2002/304229
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+- **dmx_current_price:** 11890000
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -48015,6 +56380,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/184355/may-lanh-daikin-
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 28.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -48065,6 +56442,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/184358/may-lanh-daikin-
 - **Phạm vi sử dụng:** Từ 30 - 40m² (từ 80 đến 120m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 28.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -48118,6 +56507,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/182501/may-lanh-aqua-aq
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 32.2 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -48176,6 +56578,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/182495/may-lanh-aqua-aq
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 28 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -48228,6 +56643,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/182496/may-lanh-aqua-aq
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 28 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -48284,6 +56712,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/182334/may-lanh-aqua-aq
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 31.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -48342,6 +56783,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/182335/may-lanh-aqua-aq
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 32.7 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -48402,6 +56856,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/182208/may-lanh-aqua-1-
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-32
 - **Cao phụ kiện chính:** 30.1 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -48922,6 +57389,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71259/toshiba-ras-h10g2
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 25 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -48971,6 +57450,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71260/toshiba-ras-h13g2
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 27.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -49022,6 +57513,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71845/toshiba-ras-h18g2
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 27.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -49075,6 +57578,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75213/toshiba-ras-h24s3
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 32 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -49122,6 +57637,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71652/toshiba-ras-h18s3
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 32 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -49168,6 +57695,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71257/toshiba-ras-h10s3
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 25 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -49217,6 +57756,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/71258/toshiba-ras-h13s3
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 27.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -49271,6 +57822,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/70875/may-lanh-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -49324,6 +57887,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/70876/panasonic-cu-cs-s
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -49371,6 +57946,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/70882/panasonic-cu-cs-s
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -49423,6 +58010,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/70877/panasonic-cu-cs-s
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -49587,6 +58186,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/158618/daikin-atkc25tav
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -49649,6 +58260,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/158277/may-lanh-daikin-
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 23
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -49704,6 +58327,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/158070/daikin-ftc25nv1v
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28.3 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -49761,6 +58396,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/158279/daikin-ftc35nv1v
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 28
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -49882,6 +58529,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/156396/may-lanh-beko-rs
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -49933,6 +58592,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/67763/panasonic-cucs-kc
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -49981,6 +58652,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/67766/panasonic-15-hp-c
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -50033,6 +58716,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/67767/panasonic-cu-cs-k
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -50079,6 +58774,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/67769/may-lanh-panasoni
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -50140,6 +58847,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/155067/may-lanh-beko-rs
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -50200,6 +58919,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/156188/may-lanh-beko-rs
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -50257,6 +58988,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/156071/may-lanh-gree-gw
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -50309,6 +59053,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/156074/may-lanh-gree-gw
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29.8 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -50365,6 +59122,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/156073/may-lanh-gree-gw
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 28.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -50424,6 +59194,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/156067/may-lanh-gree-gw
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 26.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -50473,6 +59256,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/156063/may-lanh-gree-gw
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -50526,6 +59322,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/156068/may-lanh-gree-gw
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29.8 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -50648,6 +59457,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/155046/may-lanh-beko-rs
 - **Bảo hành động cơ:** Máy nén 5 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -50703,6 +59524,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154691/gree-gwc09fb-k6d
 - **Bảo hành động cơ:** Máy nén 30 tháng
 - **Cao phụ kiện chính:** 25.6 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -50756,6 +59590,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154694/gree-gwc12fb-k6d
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 30 tháng
 - **Cao phụ kiện chính:** 25.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -50811,6 +59658,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154690/gree-gwc12fb-k6d
 - **Bảo hành động cơ:** Máy nén 30 tháng
 - **Cao phụ kiện chính:** 25.6 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -50865,6 +59725,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154016/gree-gwc09fb-k6d
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 30 tháng
 - **Cao phụ kiện chính:** 25.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -50926,6 +59799,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154650/sharp-ah-xp10vxw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 24.9 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -50986,6 +59871,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154667/sharp-ah-xp13vxw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 24.9 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -51043,6 +59940,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/151042/may-lanh-samsung
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 28.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -51095,6 +60004,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154202/may-lanh-samsung
 - **Phạm vi sử dụng:** Từ 30 - 40m² (từ 80 đến 120m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29.8 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -51149,6 +60070,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154150/may-lanh-samsung
 - **Phạm vi sử dụng:** Từ 30 - 40m² (từ 80 đến 120m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 30.1 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -51207,6 +60140,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154149/samsung-ar10nvfs
 - **Bảo hành động cơ:** Máy nén 30 tháng
 - **Cao phụ kiện chính:** 26.1 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -51263,6 +60208,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154018/may-lanh-panason
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -51321,6 +60278,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/154023/may-lanh-panason
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -51378,6 +60347,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153901/may-lanh-panason
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -51434,6 +60415,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153900/may-lanh-panason
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -51499,6 +60492,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153978/may-lanh-gree-gw
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27.6 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -51556,6 +60562,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153982/may-lanh-gree-gw
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Tặng gói bảo hành An Gia 2 năm - An Tâm tuyệt đối Xem chi tiết
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -51615,6 +60634,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153737/may-lanh-samsung
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 27 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -51676,6 +60707,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153871/may-lanh-samsung
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 31 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -51732,6 +60775,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153872/samsung-ar24nvfx
 - **Phạm vi sử dụng:** Từ 30 - 40m² (từ 80 đến 120m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 30.1 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -51793,6 +60848,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153870/may-lanh-samsung
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 27
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -51850,6 +60917,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153853/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -51909,6 +60988,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153855/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -51966,6 +61057,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153850/may-lanh-panason
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -52022,6 +61125,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153852/may-lanh-panason
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -52085,6 +61200,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153825/panasonic-cu-cs-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -52150,6 +61277,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153832/may-lanh-panason
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -52212,6 +61351,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153839/may-lanh-panason
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -52276,6 +61427,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153819/may-lanh-panason
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -52403,6 +61566,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153806/may-lanh-panason
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -52457,6 +61632,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153787/may-lanh-toshiba
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 32 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -52517,6 +61704,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153671/may-lanh-toshiba
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -52576,6 +61775,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91858/dieu-hoa-toshiba-
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -52641,6 +61852,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92135/may-lanh-toshiba-
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 32 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -52704,6 +61927,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/153778/may-lanh-toshiba
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -52753,6 +61988,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/152512/may-lanh-electro
 - **Dòng sản phẩm:** 2018
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-32
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -52806,6 +62053,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/152506/may-lanh-electro
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -52853,6 +62112,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/152532/may-lanh-electro
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -52915,6 +62186,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148894/may-lanh-lg-b10e
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -52975,6 +62258,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148895/may-lanh-lg-b13e
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 29
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -53038,6 +62333,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148839/lg-v10api-2-550x
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 31
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -53104,6 +62411,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148849/lg-v13api-2-550x
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -53173,6 +62492,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148832/may-lanh-lg-v13a
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -53238,6 +62569,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/148807/may-lanh-lg-v10a
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 10 năm
 - **Cao phụ kiện chính:** 30
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -53584,6 +62927,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91916/may-lanh-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -53640,6 +62995,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/112435/may-lanh-panason
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -53693,6 +63060,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91880/dieu-hoa-panasoni
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -53750,6 +63129,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91881/may-lanh-panasoni
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -53857,6 +63248,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/106853/panasonic-cu-cs-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30.2 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -53911,6 +63314,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92121/may-dieu-hoa-2-ch
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -53964,6 +63379,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92122/dieu-hoa-panasoni
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30.2 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -54022,6 +63449,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92105/may-dieu-hoa-2-ch
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54074,6 +63513,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91852/dieu-hoa-samsung-
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.1 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54124,6 +63575,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92930/may-dieu-hoa-2-ch
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.1 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -54226,6 +63689,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/99645/may-lanh-toshiba-
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 32 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54272,6 +63747,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91856/may-lanh-toshiba-
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 2 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -54367,6 +63854,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92128/may-lanh-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54421,6 +63920,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91884/may-lanh-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54473,6 +63984,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92129/maylanhpanasonic-
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -54530,6 +64053,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92127/dieu-hoa-lg-v13ap
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 30.2 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54586,6 +64121,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92126/dieu-hoa-lg-v10ap
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 30.2 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54640,6 +64187,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92123/may-lanh-panasoni
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 32 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -54696,6 +64255,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/92124/may-lanh-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54749,6 +64320,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91668/may-lanh-samsung-
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 28.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54801,6 +64384,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91805/may-lanh-samsung-
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 28.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -54856,6 +64451,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91887/dieuhoasamsung-ar
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 29.8 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -54909,6 +64516,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91125/may-lanh-panasoni
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -54964,6 +64583,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91883/may-lanh-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -55017,6 +64648,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91124/may-lanh-panasoni
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -55072,6 +64715,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91882/dieu-hoa-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 30.2 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -55125,6 +64780,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91806/dieu-hoa-samsung-
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.1 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -55181,6 +64848,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91847/may-lanh-samsung-
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.1 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -55231,6 +64910,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91855/may-lanh-samsung-
 - **Phạm vi sử dụng:** Từ 20 - 30m² (từ 60 đến 80m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.1 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -55286,6 +64977,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91799/may-lanh-samsung-
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -55389,6 +65092,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91803/may-lanh-samsung-
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28.9 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -55441,6 +65156,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/91801/may-lanh-samsung-
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-22
 - **Cao phụ kiện chính:** 28.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -55584,6 +65311,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/85168/may-lanh-lg-v18en
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 33 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -55630,6 +65369,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/88346/may-lanh-lg-v24en
 - **Phạm vi sử dụng:** Từ 30 - 40m² (từ 80 đến 120m³)
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -55684,6 +65435,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/85163/may-lanh-lg-15-hp
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30.2 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -55741,6 +65504,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/88118/may-lanh-lg-v10ap
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30.2 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -55794,6 +65569,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/88249/may-lanh-lg-v13ap
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30.2 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -55852,6 +65639,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75408/may-lanh-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 28 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -55907,6 +65706,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75412/may-lanh-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 28 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -55960,6 +65771,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/88008/panasonic-cu-cs-v
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 28 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56009,6 +65832,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/85215/may-lanh-mitsubis
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.8 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56055,6 +65890,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/85213/dieu-hoa-mitsubis
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.8 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -56108,6 +65955,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/84858/may-lanh-aqua-aqa
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 27.4 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56159,6 +66019,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/84860/may-lanh-aqua-aqa
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 31.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -56220,6 +66093,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/84859/may-lanh-aqua-aqa
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56272,6 +66158,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75987/may-lanh-aqua-aqa
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56320,6 +66219,19 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75988/aqua-aqa-kcrv12wg
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 28 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - 1 đổi 1 trong 730 ngày nếu sản phẩm lỗi kỹ thuật (Liên hệ Hãng kiểm tra lỗi và đổi)
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -56481,6 +66393,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75599/may-lanh-daikin-f
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 29.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56538,6 +66462,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75468/dieu-hoa-2-chieu-
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56591,6 +66527,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75470/panasonic-cu-cs-y
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -56648,6 +66596,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75469/panasonic-cu-cs-y
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56699,6 +66659,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75453/may-lanh-panasoni
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -56754,6 +66726,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75454/may-lanh-panasoni
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.6 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56805,6 +66789,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75455/may-lanh-panasoni
 - **Loại Gas:** R-32
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -56913,6 +66909,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75410/may-lanh-toshiba-
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -56968,6 +66976,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75409/may-lanh-toshiba-
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57021,6 +67041,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75452/may-lanh-toshiba-
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57073,6 +67105,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75224/may-lanh-sharp-ah
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 31.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -57209,6 +67253,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75223/may-lanh-sharp-ah
 - **Bảo hành động cơ:** Máy nén 1 năm
 - **Cao phụ kiện chính:** 31.6 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57262,6 +67318,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/73927/may-lanh-toshiba-
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 27.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -57317,6 +67385,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/73950/may-lanh-toshiba-
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 27.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57366,6 +67446,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/75142/may-lanh-toshiba-
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 32 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -57419,6 +67511,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74889/samsung-ar10kvfsb
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.1 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57467,6 +67571,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74890/samsung-ar13kvfsb
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.1 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -57519,6 +67635,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74891/samsung-ar18kvfsb
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.1 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57570,6 +67698,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74873/samsung-ar09kcfss
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.1 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57619,6 +67759,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74876/samsung-ar12kcfss
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 26.1 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -57670,6 +67822,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74878/samsung-ar18kcfss
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30.1 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57720,6 +67884,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74882/may-lanh-samsung-
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 30.1 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57768,6 +67944,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74603/toshiba-ras-h10g2
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -57820,6 +68008,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74617/toshiba-ras-h13g2
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -57870,6 +68070,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74622/toshiba-ras-h16g2
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -57987,6 +68199,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74588/toshiba-ras-h18g2
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.3 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -58043,6 +68267,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74574/toshiba-ras-h10g2
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 2 năm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -58089,6 +68325,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74303/panasonic-cu-cs-y
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -58133,6 +68381,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/74304/panasonic-cu-cs-y
 - **Loại Gas:** R-410A
 - **Bảo hành động cơ:** Máy nén 7 năm - Yêu cầu kích hoạt điện tử thành công
 - **Cao phụ kiện chính:** 29.6 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -58189,6 +68449,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/73682/lg-b10enc-550x160
 - **Loại Gas:** R-410A
 - **Cao phụ kiện chính:** 26.5 cm
 
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
+
 
 <!-- rag-document-separator -->
 
@@ -58234,6 +68506,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/73683/lg-b13enc-550x160
 - **Dòng sản phẩm:** 2016
 - **Phạm vi sử dụng:** Từ 15 - 20m² (từ 40 đến 60m³)
 - **Loại Gas:** R-410A
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -58281,6 +68565,18 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/72780/mitsubishi-electr
 - **Phạm vi sử dụng:** Dưới 15m² (từ 30 đến 45m³)
 - **Loại Gas:** R-22
 - **Cao phụ kiện chính:** 29 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ
 
 
 <!-- rag-document-separator -->
@@ -58331,3 +68627,15 @@ thumbnail_url: "https://cdn.tgdd.vn/Products/Images/2002/72781/mitsubishi-electr
 - **Loại Gas:** R-22
 - **Bảo hành động cơ:** Máy nén 2 năm
 - **Cao phụ kiện chính:** 29.5 cm
+
+## Khuyến mãi
+- **Khuyến mãi và quà tặng:**
+  - Phiếu mua hàng Máy lọc không khí/Hút bụi trị giá 300,000đ áp dụng đơn hàng từ 3 triệu
+  - Phiếu mua hàng Máy lọc nước Sanaky trị giá 500,000đ
+  - Phiếu mua hàng Máy rửa chén trị giá 1 triệu
+  - Phiếu mua hàng mua Tivi và Loa karaoke trị giá 500,000đ Xem chi tiết
+  - Phiếu mua hàng Quạt điều hòa trị giá 300.000đ
+  - Phiếu mua hàng Quạt bàn/hộp/sạc/đứng/lửng/treo trị giá 100.000đ (Áp dụng tùy sản phẩm)
+  - Phiếu mua hàng máy lọc nước trị giá 300.000đ
+  - Phiếu mua hàng giảm 10% tối đa 300,000đ mua đèn năng lượng mặt trời
+  - Phiếu mua hàng mua Pin tiểu (đơn hàng từ 80.000đ trở lên) trị giá 20.000đ

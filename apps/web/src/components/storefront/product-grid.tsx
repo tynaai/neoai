@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { motion } from 'motion/react'
 import { ChevronLeft, ChevronRight, LayoutGrid } from 'lucide-react'
 
@@ -10,9 +10,13 @@ import { StorefrontProductCard, StorefrontProductCardSkeleton } from './product-
 const PAGE_SIZE = 24
 
 export function ProductGrid({
+  category,
+  categoryLabel,
   compareIds,
   onToggleCompare,
 }: {
+  category: string
+  categoryLabel: string
   compareIds: string[]
   onToggleCompare: (product: StoreProduct) => void
 }) {
@@ -20,8 +24,14 @@ export function ProductGrid({
   const [activeBrand, setActiveBrand] = useState<string | null>(null)
   const sectionRef = useRef<HTMLElement>(null)
 
-  const brands = useProductBrands()
-  const { data, loading, error } = useProducts({ page, pageSize: PAGE_SIZE, brand: activeBrand })
+  const brands = useProductBrands(category)
+  const { data, loading, error } = useProducts({ page, pageSize: PAGE_SIZE, brand: activeBrand, category })
+
+  // Switching category makes the old page/brand selection stale (may not exist there at all).
+  useEffect(() => {
+    setPage(1)
+    setActiveBrand(null)
+  }, [category])
 
   const changeBrand = (brand: string | null) => {
     setActiveBrand(brand)
@@ -47,7 +57,7 @@ export function ProductGrid({
             <LayoutGrid className="size-4.5" aria-hidden />
           </span>
           <div>
-            <h2 className="font-heading text-xl tracking-wide sm:text-2xl">Tất cả máy lạnh</h2>
+            <h2 className="font-heading text-xl tracking-wide sm:text-2xl">Tất cả {categoryLabel.toLowerCase()}</h2>
             <p className="text-xs text-muted-foreground sm:text-sm">
               {data ? `${data.total.toLocaleString('vi-VN')} sản phẩm chính hãng` : 'Đang tải...'}
             </p>

@@ -9,11 +9,13 @@ import { StorefrontProductCard, StorefrontProductCardSkeleton } from './product-
 export function ProductCarousel({
   products,
   loading,
+  categoryLabel,
   compareIds,
   onToggleCompare,
 }: {
   products: StoreProduct[]
   loading: boolean
+  categoryLabel: string
   compareIds: string[]
   onToggleCompare: (product: StoreProduct) => void
 }) {
@@ -43,7 +45,7 @@ export function ProductCarousel({
             <Sparkles className="size-4.5" aria-hidden />
           </span>
           <div>
-            <h2 className="font-heading text-xl tracking-wide sm:text-2xl">Máy lạnh nổi bật</h2>
+            <h2 className="font-heading text-xl tracking-wide sm:text-2xl">{categoryLabel} nổi bật</h2>
             <p className="text-xs text-muted-foreground sm:text-sm">Gợi ý cho bạn từ catalog Điện Máy Xanh</p>
           </div>
         </div>

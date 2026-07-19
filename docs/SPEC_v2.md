@@ -13,3 +13,8 @@ Chatbot
 + So sánh sản phẩm chỉ với 1 cú chạm
 + Không bao giờ bịa thông tin
 + Gợi ý nâng cấp đúng lúc, không ép mua
+
+
++ Vấn đề:
+- Đang hỏi tủ lạnh nhảy sang máy lạnh thì sao
+- query thiếu -> ngữ cảnh thì hỏi lại 

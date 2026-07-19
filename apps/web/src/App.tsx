@@ -10,7 +10,7 @@ import { Hero } from '~/components/storefront/hero'
 import { ProductCarousel } from '~/components/storefront/product-carousel'
 import { ProductGrid } from '~/components/storefront/product-grid'
 import { PromoCarousel } from '~/components/storefront/promo-carousel'
-import type { StoreProduct } from '~/lib/products-api'
+import { DEFAULT_CATEGORY_CODE, STORE_CATEGORIES, type StoreProduct } from '~/lib/products-api'
 import { useProducts } from '~/lib/use-products'
 import { ForgotPasswordPage, LoginPage, RegisterPage } from './auth'
 
@@ -19,9 +19,11 @@ const MAX_COMPARE_ITEMS = 4
 function StorefrontHome() {
   const [chatOpen, setChatOpen] = useState(false)
   const [compareItems, setCompareItems] = useState<StoreProduct[]>([])
+  const [category, setCategory] = useState(DEFAULT_CATEGORY_CODE)
+  const categoryLabel = STORE_CATEGORIES.find((c) => c.code === category)?.label ?? ''
   // Shared "featured" fetch (page 1, 10 items) — both the hero image and the carousel read
   // from it so we don't fire two near-identical requests on first paint.
-  const { data: featured, loading: featuredLoading } = useProducts({ page: 1, pageSize: 10 })
+  const { data: featured, loading: featuredLoading } = useProducts({ page: 1, pageSize: 10, category })
 
   const compareIds = compareItems.map((p) => p.id)
 
@@ -42,7 +44,7 @@ function StorefrontHome() {
 
   return (
     <div className="flex min-h-svh flex-col bg-muted/40">
-      <AdvisorHeader onOpenChat={() => setChatOpen(true)} />
+      <AdvisorHeader category={category} onCategoryChange={setCategory} />
       <main className="flex-1">
         <Hero onOpenChat={() => setChatOpen(true)} />
         <PromoCarousel />
@@ -50,16 +52,22 @@ function StorefrontHome() {
         <ProductCarousel
           products={featured?.items ?? []}
           loading={featuredLoading}
+          categoryLabel={categoryLabel}
           compareIds={compareIds}
           onToggleCompare={toggleCompare}
         />
-        <ProductGrid compareIds={compareIds} onToggleCompare={toggleCompare} />
+        <ProductGrid
+          category={category}
+          categoryLabel={categoryLabel}
+          compareIds={compareIds}
+          onToggleCompare={toggleCompare}
+        />
       </main>
 
       <motion.button
         type="button"
         onClick={() => setChatOpen(true)}
-        aria-label="Mở trợ lý AI tư vấn máy lạnh"
+        aria-label="Mở NeoAI"
         initial={{ opacity: 0, scale: 0.6 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ type: 'spring', stiffness: 260, damping: 18, delay: 0.6 }}
@@ -69,7 +77,7 @@ function StorefrontHome() {
       >
         <span className="absolute inset-0 -z-10 animate-ping rounded-full bg-primary/40" style={{ animationDuration: '2.4s' }} />
         <Sparkles className="size-5" aria-hidden />
-        <span className="hidden text-sm font-semibold sm:inline">Tư vấn AI</span>
+        <span className="hidden text-sm font-semibold sm:inline">NeoAI</span>
       </motion.button>
 
       <ChatSidebar

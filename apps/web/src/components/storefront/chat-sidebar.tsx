@@ -37,7 +37,7 @@ export function ChatSidebar({
         <SheetHeader className="border-b px-4 py-3">
           <SheetTitle className="flex items-center gap-2">
             <Sparkles className="size-4 text-primary" aria-hidden />
-            Trợ lý AI tư vấn máy lạnh
+            NeoAI
           </SheetTitle>
           <SheetDescription className="sr-only">
             Trò chuyện với AI để nhận gợi ý máy lạnh phù hợp nhu cầu và ngân sách của bạn.

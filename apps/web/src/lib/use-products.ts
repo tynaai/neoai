@@ -26,19 +26,19 @@ export function useProducts(params: FetchProductsParams) {
       cancelled = true
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [params.page, params.pageSize, params.brand, params.search])
+  }, [params.page, params.pageSize, params.brand, params.search, params.category])
 
   return { data, loading, error }
 }
 
-export function useProductBrands() {
+export function useProductBrands(category?: string | null) {
   const [brands, setBrands] = useState<string[]>([])
 
   useEffect(() => {
-    fetchProductBrands()
+    fetchProductBrands(category)
       .then(setBrands)
       .catch(() => setBrands([]))
-  }, [])
+  }, [category])
 
   return brands
 }

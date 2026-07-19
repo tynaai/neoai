@@ -1,6 +1,6 @@
 // Plain paginated catalog listing — no LLM, no scoring, just SQL. Backs the storefront grid,
 // separate from the advisor's retrieval+scoring pipeline in ../advisor/retrieval.ts.
-import { and, asc, count, eq, ilike } from 'drizzle-orm'
+import { and, asc, count, eq, ilike, sql } from 'drizzle-orm'
 
 import { db } from '../../db/client'
 import { products } from '../../db/schema'
@@ -67,9 +67,10 @@ export async function listProducts({
     })
     .from(products)
     .where(where)
-    // title first for a stable, browsable order; id as tiebreaker so LIMIT/OFFSET pages don't
-    // reshuffle rows that share a title.
-    .orderBy(asc(products.title), asc(products.id))
+    // Priced items first — most products in this dataset have no price_current (DMX shows
+    // "liên hệ báo giá" for them), so plain alphabetical order buried real prices deep in the
+    // list. Title/id stay as the stable order within each group.
+    .orderBy(sql`${products.priceCurrent} IS NULL`, asc(products.title), asc(products.id))
     .limit(safePageSize)
     .offset((safePage - 1) * safePageSize)
 

@@ -1,12 +1,17 @@
 import { motion } from 'motion/react'
-import { MessageCircle } from 'lucide-react'
 
 import { Badge } from '~/components/ui/badge'
-import { Button } from '~/components/ui/button'
+import { CategoryMenu } from './category-menu'
 import { ThemeToggle } from './theme-toggle'
 import { UserMenu } from './user-menu'
 
-export function AdvisorHeader({ onOpenChat }: { onOpenChat?: () => void }) {
+export function AdvisorHeader({
+  category,
+  onCategoryChange,
+}: {
+  category?: string
+  onCategoryChange?: (code: string) => void
+}) {
   return (
     <motion.header
       initial={{ y: -16, opacity: 0 }}
@@ -45,12 +50,8 @@ export function AdvisorHeader({ onOpenChat }: { onOpenChat?: () => void }) {
         </div>
 
         <nav aria-label="Điều hướng" className="flex shrink-0 items-center gap-2 sm:gap-3">
-          {onOpenChat && (
-            <Button className="h-9 rounded-full" onClick={onOpenChat}>
-              <MessageCircle aria-hidden />
-              <span className="hidden sm:inline">Tư vấn AI</span>
-              <span className="sr-only sm:hidden">Tư vấn AI</span>
-            </Button>
+          {category && onCategoryChange && (
+            <CategoryMenu category={category} onCategoryChange={onCategoryChange} />
           )}
           <ThemeToggle />
           <UserMenu />
