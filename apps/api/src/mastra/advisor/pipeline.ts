@@ -6,7 +6,12 @@ import { createAdvisorAgent } from '../agents/advisor'
 import { parseTuLanhFacts } from './facts'
 import { detectRepair } from './repair'
 import { retrieveCandidates } from './retrieval'
-import { getState, mergeFilters, saveState } from './session-state'
+import {
+  getState,
+  mergeFilters,
+  saveState,
+  type ConversationState,
+} from './session-state'
 import { resolveNextSlot, type SearchFilters } from './slot-schema'
 import { findUpsellCandidate } from './upsell'
 import { pickTop3, scoreAll, type TopRole } from './wsum'
@@ -14,14 +19,27 @@ import { pickTop3, scoreAll, type TopRole } from './wsum'
 const agent = createAdvisorAgent()
 
 const ExtractionSchema = z.object({
-  budgetMin: z.number().nullable().describe('Ngân sách tối thiểu VND, null nếu không đề cập'),
-  budgetMax: z.number().nullable().describe('Ngân sách tối đa VND, null nếu không đề cập'),
-  householdSize: z.number().nullable().describe('Số người trong nhà, null nếu không đề cập'),
+  budgetMin: z
+    .number()
+    .nullable()
+    .describe('Ngân sách tối thiểu VND, null nếu không đề cập'),
+  budgetMax: z
+    .number()
+    .nullable()
+    .describe('Ngân sách tối đa VND, null nếu không đề cập'),
+  householdSize: z
+    .number()
+    .nullable()
+    .describe('Số người trong nhà, null nếu không đề cập'),
   priority: z
     .enum(['tiet_kiem_dien', 'dung_tich_lon', 'gia_tot'])
     .nullable()
     .describe('Ưu tiên khách vừa nêu, null nếu không đề cập'),
-  isRejection: z.boolean().describe('true nếu khách đang chê/từ chối sản phẩm vừa gợi ý ở lượt trước'),
+  isRejection: z
+    .boolean()
+    .describe(
+      'true nếu khách đang chê/từ chối sản phẩm vừa gợi ý ở lượt trước',
+    ),
 })
 
 export interface AdvisorProductView {
@@ -52,7 +70,11 @@ function formatVnd(n: number): string {
   return new Intl.NumberFormat('vi-VN').format(n) + 'đ'
 }
 
-async function extractFilters(userMessage: string, historyText: string, current: SearchFilters) {
+async function extractFilters(
+  userMessage: string,
+  historyText: string,
+  current: SearchFilters,
+) {
   const prompt = `Lịch sử hội thoại gần đây:
 ${historyText || '(chưa có)'}
 
@@ -78,13 +100,22 @@ budgetMin=round(X*0.85), budgetMax=round(X*1.15).`
 function describeFilters(f: SearchFilters): string {
   const parts: string[] = []
   if (f.budgetMin !== null || f.budgetMax !== null) {
-    if (f.budgetMin !== null && f.budgetMax !== null) parts.push(`ngân sách ${formatVnd(f.budgetMin)}–${formatVnd(f.budgetMax)}`)
-    else if (f.budgetMax !== null) parts.push(`ngân sách dưới ${formatVnd(f.budgetMax)}`)
-    else if (f.budgetMin !== null) parts.push(`ngân sách trên ${formatVnd(f.budgetMin)}`)
+    if (f.budgetMin !== null && f.budgetMax !== null)
+      parts.push(
+        `ngân sách ${formatVnd(f.budgetMin)}–${formatVnd(f.budgetMax)}`,
+      )
+    else if (f.budgetMax !== null)
+      parts.push(`ngân sách dưới ${formatVnd(f.budgetMax)}`)
+    else if (f.budgetMin !== null)
+      parts.push(`ngân sách trên ${formatVnd(f.budgetMin)}`)
   }
   if (f.householdSize !== null) parts.push(`gia đình ${f.householdSize} người`)
   if (f.priority !== null) {
-    const label = { tiet_kiem_dien: 'ưu tiên tiết kiệm điện', dung_tich_lon: 'ưu tiên dung tích lớn', gia_tot: 'ưu tiên giá tốt' }[f.priority]
+    const label = {
+      tiet_kiem_dien: 'ưu tiên tiết kiệm điện',
+      dung_tich_lon: 'ưu tiên dung tích lớn',
+      gia_tot: 'ưu tiên giá tốt',
+    }[f.priority]
     parts.push(label)
   }
   return parts.length > 0 ? parts.join(', ') : '(chưa có tiêu chí nào)'
@@ -96,16 +127,17 @@ const ROLE_LABEL: Record<TopRole, string> = {
   model_choice: 'nổi bật ở 1 tiêu chí riêng',
 }
 
-async function streamRepairMessage(userMessage: string, filters: SearchFilters): Promise<AsyncIterable<string>> {
-  const prompt = `Khách vừa nói: "${userMessage}" — đây là tín hiệu khách đang sửa lại điều bot hiểu sai.
+function buildRepairPrompt(
+  userMessage: string,
+  filters: SearchFilters,
+): string {
+  return `Khách vừa nói: "${userMessage}" — đây là tín hiệu khách đang sửa lại điều bot hiểu sai.
 
 Hiện tại bot đang hiểu yêu cầu là: ${describeFilters(filters)}.
 
 Hãy trả lời theo ĐÚNG 2 bước, không hơn không kém:
 1. Nhắc lại ngắn gọn đang hiểu gì (1 câu).
 2. Đưa 2-3 lựa chọn CỤ THỂ để khách chọn nhanh (không hỏi mở lại, không xin lỗi nhiều lần).`
-  const stream = await agent.stream(prompt)
-  return stream.textStream
 }
 
 interface RenderContext {
@@ -118,25 +150,30 @@ interface RenderContext {
   upsellText: string | null
 }
 
-async function streamRenderMessage(ctx: RenderContext): Promise<AsyncIterable<string>> {
+function buildRenderPrompt(ctx: RenderContext): string {
   if (ctx.needMoreInfo) {
-    const prompt = `Không tìm thấy tủ lạnh nào khớp yêu cầu: ${describeFilters(ctx.filters)}.
+    return `Không tìm thấy tủ lạnh nào khớp yêu cầu: ${describeFilters(ctx.filters)}.
 Hãy báo khách biết nhẹ nhàng và hỏi khách có muốn nới ngân sách hoặc điều chỉnh tiêu chí không — 1 câu hỏi duy nhất,
 không xin lỗi dài dòng.`
-    const stream = await agent.stream(prompt)
-    return stream.textStream
   }
 
   const productLines = ctx.products
     .map((p, i) => {
       const factsLine = [
-        p.facts.capacityLiters !== null ? `dung tích ${p.facts.capacityLiters} lít` : null,
-        p.facts.powerKwhYear !== null ? `điện năng ${p.facts.powerKwhYear} kWh/năm` : null,
+        p.facts.capacityLiters !== null
+          ? `dung tích ${p.facts.capacityLiters} lít`
+          : null,
+        p.facts.powerKwhYear !== null
+          ? `điện năng ${p.facts.powerKwhYear} kWh/năm`
+          : null,
         p.facts.isInverter ? 'có Inverter' : null,
       ]
         .filter(Boolean)
         .join(', ')
-      const priceLine = p.priceCurrent !== null ? formatVnd(p.priceCurrent) : 'chưa có dữ liệu giá'
+      const priceLine =
+        p.priceCurrent !== null
+          ? formatVnd(p.priceCurrent)
+          : 'chưa có dữ liệu giá'
       return `${i + 1}. "${p.title}" (${p.brand ?? 'không rõ hãng'}) — vai trò: ${ROLE_LABEL[p.role]} — giá: ${priceLine} — ${factsLine || 'chưa có thông số chi tiết'}`
     })
     .join('\n')
@@ -153,7 +190,7 @@ không xin lỗi dài dòng.`
       : null,
   ].filter(Boolean)
 
-  const prompt = `Khách vừa nhắn: "${ctx.userMessage}"
+  return `Khách vừa nhắn: "${ctx.userMessage}"
 Yêu cầu hiện tại: ${describeFilters(ctx.filters)}
 
 Dữ liệu sản phẩm THẬT (CHỈ được dùng đúng số liệu dưới đây, không thêm/đoán số liệu nào khác):
@@ -161,20 +198,25 @@ ${productLines}
 
 Viết 1 đoạn ngắn giới thiệu các sản phẩm trên bằng ngôn ngữ phổ thông (không liệt kê thô), nêu rõ ưu điểm/trade-off
 theo đúng vai trò từng sản phẩm. ${parts.join(' ')}`
-
-  const stream = await agent.stream(prompt)
-  return stream.textStream
 }
 
-export async function runAdvisorPipelineStream(
+export interface PreparedAdvisorReply {
+  meta: AdvisorMeta
+  prompt: string
+  stateToSave: ConversationState | null
+}
+
+// Computes the grounded response before opening the LLM stream. The workflow owns streaming and
+// commits `stateToSave` only once the stream completes, so a failed/disconnected reply does not
+// advance the conversation state.
+export async function prepareAdvisorReply(
   conversationId: string,
   userMessage: string,
   historyText = '',
-): Promise<{ meta: AdvisorMeta; textStream: AsyncIterable<string> }> {
+): Promise<PreparedAdvisorReply> {
   const state = await getState(conversationId)
 
   if (detectRepair(userMessage)) {
-    const textStream = await streamRepairMessage(userMessage, state.filters)
     return {
       meta: {
         products: [],
@@ -183,12 +225,17 @@ export async function runAdvisorPipelineStream(
         widenedBudget: false,
         done: resolveNextSlot(state.filters) === null,
       },
-      textStream,
+      prompt: buildRepairPrompt(userMessage, state.filters),
+      stateToSave: null,
     }
   }
 
   // 1 combined structured-output call: extract this turn's delta filters + rejection check.
-  const extraction = await extractFilters(userMessage, historyText, state.filters)
+  const extraction = await extractFilters(
+    userMessage,
+    historyText,
+    state.filters,
+  )
 
   let excludedIds = state.excludedIds
   if (extraction.isRejection && state.lastShownIds.length > 0) {
@@ -196,7 +243,10 @@ export async function runAdvisorPipelineStream(
   }
   const filters = mergeFilters(state.filters, extraction)
   const nextSlot = resolveNextSlot(filters)
-  const { candidates: retrieved, widenedBudget } = await retrieveCandidates(filters, excludedIds)
+  const { candidates: retrieved, widenedBudget } = await retrieveCandidates(
+    filters,
+    excludedIds,
+  )
 
   // Soft filter, not a hard one in retrieveCandidates — only ~40% of products have this field,
   // so we exclude a candidate only when we KNOW it's too small, never when data is missing.
@@ -205,7 +255,9 @@ export async function runAdvisorPipelineStream(
     filters.householdSize !== null
       ? (() => {
           const fit = retrieved.filter(
-            (c) => c.facts.householdSize === null || c.facts.householdSize >= (filters.householdSize as number),
+            (c) =>
+              c.facts.householdSize === null ||
+              c.facts.householdSize >= (filters.householdSize as number),
           )
           return fit.length > 0 ? fit : retrieved
         })()
@@ -235,33 +287,55 @@ export async function runAdvisorPipelineStream(
   const bestFit = picks.find((p) => p.role === 'best_fit')
   if (nextSlot === null && !state.hasUpsold && bestFit) {
     const usedIds = new Set(products.map((p) => p.id))
-    const upsell = findUpsellCandidate(scored, bestFit.scored.candidate, usedIds)
+    const upsell = findUpsellCandidate(
+      scored,
+      bestFit.scored.candidate,
+      usedIds,
+    )
     if (upsell) {
       upsellText = `"${upsell.candidate.title}" giá cao hơn ${formatVnd(upsell.priceDiff)} — ${upsell.diffFacts.join('; ')}.`
       hasUpsold = true
     }
   }
 
-  // Save state now, before rendering — it doesn't depend on the streamed text.
-  await saveState(conversationId, {
+  const stateToSave = {
     filters,
     excludedIds,
     lastShownIds: products.map((p) => p.id),
     hasUpsold,
-  })
-
-  const textStream = await streamRenderMessage({
-    userMessage,
-    filters,
-    nextSlotHint: nextSlot?.questionHint ?? null,
-    products,
-    needMoreInfo,
-    widenedBudget,
-    upsellText,
-  })
+  }
 
   return {
-    meta: { products, needMoreInfo, repairMode: false, widenedBudget, done: nextSlot === null },
-    textStream,
+    meta: {
+      products,
+      needMoreInfo,
+      repairMode: false,
+      widenedBudget,
+      done: nextSlot === null,
+    },
+    prompt: buildRenderPrompt({
+      userMessage,
+      filters,
+      nextSlotHint: nextSlot?.questionHint ?? null,
+      products,
+      needMoreInfo,
+      widenedBudget,
+      upsellText,
+    }),
+    stateToSave,
   }
+}
+
+export async function streamAdvisorReply(
+  prompt: string,
+  abortSignal?: AbortSignal,
+) {
+  return agent.stream(prompt, { abortSignal })
+}
+
+export async function commitAdvisorReply(
+  conversationId: string,
+  state: ConversationState | null,
+): Promise<void> {
+  if (state) await saveState(conversationId, state)
 }

@@ -1,16 +1,20 @@
-import { chatRoute } from '@mastra/ai-sdk'
+import { workflowRoute } from '@mastra/ai-sdk'
 import { MastraAuthBetterAuth } from '@mastra/auth-better-auth'
 import { Mastra } from '@mastra/core/mastra'
 import { registerApiRoute } from '@mastra/core/server'
 import { createAuth } from '../auth'
 import { env } from '../env'
-import { runAdvisorPipelineStream } from './advisor/pipeline'
 import { createConversationAgent } from './agents/conversation'
 import { createIntentIdentifierAgent } from './agents/intent-identifier'
 import { conversationClarificationScorer } from './evals/conversation'
 import { fetchProductsByIds, streamCompareReply } from './products/compare'
-import { listProductBrands, listProducts, MAY_LANH_CATEGORY_CODE } from './products/list'
+import {
+  listProductBrands,
+  listProducts,
+  MAY_LANH_CATEGORY_CODE,
+} from './products/list'
 import { createMastraStorage } from './storage'
+import { advisorWorkflow } from './workflows/advisor'
 import {
   Observability,
   MastraStorageExporter,
@@ -27,7 +31,11 @@ const resolveCorsOrigins = (origins: string) =>
         .split(',')
         .map((origin) => origin.trim())
         .filter((origin) => origin && origin !== '*')
-        .concat(['http://localhost:5173', 'http://localhost:5174', 'http://localhost:3000']),
+        .concat([
+          'http://localhost:5173',
+          'http://localhost:5174',
+          'http://localhost:3000',
+        ]),
     ),
   )
 
@@ -51,6 +59,7 @@ export const mastra = new Mastra({
     conversationAgent: createConversationAgent(),
     intentIdentifierAgent: createIntentIdentifierAgent(),
   },
+  workflows: { advisorWorkflow },
   // Register for Studio/API dataset experiments only. It is intentionally not
   // attached to the agent, so production chat requests never trigger scoring.
   scorers: { conversationClarification: conversationClarificationScorer },
@@ -104,95 +113,76 @@ export const mastra = new Mastra({
         method: 'GET',
         requiresAuth: false,
         handler: async (c) => {
-          const brands = await listProductBrands(c.req.query('category') ?? MAY_LANH_CATEGORY_CODE)
+          const brands = await listProductBrands(
+            c.req.query('category') ?? MAY_LANH_CATEGORY_CODE,
+          )
           return c.json({ brands })
         },
       }),
       {
-        ...chatRoute({
-          path: '/api/chat',
-          agent: 'conversation-agent',
+        ...workflowRoute({
+          path: '/api/advisor/chat',
+          workflow: 'advisor-workflow',
           version: 'v6',
         }),
         requiresAuth: false,
       },
-      // Streams NDJSON: a "meta" line first (products/needMoreInfo/... already computed, before
-      // the LLM renders anything), then "text-delta" lines as the agent streams, then "done".
-      registerApiRoute('/api/advisor/chat', {
-        method: 'POST',
-        requiresAuth: false,
-        handler: async (c) => {
-          const body = await c.req.json<{ conversationId?: string; message?: string; history?: string }>()
-          if (!body.conversationId || !body.message) {
-            return c.json({ error: 'conversationId và message là bắt buộc' }, 400)
-          }
-
-          const { meta, textStream } = await runAdvisorPipelineStream(
-            body.conversationId,
-            body.message,
-            body.history ?? '',
-          )
-
-          const encoder = new TextEncoder()
-          const line = (obj: unknown) => encoder.encode(`${JSON.stringify(obj)}\n`)
-
-          const stream = new ReadableStream<Uint8Array>({
-            async start(controller) {
-              controller.enqueue(line({ type: 'meta', ...meta }))
-              try {
-                for await (const delta of textStream) {
-                  controller.enqueue(line({ type: 'text-delta', delta }))
-                }
-                controller.enqueue(line({ type: 'done' }))
-              } catch (err) {
-                controller.enqueue(line({ type: 'error', message: err instanceof Error ? err.message : String(err) }))
-              } finally {
-                controller.close()
-              }
-            },
-          })
-
-          return c.body(stream, 200, {
-            'Content-Type': 'application/x-ndjson; charset=utf-8',
-            'Cache-Control': 'no-cache',
-            'X-Content-Type-Options': 'nosniff',
-          })
-        },
-      }),
       // Single-shot "ask/compare about these specific product ids" — fetch-by-id + 1 LLM call,
       // no retrieval/scoring. Same NDJSON shape as /api/advisor/chat (meta, text-delta*, done).
       registerApiRoute('/api/products/compare', {
         method: 'POST',
         requiresAuth: false,
         handler: async (c) => {
-          const body = await c.req.json<{ productIds?: string[]; message?: string }>()
+          const body = await c.req.json<{
+            productIds?: string[]
+            message?: string
+          }>()
           const productIds = Array.isArray(body.productIds)
-            ? body.productIds.filter((id): id is string => typeof id === 'string')
+            ? body.productIds.filter(
+                (id): id is string => typeof id === 'string',
+              )
             : []
           if (productIds.length === 0) {
-            return c.json({ error: 'Cần ít nhất 1 productId để so sánh/hỏi' }, 400)
+            return c.json(
+              { error: 'Cần ít nhất 1 productId để so sánh/hỏi' },
+              400,
+            )
           }
 
           const compareProducts = await fetchProductsByIds(productIds)
           if (compareProducts.length === 0) {
-            return c.json({ error: 'Không tìm thấy sản phẩm nào khớp productIds' }, 404)
+            return c.json(
+              { error: 'Không tìm thấy sản phẩm nào khớp productIds' },
+              404,
+            )
           }
 
-          const textStream = await streamCompareReply(compareProducts, body.message ?? '')
+          const textStream = await streamCompareReply(
+            compareProducts,
+            body.message ?? '',
+          )
 
           const encoder = new TextEncoder()
-          const line = (obj: unknown) => encoder.encode(`${JSON.stringify(obj)}\n`)
+          const line = (obj: unknown) =>
+            encoder.encode(`${JSON.stringify(obj)}\n`)
 
           const stream = new ReadableStream<Uint8Array>({
             async start(controller) {
-              controller.enqueue(line({ type: 'meta', products: compareProducts }))
+              controller.enqueue(
+                line({ type: 'meta', products: compareProducts }),
+              )
               try {
                 for await (const delta of textStream) {
                   controller.enqueue(line({ type: 'text-delta', delta }))
                 }
                 controller.enqueue(line({ type: 'done' }))
               } catch (err) {
-                controller.enqueue(line({ type: 'error', message: err instanceof Error ? err.message : String(err) }))
+                controller.enqueue(
+                  line({
+                    type: 'error',
+                    message: err instanceof Error ? err.message : String(err),
+                  }),
+                )
               } finally {
                 controller.close()
               }
