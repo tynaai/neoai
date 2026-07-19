@@ -41,44 +41,52 @@ function StorefrontHome() {
 
   const removeCompareItem = (id: string) => setCompareItems((prev) => prev.filter((p) => p.id !== id))
   const clearCompare = () => setCompareItems([])
+  const toggleChat = () => setChatOpen((open) => !open)
 
   return (
     <div className="flex min-h-svh flex-col bg-muted/40">
-      <AdvisorHeader category={category} onCategoryChange={setCategory} />
-      <main className="flex-1">
-        <Hero onOpenChat={() => setChatOpen(true)} />
-        <PromoCarousel />
-        <BoothShowcase />
-        <ProductCarousel
-          products={featured?.items ?? []}
-          loading={featuredLoading}
-          categoryLabel={categoryLabel}
-          compareIds={compareIds}
-          onToggleCompare={toggleCompare}
-        />
-        <ProductGrid
-          category={category}
-          categoryLabel={categoryLabel}
-          compareIds={compareIds}
-          onToggleCompare={toggleCompare}
-        />
-      </main>
-
-      <motion.button
-        type="button"
-        onClick={() => setChatOpen(true)}
-        aria-label="Mở NeoAI"
-        initial={{ opacity: 0, scale: 0.6 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ type: 'spring', stiffness: 260, damping: 18, delay: 0.6 }}
-        whileHover={{ scale: 1.06 }}
-        whileTap={{ scale: 0.94 }}
-        className="fixed right-5 bottom-5 z-40 flex items-center gap-2 rounded-full bg-primary px-4 py-3 text-primary-foreground shadow-lg shadow-primary/30 hover:bg-primary/90 sm:right-6 sm:bottom-6"
+      <div
+        className={`flex min-h-svh flex-col transition-[margin] duration-200 ease-out ${
+          chatOpen ? 'sm:ml-[32rem] lg:ml-[36rem]' : 'ml-0'
+        }`}
       >
-        <span className="absolute inset-0 -z-10 animate-ping rounded-full bg-primary/40" style={{ animationDuration: '2.4s' }} />
-        <Sparkles className="size-5" aria-hidden />
-        <span className="hidden text-sm font-semibold sm:inline">NeoAI</span>
-      </motion.button>
+        <AdvisorHeader category={category} onCategoryChange={setCategory} />
+        <main className="flex-1">
+          <Hero chatOpen={chatOpen} onToggleChat={toggleChat} onOpenChat={() => setChatOpen(true)} />
+          <PromoCarousel />
+          <BoothShowcase />
+          <ProductCarousel
+            products={featured?.items ?? []}
+            loading={featuredLoading}
+            categoryLabel={categoryLabel}
+            compareIds={compareIds}
+            onToggleCompare={toggleCompare}
+          />
+          <ProductGrid
+            category={category}
+            categoryLabel={categoryLabel}
+            compareIds={compareIds}
+            onToggleCompare={toggleCompare}
+          />
+        </main>
+
+        <motion.button
+          type="button"
+          onClick={toggleChat}
+          aria-label={chatOpen ? 'Đóng NeoAI' : 'Mở NeoAI'}
+          aria-pressed={chatOpen}
+          initial={{ opacity: 0, scale: 0.6 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ type: 'spring', stiffness: 260, damping: 18, delay: 0.6 }}
+          whileHover={{ scale: 1.06 }}
+          whileTap={{ scale: 0.94 }}
+          className="fixed right-5 bottom-5 z-40 flex items-center gap-2 rounded-full bg-primary px-4 py-3 text-primary-foreground shadow-lg shadow-primary/30 hover:bg-primary/90 sm:right-6 sm:bottom-6"
+        >
+          <span className="absolute inset-0 -z-10 animate-ping rounded-full bg-primary/40" style={{ animationDuration: '2.4s' }} />
+          <Sparkles className="size-5" aria-hidden />
+          <span className="hidden text-sm font-semibold sm:inline">NeoAI</span>
+        </motion.button>
+      </div>
 
       <ChatSidebar
         open={chatOpen}
