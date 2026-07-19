@@ -20,6 +20,12 @@ const renderAdvisorReply = createStep({
   inputSchema: advisorInputSchema,
   outputSchema: z.object({ completed: z.literal(true) }),
   execute: async ({ inputData, writer, abortSignal }) => {
+    await writer.custom({
+      type: 'data-advisor-status',
+      data: { message: 'Đang tìm sản phẩm phù hợp…' },
+      transient: true,
+    })
+
     const reply = await prepareAdvisorReply(
       inputData.conversationId,
       inputData.message,
@@ -30,6 +36,12 @@ const renderAdvisorReply = createStep({
     await writer.custom({
       type: 'data-advisor-meta',
       data: reply.meta,
+      transient: true,
+    })
+
+    await writer.custom({
+      type: 'data-advisor-status',
+      data: { message: 'Đang soạn gợi ý cho bạn…' },
       transient: true,
     })
 

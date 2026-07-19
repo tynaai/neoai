@@ -1,4 +1,12 @@
-import { boolean, integer, jsonb, pgTable, text, timestamp } from 'drizzle-orm/pg-core'
+import {
+  boolean,
+  index,
+  integer,
+  jsonb,
+  pgTable,
+  text,
+  timestamp,
+} from 'drizzle-orm/pg-core'
 import { sql } from 'drizzle-orm'
 
 export const user = pgTable('user', {
@@ -55,21 +63,34 @@ export const verification = pgTable('verification', {
   updatedAt: timestamp('updated_at', { withTimezone: true }),
 })
 
-export const products = pgTable('products', {
-  id: text('id').primaryKey(),
-  title: text('title').notNull(),
-  brand: text('brand'),
-  categoryCode: text('category_code'),
-  priceCurrent: integer('price_current'),
-  priceOriginal: integer('price_original'),
-  productUrl: text('product_url'),
-  thumbnailUrl: text('thumbnail_url'),
-  specs: jsonb('specs'),
-  promotions: text('promotions').array(),
-  embeddingText: text('embedding_text').notNull(),
-  createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
-  updatedAt: timestamp('updated_at', { withTimezone: true }).defaultNow().notNull(),
-})
+export const products = pgTable(
+  'products',
+  {
+    id: text('id').primaryKey(),
+    title: text('title').notNull(),
+    brand: text('brand'),
+    categoryCode: text('category_code'),
+    priceCurrent: integer('price_current'),
+    priceOriginal: integer('price_original'),
+    productUrl: text('product_url'),
+    thumbnailUrl: text('thumbnail_url'),
+    specs: jsonb('specs'),
+    promotions: text('promotions').array(),
+    embeddingText: text('embedding_text').notNull(),
+    createdAt: timestamp('created_at', { withTimezone: true })
+      .defaultNow()
+      .notNull(),
+    updatedAt: timestamp('updated_at', { withTimezone: true })
+      .defaultNow()
+      .notNull(),
+  },
+  (table) => [
+    index('products_category_price_idx').on(
+      table.categoryCode,
+      table.priceCurrent,
+    ),
+  ],
+)
 
 // id = Mastra Memory threadId (1-1). Separate from `products`, not touched by seeding.
 export const conversationState = pgTable('conversation_state', {
@@ -86,6 +107,10 @@ export const conversationState = pgTable('conversation_state', {
     .default(sql`ARRAY[]::text[]`),
   hasUpsold: boolean('has_upsold').notNull().default(false),
   lastCategory: text('last_category'),
-  createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
-  updatedAt: timestamp('updated_at', { withTimezone: true }).defaultNow().notNull(),
+  createdAt: timestamp('created_at', { withTimezone: true })
+    .defaultNow()
+    .notNull(),
+  updatedAt: timestamp('updated_at', { withTimezone: true })
+    .defaultNow()
+    .notNull(),
 })

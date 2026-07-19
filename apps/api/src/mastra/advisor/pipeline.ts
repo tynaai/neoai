@@ -18,6 +18,11 @@ import { pickTop3, scoreAll, type TopRole } from './wsum'
 
 const agent = createAdvisorAgent()
 
+const extractionModel = {
+  id: 'openai/gpt-4o-mini',
+  apiKey: process.env.OPENAI_API_KEY,
+} as const
+
 const ExtractionSchema = z.object({
   budgetMin: z
     .number()
@@ -87,12 +92,11 @@ KHÔNG lặp lại giá trị đã biết trước đó. Quy đổi tiền: "20 
 budgetMax=X, budgetMin=null. Nếu nói "trên X" thì chỉ set budgetMin=X. Nếu nói "khoảng X" thì set
 budgetMin=round(X*0.85), budgetMax=round(X*1.15).`
 
-  // FPT Cloud's OpenAI-compatible endpoint rejects the strict response_format param Mastra
-  // sends by default ("Unsupported parameter(s): strictJsonSchema") — fall back to injecting
-  // the schema into the prompt instead (documented workaround for providers without native
-  // structured-output support).
   const result = await agent.generate(prompt, {
-    structuredOutput: { schema: ExtractionSchema, jsonPromptInjection: true },
+    // Use the smaller model for the entire extraction request. Setting
+    // structuredOutput.model would add a second structuring-model request.
+    model: extractionModel,
+    structuredOutput: { schema: ExtractionSchema },
   })
   return result.object
 }

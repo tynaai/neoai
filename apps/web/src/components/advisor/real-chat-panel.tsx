@@ -11,7 +11,11 @@ import {
   ConversationEmptyState,
   ConversationScrollButton,
 } from '~/components/ai-elements/conversation'
-import { Message, MessageContent, MessageResponse } from '~/components/ai-elements/message'
+import {
+  Message,
+  MessageContent,
+  MessageResponse,
+} from '~/components/ai-elements/message'
 import {
   PromptInput,
   PromptInputBody,
@@ -29,22 +33,38 @@ import { cn } from '~/lib/utils'
 // Per-message metadata — lets the transcript show which products a "so sánh" question was
 // actually about, attached at send time alongside the AI SDK's own typed data parts.
 type AdvisorMessageMetadata = { attachedProducts?: StoreProduct[] }
-type AdvisorUIMessage = UIMessage<AdvisorMessageMetadata, { 'advisor-meta': AdvisorResponse }>
+type AdvisorUIMessage = UIMessage<
+  AdvisorMessageMetadata,
+  {
+    'advisor-meta': AdvisorResponse
+    'advisor-status': { message: string }
+  }
+>
 
 const GREETING =
   'Chào bạn! Mình là NeoAI — trợ lý tư vấn tủ lạnh của Điện Máy Xanh. Bạn đang cần tìm tủ lạnh như thế nào ạ?'
 
-const DEFAULT_COMPARE_PROMPT = 'So sánh giúp mình các sản phẩm này, cái nào đáng mua hơn?'
+const DEFAULT_COMPARE_PROMPT =
+  'So sánh giúp mình các sản phẩm này, cái nào đáng mua hơn?'
 
 type ChatStatus = 'ready' | 'submitted' | 'streaming' | 'error'
 
 const INITIAL_MESSAGES: AdvisorUIMessage[] = [
-  { id: 'greeting', role: 'assistant', parts: [{ type: 'text', text: GREETING }] },
+  {
+    id: 'greeting',
+    role: 'assistant',
+    parts: [{ type: 'text', text: GREETING }],
+  },
 ]
 
 function getMessageText(message: AdvisorUIMessage): string {
   return message.parts
-    .filter((part): part is Extract<(typeof message.parts)[number], { type: 'text' }> => part.type === 'text')
+    .filter(
+      (
+        part,
+      ): part is Extract<(typeof message.parts)[number], { type: 'text' }> =>
+        part.type === 'text',
+    )
     .map((part) => part.text)
     .join('')
 }
@@ -73,6 +93,9 @@ export function RealChatPanel({
   const compareItemsRef = useRef(compareItems)
   compareItemsRef.current = compareItems
   const [compareStatus, setCompareStatus] = useState<ChatStatus>('ready')
+  const [advisorStatusMessage, setAdvisorStatusMessage] = useState<
+    string | null
+  >(null)
   const [transport] = useState(
     () =>
       new DefaultChatTransport<AdvisorUIMessage>({
@@ -85,7 +108,10 @@ export function RealChatPanel({
 
           const history = messages
             .slice(-7, -1)
-            .map((message) => `${message.role === 'user' ? 'Khách' : 'Bot'}: ${getMessageText(message)}`)
+            .map(
+              (message) =>
+                `${message.role === 'user' ? 'Khách' : 'Bot'}: ${getMessageText(message)}`,
+            )
             .join('\n')
 
           return {
@@ -100,68 +126,102 @@ export function RealChatPanel({
         },
       }),
   )
-  const { messages, sendMessage, setMessages, status } = useChat<AdvisorUIMessage>({
-    messages: INITIAL_MESSAGES,
-    transport,
-    onData: (part) => {
-      if (part.type === 'data-advisor-meta') onResponseRef.current(part.data)
+  const { messages, sendMessage, setMessages, status } =
+    useChat<AdvisorUIMessage>({
+      messages: INITIAL_MESSAGES,
+      transport,
+      onData: (part) => {
+        if (part.type === 'data-advisor-meta') onResponseRef.current(part.data)
+        if (part.type === 'data-advisor-status')
+          setAdvisorStatusMessage(part.data.message)
+      },
+    })
+
+  const runCompare = useCallback(
+    async (text: string, products: StoreProduct[]) => {
+      const userMsg: AdvisorUIMessage = {
+        id: nanoid(),
+        role: 'user',
+        parts: [{ type: 'text', text }],
+        metadata: { attachedProducts: products },
+      }
+      const assistantId = nanoid()
+      setMessages((prev) => [
+        ...prev,
+        userMsg,
+        {
+          id: assistantId,
+          role: 'assistant',
+          parts: [{ type: 'text', text: '' }],
+        },
+      ])
+      setCompareStatus('submitted')
+
+      const appendDelta = (delta: string) => {
+        setMessages((prev) =>
+          prev.map((message) =>
+            message.id === assistantId
+              ? {
+                  ...message,
+                  parts: [
+                    { type: 'text', text: getMessageText(message) + delta },
+                  ],
+                }
+              : message,
+          ),
+        )
+      }
+
+      try {
+        await sendCompareMessage(
+          products.map((p) => p.id),
+          text,
+          { onTextDelta: appendDelta, onDone: () => setCompareStatus('ready') },
+        )
+      } catch {
+        setMessages((prev) =>
+          prev.map((message) =>
+            message.id === assistantId
+              ? {
+                  ...message,
+                  parts: [
+                    {
+                      type: 'text',
+                      text: 'Xin lỗi, có lỗi kết nối tới máy chủ. Bạn thử lại giúp mình nhé.',
+                    },
+                  ],
+                }
+              : message,
+          ),
+        )
+        setCompareStatus('error')
+      }
     },
-  })
+    [setMessages],
+  )
 
-  const runCompare = useCallback(async (text: string, products: StoreProduct[]) => {
-    const userMsg: AdvisorUIMessage = {
-      id: nanoid(),
-      role: 'user',
-      parts: [{ type: 'text', text }],
-      metadata: { attachedProducts: products },
-    }
-    const assistantId = nanoid()
-    setMessages((prev) => [...prev, userMsg, { id: assistantId, role: 'assistant', parts: [{ type: 'text', text: '' }] }])
-    setCompareStatus('submitted')
+  const runSubmit = useCallback(
+    (text: string) => {
+      if (!text) return
+      setAdvisorStatusMessage(null)
+      if (compareItemsRef.current.length > 0) {
+        onCompareSubmit()
+        void runCompare(text, compareItemsRef.current)
+        return
+      }
+      void sendMessage({ text })
+    },
+    [runCompare, sendMessage, onCompareSubmit],
+  )
 
-    const appendDelta = (delta: string) => {
-      setMessages((prev) =>
-        prev.map((message) =>
-          message.id === assistantId
-            ? { ...message, parts: [{ type: 'text', text: getMessageText(message) + delta }] }
-            : message,
-        ),
-      )
-    }
-
-    try {
-      await sendCompareMessage(
-        products.map((p) => p.id),
-        text,
-        { onTextDelta: appendDelta, onDone: () => setCompareStatus('ready') },
-      )
-    } catch {
-      setMessages((prev) =>
-        prev.map((message) =>
-          message.id === assistantId
-            ? { ...message, parts: [{ type: 'text', text: 'Xin lỗi, có lỗi kết nối tới máy chủ. Bạn thử lại giúp mình nhé.' }] }
-            : message,
-        ),
-      )
-      setCompareStatus('error')
-    }
-  }, [setMessages])
-
-  const runSubmit = useCallback((text: string) => {
-    if (!text) return
-    if (compareItemsRef.current.length > 0) {
-      onCompareSubmit()
-      void runCompare(text, compareItemsRef.current)
-      return
-    }
-    void sendMessage({ text })
-  }, [runCompare, sendMessage, onCompareSubmit])
-
-  const handleSubmit = useCallback((message: PromptInputMessage) => {
-    const text = message.text?.trim()
-    if (!text) return
-    runSubmit(text)
-  }, [runSubmit])
+  const handleSubmit = useCallback(
+    (message: PromptInputMessage) => {
+      const text = message.text?.trim()
+      if (!text) return
+      runSubmit(text)
+    },
+    [runSubmit],
+  )
 
   const displayStatus = compareStatus === 'ready' ? status : compareStatus
   const isBusy = displayStatus === 'submitted' || displayStatus === 'streaming'
@@ -214,19 +274,38 @@ export function RealChatPanel({
                   >
                     <Message from={m.role}>
                       <MessageContent>
-                        {m.role === 'assistant' && text === '' ? <TypingDots /> : <MessageResponse>{text}</MessageResponse>}
+                        {m.role === 'assistant' && text === '' ? (
+                          <TypingDots
+                            label={advisorStatusMessage ?? 'Đang trả lời…'}
+                          />
+                        ) : (
+                          <MessageResponse>{text}</MessageResponse>
+                        )}
                       </MessageContent>
                       {attachedProducts && attachedProducts.length > 0 && (
-                        <div className={cn('flex w-fit max-w-full flex-wrap gap-1.5', m.role === 'user' && 'ml-auto justify-end')}>
+                        <div
+                          className={cn(
+                            'flex w-fit max-w-full flex-wrap gap-1.5',
+                            m.role === 'user' && 'ml-auto justify-end',
+                          )}
+                        >
                           {attachedProducts.map((p) => (
                             <span
                               key={p.id}
                               className="inline-flex items-center gap-1.5 rounded-full border bg-background py-1 pr-2.5 pl-1 text-[11px]"
                             >
                               <span className="grid size-5 shrink-0 place-items-center overflow-hidden rounded-full bg-muted">
-                                {p.thumbnailUrl && <img src={p.thumbnailUrl} alt="" className="size-full object-cover" />}
+                                {p.thumbnailUrl && (
+                                  <img
+                                    src={p.thumbnailUrl}
+                                    alt=""
+                                    className="size-full object-cover"
+                                  />
+                                )}
                               </span>
-                              <span className="max-w-32 truncate">{p.title}</span>
+                              <span className="max-w-32 truncate">
+                                {p.title}
+                              </span>
                             </span>
                           ))}
                         </div>
@@ -243,7 +322,9 @@ export function RealChatPanel({
 
       {compareItems.length > 0 && (
         <div className="flex shrink-0 flex-wrap items-center gap-1.5 border-t bg-muted/40 px-4 py-2.5">
-          <span className="text-[11px] font-medium text-muted-foreground">So sánh:</span>
+          <span className="text-[11px] font-medium text-muted-foreground">
+            So sánh:
+          </span>
           {compareItems.map((p) => (
             <span
               key={p.id}
@@ -260,10 +341,22 @@ export function RealChatPanel({
               </button>
             </span>
           ))}
-          <Button type="button" size="xs" className="ml-auto rounded-full" disabled={isBusy} onClick={() => runSubmit(DEFAULT_COMPARE_PROMPT)}>
+          <Button
+            type="button"
+            size="xs"
+            className="ml-auto rounded-full"
+            disabled={isBusy}
+            onClick={() => runSubmit(DEFAULT_COMPARE_PROMPT)}
+          >
             <GitCompareArrows className="size-3" /> So sánh ngay
           </Button>
-          <Button type="button" size="xs" variant="ghost" className="rounded-full" onClick={onClearCompare}>
+          <Button
+            type="button"
+            size="xs"
+            variant="ghost"
+            className="rounded-full"
+            onClick={onClearCompare}
+          >
             Xoá
           </Button>
         </div>
@@ -297,17 +390,26 @@ export function RealChatPanel({
 // Inline placeholder shown inside the assistant bubble while its text is still empty — covers
 // both the gap before the first NDJSON line arrives and the (usually tiny) gap between "meta"
 // and the first text-delta chunk.
-function TypingDots() {
+function TypingDots({ label }: { label: string }) {
   return (
-    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex items-center gap-1 py-1 text-muted-foreground">
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      className="flex items-center gap-2 py-1 text-muted-foreground"
+    >
       {[0, 1, 2].map((i) => (
         <motion.span
           key={i}
           className="size-1.5 rounded-full bg-current"
           animate={{ y: [0, -4, 0] }}
-          transition={{ duration: 0.6, repeat: Number.POSITIVE_INFINITY, delay: i * 0.15 }}
+          transition={{
+            duration: 0.6,
+            repeat: Number.POSITIVE_INFINITY,
+            delay: i * 0.15,
+          }}
         />
       ))}
+      <span className="text-sm">{label}</span>
     </motion.div>
   )
 }

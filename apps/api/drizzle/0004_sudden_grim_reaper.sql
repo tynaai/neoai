@@ -1,0 +1,1 @@
+CREATE INDEX "products_category_price_idx" ON "products" USING btree ("category_code","price_current");
