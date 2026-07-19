@@ -1,5 +1,5 @@
 export const ADVISOR_API_BASE =
-  import.meta.env.VITE_ADVISOR_API_URL ?? 'http://localhost:4112'
+  import.meta.env.VITE_ADVISOR_API_URL ?? 'http://localhost:4111'
 
 export interface AdvisorFacts {
   capacityLiters: number | null
