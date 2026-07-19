@@ -14,14 +14,6 @@ const ROLE_BADGE_VARIANT = {
   model_choice: 'warning',
 } as const
 
-// Vary image aspect ratio per role — staggered heights instead of 3 uniform boxes, and doubles
-// as an emphasis cue: the recommended pick (best_fit) reads as the tallest, most prominent card.
-const ROLE_ASPECT = {
-  best_fit: 'aspect-[3/4]',
-  cheapest_above_threshold: 'aspect-square',
-  model_choice: 'aspect-[4/3]',
-} as const
-
 export function RealProductCard({ product }: { product: AdvisorProduct }) {
   const badge = ROLE_BADGE[product.role]
   const [imgFailed, setImgFailed] = useState(false)
@@ -56,7 +48,7 @@ export function RealProductCard({ product }: { product: AdvisorProduct }) {
           product.role === 'best_fit' && 'ring-1 ring-primary/30',
         )}
       >
-        <div className={cn('relative w-full overflow-hidden bg-muted', ROLE_ASPECT[product.role])}>
+        <div className="relative aspect-square w-full overflow-hidden bg-muted">
           {showImage ? (
             <img
               src={product.thumbnailUrl ?? undefined}
@@ -83,7 +75,7 @@ export function RealProductCard({ product }: { product: AdvisorProduct }) {
           </div>
         </div>
 
-        <CardContent className="flex flex-col gap-2 px-3.5 py-3">
+        <CardContent className="flex flex-1 flex-col gap-2 px-3.5 py-3">
           <h3 className="line-clamp-2 min-h-9 text-sm font-semibold leading-snug" title={product.title}>
             {product.title}
           </h3>

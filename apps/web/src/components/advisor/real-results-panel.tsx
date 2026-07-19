@@ -35,7 +35,7 @@ export function RealResultsPanel({ response }: { response: AdvisorResponse | nul
           </CardHeader>
         </Card>
       ) : (
-        <motion.div layout className="grid items-start gap-4 @sm:grid-cols-2">
+        <motion.div layout className="grid items-stretch gap-4 @sm:grid-cols-2 @lg:grid-cols-3">
           <AnimatePresence mode="popLayout">
             {response.products.map((product) => (
               <RealProductCard key={product.id} product={product} />
