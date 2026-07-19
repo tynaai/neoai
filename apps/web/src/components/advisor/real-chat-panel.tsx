@@ -1,7 +1,6 @@
-import { useCallback, useRef, useState } from 'react'
-import { nanoid } from 'nanoid'
+import { useCallback, useState } from 'react'
 import { AnimatePresence, motion } from 'motion/react'
-import { GitCompareArrows, Sparkles, X } from 'lucide-react'
+import { GitCompareArrows, PackagePlus, Sparkles, X } from 'lucide-react'
 
 import {
   Conversation,
@@ -18,101 +17,64 @@ import {
   type PromptInputMessage,
 } from '~/components/ai-elements/prompt-input'
 import { Button } from '~/components/ui/button'
-import { sendAdvisorMessage, type AdvisorResponse } from '~/lib/advisor-api'
-import { sendCompareMessage } from '~/lib/compare-api'
+import { PRODUCT_DND_MIME, readDraggedProduct } from '~/lib/product-dnd'
 import type { StoreProduct } from '~/lib/products-api'
-
-interface ChatMessage {
-  id: string
-  role: 'user' | 'assistant'
-  text: string
-}
-
-const GREETING =
-  'Chào bạn! Mình là NeoAI — trợ lý tư vấn tủ lạnh của Điện Máy Xanh. Bạn đang cần tìm tủ lạnh như thế nào ạ?'
-
-const DEFAULT_COMPARE_PROMPT = 'So sánh giúp mình các sản phẩm này, cái nào đáng mua hơn?'
-
-type ChatStatus = 'ready' | 'submitted' | 'streaming' | 'error'
+import type { ChatMessage, ChatStatus } from '~/lib/use-advisor-chat'
+import { cn } from '~/lib/utils'
 
 export function RealChatPanel({
-  onResponse,
+  messages,
+  status,
+  onSubmit,
   compareItems,
   onRemoveCompareItem,
   onClearCompare,
+  onCompareNow,
+  onDropProduct,
 }: {
-  onResponse: (r: AdvisorResponse) => void
+  messages: ChatMessage[]
+  status: ChatStatus
+  onSubmit: (text: string) => void
   compareItems: StoreProduct[]
   onRemoveCompareItem: (id: string) => void
   onClearCompare: () => void
+  onCompareNow: () => void
+  onDropProduct: (product: StoreProduct) => void
 }) {
-  const [messages, setMessages] = useState<ChatMessage[]>([{ id: 'greeting', role: 'assistant', text: GREETING }])
-  const [status, setStatus] = useState<ChatStatus>('ready')
-  const conversationId = useRef(nanoid())
-  const messagesRef = useRef(messages)
-  messagesRef.current = messages
-  const compareItemsRef = useRef(compareItems)
-  compareItemsRef.current = compareItems
-
-  const runSubmit = useCallback(async (text: string) => {
-    if (!text) return
-
-    const userMsg: ChatMessage = { id: nanoid(), role: 'user', text }
-    const assistantId = nanoid()
-    // Empty placeholder now — text gets appended delta by delta as the stream arrives.
-    setMessages((prev) => [...prev, userMsg, { id: assistantId, role: 'assistant', text: '' }])
-    setStatus('submitted')
-
-    const appendDelta = (delta: string) => {
-      setMessages((prev) => prev.map((m) => (m.id === assistantId ? { ...m, text: m.text + delta } : m)))
-    }
-
-    // Tagged products present — route to the single-shot compare endpoint instead of the
-    // slot-filling advisor pipeline (it already knows exactly which products to talk about).
-    const compareIds = compareItemsRef.current.map((p) => p.id)
-
-    try {
-      if (compareIds.length > 0) {
-        await sendCompareMessage(compareIds, text, {
-          onTextDelta: appendDelta,
-          onDone: () => setStatus('ready'),
-        })
-      } else {
-        const historyText = messagesRef.current
-          .slice(-6)
-          .map((m) => `${m.role === 'user' ? 'Khách' : 'Bot'}: ${m.text}`)
-          .join('\n')
-
-        await sendAdvisorMessage(conversationId.current, text, historyText, {
-          // Meta arrives before any text — update the product panel right away.
-          onMeta: (meta) => {
-            onResponse(meta)
-            setStatus('streaming')
-          },
-          onTextDelta: appendDelta,
-          onDone: () => setStatus('ready'),
-        })
-      }
-    } catch {
-      setMessages((prev) =>
-        prev.map((m) =>
-          m.id === assistantId ? { ...m, text: 'Xin lỗi, có lỗi kết nối tới máy chủ. Bạn thử lại giúp mình nhé.' } : m,
-        ),
-      )
-      setStatus('error')
-    }
-  }, [onResponse])
+  const [isDragOver, setIsDragOver] = useState(false)
+  const isBusy = status === 'submitted' || status === 'streaming'
 
   const handleSubmit = useCallback((message: PromptInputMessage) => {
     const text = message.text?.trim()
     if (!text) return
-    void runSubmit(text)
-  }, [runSubmit])
-
-  const isBusy = status === 'submitted' || status === 'streaming'
+    onSubmit(text)
+  }, [onSubmit])
 
   return (
-    <div className="flex h-full min-h-0 flex-col">
+    <div
+      className="relative flex h-full min-h-0 flex-col"
+      onDragOver={(e) => {
+        if (!e.dataTransfer.types.includes(PRODUCT_DND_MIME)) return
+        e.preventDefault()
+        setIsDragOver(true)
+      }}
+      onDragLeave={(e) => {
+        if (e.currentTarget.contains(e.relatedTarget as Node)) return
+        setIsDragOver(false)
+      }}
+      onDrop={(e) => {
+        setIsDragOver(false)
+        const product = readDraggedProduct(e)
+        if (product) onDropProduct(product)
+      }}
+    >
+      {isDragOver && (
+        <div className="pointer-events-none absolute inset-2 z-10 flex items-center justify-center gap-2 rounded-2xl border-2 border-dashed border-primary bg-primary/10 text-sm font-semibold text-primary backdrop-blur-sm">
+          <PackagePlus className="size-5" aria-hidden />
+          Thả vào đây để thêm vào so sánh
+        </div>
+      )}
+
       <Conversation className="min-h-0">
         <ConversationContent>
           {messages.length === 0 ? (
@@ -135,6 +97,21 @@ export function RealChatPanel({
                     <MessageContent>
                       {m.role === 'assistant' && m.text === '' ? <TypingDots /> : <MessageResponse>{m.text}</MessageResponse>}
                     </MessageContent>
+                    {m.attachedProducts && m.attachedProducts.length > 0 && (
+                      <div className={cn('flex w-fit max-w-full flex-wrap gap-1.5', m.role === 'user' && 'ml-auto justify-end')}>
+                        {m.attachedProducts.map((p) => (
+                          <span
+                            key={p.id}
+                            className="inline-flex items-center gap-1.5 rounded-full border bg-background py-1 pr-2.5 pl-1 text-[11px]"
+                          >
+                            <span className="grid size-5 shrink-0 place-items-center overflow-hidden rounded-full bg-muted">
+                              {p.thumbnailUrl && <img src={p.thumbnailUrl} alt="" className="size-full object-cover" />}
+                            </span>
+                            <span className="max-w-32 truncate">{p.title}</span>
+                          </span>
+                        ))}
+                      </div>
+                    )}
                   </Message>
                 </motion.div>
               ))}
@@ -143,6 +120,7 @@ export function RealChatPanel({
         </ConversationContent>
         <ConversationScrollButton />
       </Conversation>
+
       {compareItems.length > 0 && (
         <div className="flex shrink-0 flex-wrap items-center gap-1.5 border-t bg-muted/40 px-4 py-2.5">
           <span className="text-[11px] font-medium text-muted-foreground">So sánh:</span>
@@ -162,13 +140,7 @@ export function RealChatPanel({
               </button>
             </span>
           ))}
-          <Button
-            type="button"
-            size="xs"
-            className="ml-auto rounded-full"
-            disabled={isBusy}
-            onClick={() => void runSubmit(DEFAULT_COMPARE_PROMPT)}
-          >
+          <Button type="button" size="xs" className="ml-auto rounded-full" disabled={isBusy} onClick={onCompareNow}>
             <GitCompareArrows className="size-3" /> So sánh ngay
           </Button>
           <Button type="button" size="xs" variant="ghost" className="rounded-full" onClick={onClearCompare}>
@@ -176,6 +148,7 @@ export function RealChatPanel({
           </Button>
         </div>
       )}
+
       <div className="shrink-0 border-t bg-card p-4">
         <PromptInput
           onSubmit={handleSubmit}

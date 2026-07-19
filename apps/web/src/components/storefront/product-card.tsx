@@ -3,8 +3,9 @@ import { motion } from 'motion/react'
 import { ExternalLink, GitCompareArrows, ImageOff, Tag } from 'lucide-react'
 
 import { Card, CardContent, CardFooter } from '~/components/ui/card'
-import { cn, formatVnd } from '~/lib/utils'
+import { writeDraggedProduct } from '~/lib/product-dnd'
 import type { StoreProduct } from '~/lib/products-api'
+import { cn, formatVnd } from '~/lib/utils'
 
 export function StorefrontProductCard({
   product,
@@ -34,8 +35,11 @@ export function StorefrontProductCard({
       className="group h-full"
     >
       <Card
+        draggable={Boolean(onToggleCompare)}
+        onDragStart={onToggleCompare ? (e) => writeDraggedProduct(e, product) : undefined}
         className={cn(
           'h-full gap-0 overflow-hidden rounded-3xl border-border/50 py-0 shadow-sm transition-all duration-300 group-hover:shadow-xl group-hover:shadow-primary/10',
+          onToggleCompare && 'cursor-grab active:cursor-grabbing',
           isComparing && 'border-primary/40 ring-2 ring-primary/40',
         )}
       >

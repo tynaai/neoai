@@ -16,5 +16,9 @@ Chatbot
 
 
 + Vấn đề:
-- Đang hỏi tủ lạnh nhảy sang máy lạnh thì sao
+- Helo ->  anh chị đang muốn tư vấn sản phẩm gì
+- Đang hỏi tủ lạnh nhảy sang máy lạnh thì sao, hỏi máy lạnh vẫn ra tủ lạnh
 - query thiếu -> ngữ cảnh thì hỏi lại 
+- Đang đưa ra mức giá lệch(các mức giá phải gần giống nhau), nếu gợi ý không qua 10% giá user tìm kiếm và không thấp hơn 30%
+- Nên có các tag phù hợp nhất, rẻ nhất và bán chạy nhất
+- Hỏi về  thông tin về 1 sản phảm thì lại đưa ra nhiều sản phẩm

@@ -13,7 +13,7 @@ export function RealResultsPanel({ response }: { response: AdvisorResponse | nul
   }
 
   return (
-    <div className="flex flex-col gap-4">
+    <div className="@container flex flex-col gap-4">
       {response.widenedBudget && (
         <Alert className="border-brand-warning/30 bg-brand-warning-soft text-brand-warning">
           <AlertTriangle />
@@ -35,7 +35,7 @@ export function RealResultsPanel({ response }: { response: AdvisorResponse | nul
           </CardHeader>
         </Card>
       ) : (
-        <motion.div layout className="grid items-start gap-4 sm:grid-cols-2 xl:grid-cols-3">
+        <motion.div layout className="grid items-start gap-4 @sm:grid-cols-2">
           <AnimatePresence mode="popLayout">
             {response.products.map((product) => (
               <RealProductCard key={product.id} product={product} />
@@ -59,7 +59,7 @@ export function RealResultsPanel({ response }: { response: AdvisorResponse | nul
 
 function ResultsPlaceholder() {
   return (
-    <Card className="min-h-[420px] flex-1 justify-center border-dashed bg-card/70 text-center shadow-none">
+    <Card className="@container min-h-[420px] flex-1 justify-center border-dashed bg-card/70 text-center shadow-none">
       <CardHeader className="items-center">
         <span className="grid size-14 place-items-center rounded-full bg-brand-primary-soft text-primary">
           <MessageCircleMore className="size-6" aria-hidden />
@@ -69,7 +69,7 @@ function ResultsPlaceholder() {
           Nói cho mình biết nhu cầu của bạn (vd: "tủ lạnh gia đình 4 người, dưới 10 triệu") để nhận top sản phẩm phù hợp.
         </CardDescription>
       </CardHeader>
-      <CardContent className="mx-auto grid w-full max-w-2xl gap-3 sm:grid-cols-3">
+      <CardContent className="mx-auto grid w-full max-w-2xl gap-3 @sm:grid-cols-3">
         {[1, 2, 3].map((item) => (
           <div key={item} className="space-y-3 rounded-xl border bg-background p-3 text-left">
             <Skeleton className="aspect-[4/3] w-full" />

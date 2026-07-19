@@ -83,18 +83,18 @@ export function RealProductCard({ product }: { product: AdvisorProduct }) {
           </div>
         </div>
 
-        <CardContent className="flex flex-col gap-1.5 px-3 py-2.5">
-          <h3 className="line-clamp-1 text-sm font-semibold leading-snug" title={product.title}>
+        <CardContent className="flex flex-col gap-2 px-3.5 py-3">
+          <h3 className="line-clamp-2 min-h-9 text-sm font-semibold leading-snug" title={product.title}>
             {product.title}
           </h3>
-          {product.brand && <p className="text-[11px] text-muted-foreground">{product.brand}</p>}
+          {product.brand && <p className="text-xs text-muted-foreground">{product.brand}</p>}
 
-          <div className="flex items-baseline gap-1.5">
+          <div className="flex flex-wrap items-baseline gap-x-1.5 gap-y-0.5">
             {product.priceCurrent !== null ? (
               <>
-                <span className="text-base font-bold text-primary">{formatVnd(product.priceCurrent)}</span>
+                <span className="font-heading text-base font-bold text-primary">{formatVnd(product.priceCurrent)}</span>
                 {product.priceOriginal !== null && product.priceOriginal > product.priceCurrent && (
-                  <span className="text-[11px] text-muted-foreground line-through">
+                  <span className="text-xs text-muted-foreground line-through">
                     {formatVnd(product.priceOriginal)}
                   </span>
                 )}
@@ -105,11 +105,11 @@ export function RealProductCard({ product }: { product: AdvisorProduct }) {
           </div>
 
           {chips.length > 0 && (
-            <div className="flex flex-wrap gap-1">
+            <div className="flex flex-wrap gap-1.5">
               {chips.map((chip) => (
                 <span
                   key={chip}
-                  className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-medium text-muted-foreground"
+                  className="rounded-full bg-muted px-2 py-0.5 text-[11px] font-medium text-muted-foreground"
                 >
                   {chip}
                 </span>
@@ -118,7 +118,7 @@ export function RealProductCard({ product }: { product: AdvisorProduct }) {
           )}
         </CardContent>
 
-        <CardFooter className="justify-between border-t px-3 py-2">
+        <CardFooter className="justify-between border-t px-3.5 py-2.5">
           {product.productUrl ? (
             <a
               href={product.productUrl}
@@ -134,7 +134,7 @@ export function RealProductCard({ product }: { product: AdvisorProduct }) {
             <span className="text-xs text-muted-foreground">Chưa có link</span>
           )}
           {product.promotions.length > 0 && (
-            <span className="text-[11px] text-muted-foreground">🎁 {product.promotions.length} ưu đãi</span>
+            <span className="text-xs text-muted-foreground">🎁 {product.promotions.length} ưu đãi</span>
           )}
         </CardFooter>
       </Card>
