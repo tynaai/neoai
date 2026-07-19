@@ -1,5 +1,4 @@
-// Shared by advisor-api.ts and compare-api.ts — both endpoints stream the same NDJSON shape:
-// one line per JSON object, newline-delimited, arriving as the response body streams in.
+// Used by the compare endpoint: one JSON object per newline as the response body streams in.
 export async function readNdjsonLines(
   res: Response,
   onLine: (parsed: { type: string; [key: string]: unknown }) => void,

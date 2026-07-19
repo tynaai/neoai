@@ -1,4 +1,6 @@
 import { useCallback, useRef, useState } from 'react'
+import { useChat } from '@ai-sdk/react'
+import { DefaultChatTransport, type UIMessage } from 'ai'
 import { nanoid } from 'nanoid'
 import { AnimatePresence, motion } from 'motion/react'
 import { GitCompareArrows, Sparkles, X } from 'lucide-react'
@@ -9,7 +11,11 @@ import {
   ConversationEmptyState,
   ConversationScrollButton,
 } from '~/components/ai-elements/conversation'
-import { Message, MessageContent, MessageResponse } from '~/components/ai-elements/message'
+import {
+  Message,
+  MessageContent,
+  MessageResponse,
+} from '~/components/ai-elements/message'
 import {
   PromptInput,
   PromptInputBody,
@@ -18,22 +24,39 @@ import {
   type PromptInputMessage,
 } from '~/components/ai-elements/prompt-input'
 import { Button } from '~/components/ui/button'
-import { sendAdvisorMessage, type AdvisorResponse } from '~/lib/advisor-api'
+import { ADVISOR_API_BASE, type AdvisorResponse } from '~/lib/advisor-api'
 import { sendCompareMessage } from '~/lib/compare-api'
 import type { StoreProduct } from '~/lib/products-api'
 
-interface ChatMessage {
-  id: string
-  role: 'user' | 'assistant'
-  text: string
-}
+type AdvisorUIMessage = UIMessage<unknown, { 'advisor-meta': AdvisorResponse }>
 
 const GREETING =
   'Chào bạn! Mình là NeoAI — trợ lý tư vấn tủ lạnh của Điện Máy Xanh. Bạn đang cần tìm tủ lạnh như thế nào ạ?'
 
-const DEFAULT_COMPARE_PROMPT = 'So sánh giúp mình các sản phẩm này, cái nào đáng mua hơn?'
+const DEFAULT_COMPARE_PROMPT =
+  'So sánh giúp mình các sản phẩm này, cái nào đáng mua hơn?'
 
 type ChatStatus = 'ready' | 'submitted' | 'streaming' | 'error'
+
+const INITIAL_MESSAGES: AdvisorUIMessage[] = [
+  {
+    id: 'greeting',
+    role: 'assistant',
+    parts: [{ type: 'text', text: GREETING }],
+  },
+]
+
+function getMessageText(message: AdvisorUIMessage): string {
+  return message.parts
+    .filter(
+      (
+        part,
+      ): part is Extract<(typeof message.parts)[number], { type: 'text' }> =>
+        part.type === 'text',
+    )
+    .map((part) => part.text)
+    .join('')
+}
 
 export function RealChatPanel({
   onResponse,
@@ -46,70 +69,136 @@ export function RealChatPanel({
   onRemoveCompareItem: (id: string) => void
   onClearCompare: () => void
 }) {
-  const [messages, setMessages] = useState<ChatMessage[]>([{ id: 'greeting', role: 'assistant', text: GREETING }])
-  const [status, setStatus] = useState<ChatStatus>('ready')
   const conversationId = useRef(nanoid())
-  const messagesRef = useRef(messages)
-  messagesRef.current = messages
+  const onResponseRef = useRef(onResponse)
+  onResponseRef.current = onResponse
   const compareItemsRef = useRef(compareItems)
   compareItemsRef.current = compareItems
+  const [compareStatus, setCompareStatus] = useState<ChatStatus>('ready')
+  const [transport] = useState(
+    () =>
+      new DefaultChatTransport<AdvisorUIMessage>({
+        api: `${ADVISOR_API_BASE}/api/advisor/chat`,
+        prepareSendMessagesRequest: ({ messages }) => {
+          const latest = messages.at(-1)
+          if (!latest || latest.role !== 'user') {
+            throw new Error('Advisor chỉ nhận tin nhắn từ khách hàng')
+          }
 
-  const runSubmit = useCallback(async (text: string) => {
-    if (!text) return
+          const history = messages
+            .slice(-7, -1)
+            .map(
+              (message) =>
+                `${message.role === 'user' ? 'Khách' : 'Bot'}: ${getMessageText(message)}`,
+            )
+            .join('\n')
 
-    const userMsg: ChatMessage = { id: nanoid(), role: 'user', text }
-    const assistantId = nanoid()
-    // Empty placeholder now — text gets appended delta by delta as the stream arrives.
-    setMessages((prev) => [...prev, userMsg, { id: assistantId, role: 'assistant', text: '' }])
-    setStatus('submitted')
+          return {
+            body: {
+              inputData: {
+                conversationId: conversationId.current,
+                message: getMessageText(latest),
+                history,
+              },
+            },
+          }
+        },
+      }),
+  )
+  const { messages, sendMessage, setMessages, status } =
+    useChat<AdvisorUIMessage>({
+      messages: INITIAL_MESSAGES,
+      transport,
+      onData: (part) => {
+        if (part.type === 'data-advisor-meta') onResponseRef.current(part.data)
+      },
+    })
 
-    const appendDelta = (delta: string) => {
-      setMessages((prev) => prev.map((m) => (m.id === assistantId ? { ...m, text: m.text + delta } : m)))
-    }
-
-    // Tagged products present — route to the single-shot compare endpoint instead of the
-    // slot-filling advisor pipeline (it already knows exactly which products to talk about).
-    const compareIds = compareItemsRef.current.map((p) => p.id)
-
-    try {
-      if (compareIds.length > 0) {
-        await sendCompareMessage(compareIds, text, {
-          onTextDelta: appendDelta,
-          onDone: () => setStatus('ready'),
-        })
-      } else {
-        const historyText = messagesRef.current
-          .slice(-6)
-          .map((m) => `${m.role === 'user' ? 'Khách' : 'Bot'}: ${m.text}`)
-          .join('\n')
-
-        await sendAdvisorMessage(conversationId.current, text, historyText, {
-          // Meta arrives before any text — update the product panel right away.
-          onMeta: (meta) => {
-            onResponse(meta)
-            setStatus('streaming')
-          },
-          onTextDelta: appendDelta,
-          onDone: () => setStatus('ready'),
-        })
+  const runCompare = useCallback(
+    async (text: string, productIds: string[]) => {
+      const userMsg: AdvisorUIMessage = {
+        id: nanoid(),
+        role: 'user',
+        parts: [{ type: 'text', text }],
       }
-    } catch {
-      setMessages((prev) =>
-        prev.map((m) =>
-          m.id === assistantId ? { ...m, text: 'Xin lỗi, có lỗi kết nối tới máy chủ. Bạn thử lại giúp mình nhé.' } : m,
-        ),
-      )
-      setStatus('error')
-    }
-  }, [onResponse])
+      const assistantId = nanoid()
+      setMessages((prev) => [
+        ...prev,
+        userMsg,
+        {
+          id: assistantId,
+          role: 'assistant',
+          parts: [{ type: 'text', text: '' }],
+        },
+      ])
+      setCompareStatus('submitted')
 
-  const handleSubmit = useCallback((message: PromptInputMessage) => {
-    const text = message.text?.trim()
-    if (!text) return
-    void runSubmit(text)
-  }, [runSubmit])
+      const appendDelta = (delta: string) => {
+        setMessages((prev) =>
+          prev.map((message) =>
+            message.id === assistantId
+              ? {
+                  ...message,
+                  parts: [
+                    { type: 'text', text: getMessageText(message) + delta },
+                  ],
+                }
+              : message,
+          ),
+        )
+      }
 
-  const isBusy = status === 'submitted' || status === 'streaming'
+      try {
+        await sendCompareMessage(productIds, text, {
+          onTextDelta: appendDelta,
+          onDone: () => setCompareStatus('ready'),
+        })
+      } catch {
+        setMessages((prev) =>
+          prev.map((message) =>
+            message.id === assistantId
+              ? {
+                  ...message,
+                  parts: [
+                    {
+                      type: 'text',
+                      text: 'Xin lỗi, có lỗi kết nối tới máy chủ. Bạn thử lại giúp mình nhé.',
+                    },
+                  ],
+                }
+              : message,
+          ),
+        )
+        setCompareStatus('error')
+      }
+    },
+    [setMessages],
+  )
+
+  const runSubmit = useCallback(
+    (text: string) => {
+      if (!text) return
+      const compareIds = compareItemsRef.current.map((product) => product.id)
+      if (compareIds.length > 0) {
+        void runCompare(text, compareIds)
+        return
+      }
+      void sendMessage({ text })
+    },
+    [runCompare, sendMessage],
+  )
+
+  const handleSubmit = useCallback(
+    (message: PromptInputMessage) => {
+      const text = message.text?.trim()
+      if (!text) return
+      void runSubmit(text)
+    },
+    [runSubmit],
+  )
+
+  const displayStatus = compareStatus === 'ready' ? status : compareStatus
+  const isBusy = displayStatus === 'submitted' || displayStatus === 'streaming'
 
   return (
     <div className="flex h-full min-h-0 flex-col">
@@ -123,21 +212,28 @@ export function RealChatPanel({
             />
           ) : (
             <AnimatePresence initial={false}>
-              {messages.map((m) => (
-                <motion.div
-                  key={m.id}
-                  layout
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.25, ease: 'easeOut' }}
-                >
-                  <Message from={m.role}>
-                    <MessageContent>
-                      {m.role === 'assistant' && m.text === '' ? <TypingDots /> : <MessageResponse>{m.text}</MessageResponse>}
-                    </MessageContent>
-                  </Message>
-                </motion.div>
-              ))}
+              {messages.map((m) => {
+                const text = getMessageText(m)
+                return (
+                  <motion.div
+                    key={m.id}
+                    layout
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.25, ease: 'easeOut' }}
+                  >
+                    <Message from={m.role}>
+                      <MessageContent>
+                        {m.role === 'assistant' && text === '' ? (
+                          <TypingDots />
+                        ) : (
+                          <MessageResponse>{text}</MessageResponse>
+                        )}
+                      </MessageContent>
+                    </Message>
+                  </motion.div>
+                )
+              })}
             </AnimatePresence>
           )}
         </ConversationContent>
@@ -145,7 +241,9 @@ export function RealChatPanel({
       </Conversation>
       {compareItems.length > 0 && (
         <div className="flex shrink-0 flex-wrap items-center gap-1.5 border-t bg-muted/40 px-4 py-2.5">
-          <span className="text-[11px] font-medium text-muted-foreground">So sánh:</span>
+          <span className="text-[11px] font-medium text-muted-foreground">
+            So sánh:
+          </span>
           {compareItems.map((p) => (
             <span
               key={p.id}
@@ -167,11 +265,17 @@ export function RealChatPanel({
             size="xs"
             className="ml-auto rounded-full"
             disabled={isBusy}
-            onClick={() => void runSubmit(DEFAULT_COMPARE_PROMPT)}
+            onClick={() => runSubmit(DEFAULT_COMPARE_PROMPT)}
           >
             <GitCompareArrows className="size-3" /> So sánh ngay
           </Button>
-          <Button type="button" size="xs" variant="ghost" className="rounded-full" onClick={onClearCompare}>
+          <Button
+            type="button"
+            size="xs"
+            variant="ghost"
+            className="rounded-full"
+            onClick={onClearCompare}
+          >
             Xoá
           </Button>
         </div>
@@ -192,7 +296,7 @@ export function RealChatPanel({
             />
           </PromptInputBody>
           <PromptInputSubmit
-            status={status}
+            status={displayStatus}
             className="absolute right-3 bottom-3 size-9 rounded-full shadow-sm transition-transform hover:scale-105 active:scale-95"
           />
         </PromptInput>
@@ -206,13 +310,21 @@ export function RealChatPanel({
 // and the first text-delta chunk.
 function TypingDots() {
   return (
-    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex items-center gap-1 py-1 text-muted-foreground">
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      className="flex items-center gap-1 py-1 text-muted-foreground"
+    >
       {[0, 1, 2].map((i) => (
         <motion.span
           key={i}
           className="size-1.5 rounded-full bg-current"
           animate={{ y: [0, -4, 0] }}
-          transition={{ duration: 0.6, repeat: Number.POSITIVE_INFINITY, delay: i * 0.15 }}
+          transition={{
+            duration: 0.6,
+            repeat: Number.POSITIVE_INFINITY,
+            delay: i * 0.15,
+          }}
         />
       ))}
     </motion.div>
