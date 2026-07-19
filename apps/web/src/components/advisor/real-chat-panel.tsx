@@ -11,11 +11,7 @@ import {
   ConversationEmptyState,
   ConversationScrollButton,
 } from '~/components/ai-elements/conversation'
-import {
-  Message,
-  MessageContent,
-  MessageResponse,
-} from '~/components/ai-elements/message'
+import { Message, MessageContent, MessageResponse } from '~/components/ai-elements/message'
 import {
   PromptInput,
   PromptInputBody,
@@ -44,27 +40,17 @@ type AdvisorUIMessage = UIMessage<
 const GREETING =
   'Chào bạn! Mình là NeoAI — trợ lý tư vấn tủ lạnh của Điện Máy Xanh. Bạn đang cần tìm tủ lạnh như thế nào ạ?'
 
-const DEFAULT_COMPARE_PROMPT =
-  'So sánh giúp mình các sản phẩm này, cái nào đáng mua hơn?'
+const DEFAULT_COMPARE_PROMPT = 'So sánh giúp mình các sản phẩm này, cái nào đáng mua hơn?'
 
 type ChatStatus = 'ready' | 'submitted' | 'streaming' | 'error'
 
 const INITIAL_MESSAGES: AdvisorUIMessage[] = [
-  {
-    id: 'greeting',
-    role: 'assistant',
-    parts: [{ type: 'text', text: GREETING }],
-  },
+  { id: 'greeting', role: 'assistant', parts: [{ type: 'text', text: GREETING }] },
 ]
 
 function getMessageText(message: AdvisorUIMessage): string {
   return message.parts
-    .filter(
-      (
-        part,
-      ): part is Extract<(typeof message.parts)[number], { type: 'text' }> =>
-        part.type === 'text',
-    )
+    .filter((part): part is Extract<(typeof message.parts)[number], { type: 'text' }> => part.type === 'text')
     .map((part) => part.text)
     .join('')
 }
@@ -108,10 +94,7 @@ export function RealChatPanel({
 
           const history = messages
             .slice(-7, -1)
-            .map(
-              (message) =>
-                `${message.role === 'user' ? 'Khách' : 'Bot'}: ${getMessageText(message)}`,
-            )
+            .map((message) => `${message.role === 'user' ? 'Khách' : 'Bot'}: ${getMessageText(message)}`)
             .join('\n')
 
           return {
@@ -157,20 +140,15 @@ export function RealChatPanel({
       ])
       setCompareStatus('submitted')
 
-      const appendDelta = (delta: string) => {
-        setMessages((prev) =>
-          prev.map((message) =>
-            message.id === assistantId
-              ? {
-                  ...message,
-                  parts: [
-                    { type: 'text', text: getMessageText(message) + delta },
-                  ],
-                }
-              : message,
-          ),
-        )
-      }
+    const appendDelta = (delta: string) => {
+      setMessages((prev) =>
+        prev.map((message) =>
+          message.id === assistantId
+            ? { ...message, parts: [{ type: 'text', text: getMessageText(message) + delta }] }
+            : message,
+        ),
+      )
+    }
 
       try {
         await sendCompareMessage(
@@ -322,9 +300,7 @@ export function RealChatPanel({
 
       {compareItems.length > 0 && (
         <div className="flex shrink-0 flex-wrap items-center gap-1.5 border-t bg-muted/40 px-4 py-2.5">
-          <span className="text-[11px] font-medium text-muted-foreground">
-            So sánh:
-          </span>
+          <span className="text-[11px] font-medium text-muted-foreground">So sánh:</span>
           {compareItems.map((p) => (
             <span
               key={p.id}
@@ -341,22 +317,10 @@ export function RealChatPanel({
               </button>
             </span>
           ))}
-          <Button
-            type="button"
-            size="xs"
-            className="ml-auto rounded-full"
-            disabled={isBusy}
-            onClick={() => runSubmit(DEFAULT_COMPARE_PROMPT)}
-          >
+          <Button type="button" size="xs" className="ml-auto rounded-full" disabled={isBusy} onClick={() => runSubmit(DEFAULT_COMPARE_PROMPT)}>
             <GitCompareArrows className="size-3" /> So sánh ngay
           </Button>
-          <Button
-            type="button"
-            size="xs"
-            variant="ghost"
-            className="rounded-full"
-            onClick={onClearCompare}
-          >
+          <Button type="button" size="xs" variant="ghost" className="rounded-full" onClick={onClearCompare}>
             Xoá
           </Button>
         </div>
@@ -402,11 +366,7 @@ function TypingDots({ label }: { label: string }) {
           key={i}
           className="size-1.5 rounded-full bg-current"
           animate={{ y: [0, -4, 0] }}
-          transition={{
-            duration: 0.6,
-            repeat: Number.POSITIVE_INFINITY,
-            delay: i * 0.15,
-          }}
+          transition={{ duration: 0.6, repeat: Number.POSITIVE_INFINITY, delay: i * 0.15 }}
         />
       ))}
       <span className="text-sm">{label}</span>
