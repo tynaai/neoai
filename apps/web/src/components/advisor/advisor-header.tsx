@@ -6,7 +6,13 @@ import { Button } from '~/components/ui/button'
 import { ThemeToggle } from './theme-toggle'
 import { UserMenu } from './user-menu'
 
-export function AdvisorHeader({ onOpenChat }: { onOpenChat?: () => void }) {
+export function AdvisorHeader({
+  chatOpen,
+  onToggleChat,
+}: {
+  chatOpen: boolean
+  onToggleChat: () => void
+}) {
   return (
     <motion.header
       initial={{ y: -16, opacity: 0 }}
@@ -45,13 +51,15 @@ export function AdvisorHeader({ onOpenChat }: { onOpenChat?: () => void }) {
         </div>
 
         <nav aria-label="Điều hướng" className="flex shrink-0 items-center gap-2 sm:gap-3">
-          {onOpenChat && (
-            <Button className="h-9 rounded-full" onClick={onOpenChat}>
-              <MessageCircle aria-hidden />
-              <span className="hidden sm:inline">Tư vấn AI</span>
-              <span className="sr-only sm:hidden">Tư vấn AI</span>
-            </Button>
-          )}
+          <Button
+            aria-pressed={chatOpen}
+            className="h-9 rounded-full"
+            onClick={onToggleChat}
+          >
+            <MessageCircle aria-hidden />
+            <span className="hidden sm:inline">Tư vấn AI</span>
+            <span className="sr-only sm:hidden">Tư vấn AI</span>
+          </Button>
           <ThemeToggle />
           <UserMenu />
         </nav>

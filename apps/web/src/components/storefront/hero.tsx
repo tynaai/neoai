@@ -54,7 +54,15 @@ function useRotatingTypewriter(phrases: string[]) {
   return text
 }
 
-export function Hero({ onOpenChat }: { onOpenChat: () => void }) {
+export function Hero({
+  chatOpen,
+  onToggleChat,
+  onOpenChat,
+}: {
+  chatOpen: boolean
+  onToggleChat: () => void
+  onOpenChat: () => void
+}) {
   const rotatingText = useRotatingTypewriter(ROTATING_PHRASES)
 
   return (
@@ -120,7 +128,8 @@ export function Hero({ onOpenChat }: { onOpenChat: () => void }) {
         >
           <Button
             size="lg"
-            onClick={onOpenChat}
+            aria-pressed={chatOpen}
+            onClick={onToggleChat}
             className="h-11 rounded-full bg-white px-5 text-brand-primary hover:bg-white/90"
           >
             <Sparkles className="size-4" />
