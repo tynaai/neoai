@@ -27,7 +27,32 @@ export interface RetrievalResult {
 
 const TU_LANH_CATEGORY_CODE = '38'
 
-function toCandidate(row: typeof products.$inferSelect): Candidate {
+type ProductCandidateRow = Pick<
+  typeof products.$inferSelect,
+  | 'id'
+  | 'title'
+  | 'brand'
+  | 'priceCurrent'
+  | 'priceOriginal'
+  | 'productUrl'
+  | 'thumbnailUrl'
+  | 'promotions'
+  | 'specs'
+>
+
+const candidateFields = {
+  id: products.id,
+  title: products.title,
+  brand: products.brand,
+  priceCurrent: products.priceCurrent,
+  priceOriginal: products.priceOriginal,
+  productUrl: products.productUrl,
+  thumbnailUrl: products.thumbnailUrl,
+  promotions: products.promotions,
+  specs: products.specs,
+}
+
+function toCandidate(row: ProductCandidateRow): Candidate {
   return {
     id: row.id,
     title: row.title,
@@ -48,32 +73,43 @@ async function queryWithBudget(filters: SearchFilters, excludedIds: string[]) {
   if (hasBudget) {
     // Only match against products with a real price (~15% of the dataset) — never guess.
     conditions.push(isNotNull(products.priceCurrent))
-    if (filters.budgetMin !== null) conditions.push(gte(products.priceCurrent, filters.budgetMin))
-    if (filters.budgetMax !== null) conditions.push(lte(products.priceCurrent, filters.budgetMax))
+    if (filters.budgetMin !== null)
+      conditions.push(gte(products.priceCurrent, filters.budgetMin))
+    if (filters.budgetMax !== null)
+      conditions.push(lte(products.priceCurrent, filters.budgetMax))
   }
-  if (excludedIds.length > 0) conditions.push(notInArray(products.id, excludedIds))
+  if (excludedIds.length > 0)
+    conditions.push(notInArray(products.id, excludedIds))
 
   return db
-    .select()
+    .select(candidateFields)
     .from(products)
     .where(and(...conditions))
 }
 
-export async function retrieveCandidates(filters: SearchFilters, excludedIds: string[]): Promise<RetrievalResult> {
+export async function retrieveCandidates(
+  filters: SearchFilters,
+  excludedIds: string[],
+): Promise<RetrievalResult> {
   const rows = await queryWithBudget(filters, excludedIds)
-  if (rows.length > 0 || (filters.budgetMin === null && filters.budgetMax === null)) {
+  if (
+    rows.length > 0 ||
+    (filters.budgetMin === null && filters.budgetMax === null)
+  ) {
     return { candidates: rows.map(toCandidate), widenedBudget: false }
   }
 
   // Empty result — retry without the price constraint so we show near-fits instead of nothing.
   const widened = await db
-    .select()
+    .select(candidateFields)
     .from(products)
     .where(
       and(
         eq(products.categoryCode, TU_LANH_CATEGORY_CODE),
         isNotNull(products.priceCurrent),
-        excludedIds.length > 0 ? notInArray(products.id, excludedIds) : undefined,
+        excludedIds.length > 0
+          ? notInArray(products.id, excludedIds)
+          : undefined,
       ),
     )
   return { candidates: widened.map(toCandidate), widenedBudget: true }

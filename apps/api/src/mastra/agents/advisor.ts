@@ -1,10 +1,24 @@
-import { Agent } from '@mastra/core/agent'
+import { Agent, type ModelWithRetries } from '@mastra/core/agent'
 
-const advisorModel = {
-  id: 'openai/DeepSeek-V4-Flash',
-  url: process.env.A_OPENAI_BASE_URL,
-  apiKey: process.env.A_OPENAI_API_KEY,
-} as const
+const advisorModels = [
+  {
+    model: {
+      id: 'openai/gpt-4o',
+      apiKey: process.env.OPENAI_API_KEY,
+    },
+    maxRetries: 0,
+  },
+  {
+    model: {
+      id: 'openai/DeepSeek-V4-Flash',
+      url: process.env.A_OPENAI_BASE_URL,
+      apiKey: process.env.A_OPENAI_API_KEY,
+    },
+    // A WAF rejection is terminal for the FPT request; do not retry against
+    // the same blocked origin.
+    maxRetries: 0,
+  },
+] satisfies ModelWithRetries[]
 
 // No tools — retrieval and ranking run as plain rule-based code in pipeline.ts; this agent only
 // phrases questions/explanations.
@@ -21,6 +35,5 @@ Nguyên tắc bắt buộc:
 - Không tự bịa bất kỳ số liệu/thông tin sản phẩm nào — chỉ nói đúng số liệu được cung cấp trong dữ liệu truyền vào.
 - Nếu dữ liệu không có (giá/thông số thiếu), nói rõ "chưa có dữ liệu" thay vì đoán.
 - Không xin lỗi lặp lại nhiều lần khi sửa lỗi hiểu sai — nói rõ đang hiểu gì + đưa lựa chọn cụ thể.`,
-    model: advisorModel,
-    maxRetries: 0,
+    model: advisorModels,
   })
