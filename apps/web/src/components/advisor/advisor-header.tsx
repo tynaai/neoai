@@ -1,16 +1,18 @@
 import { motion } from 'motion/react'
 
 import { Badge } from '~/components/ui/badge'
-import { CategoryMenu } from './category-menu'
 import { ThemeToggle } from './theme-toggle'
 import { UserMenu } from './user-menu'
+import { UtilityMenu } from './utility-menu'
 
 export function AdvisorHeader({
   category,
   onCategoryChange,
+  onOpenChat,
 }: {
   category?: string
   onCategoryChange?: (code: string) => void
+  onOpenChat?: () => void
 }) {
   return (
     <motion.header
@@ -51,7 +53,7 @@ export function AdvisorHeader({
 
         <nav aria-label="Điều hướng" className="flex shrink-0 items-center gap-2 sm:gap-3">
           {category && onCategoryChange && (
-            <CategoryMenu category={category} onCategoryChange={onCategoryChange} />
+            <UtilityMenu category={category} onCategoryChange={onCategoryChange} onOpenChat={onOpenChat} />
           )}
           <ThemeToggle />
           <UserMenu />

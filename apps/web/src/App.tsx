@@ -50,7 +50,7 @@ function StorefrontHome() {
           chatOpen ? 'sm:ml-[32rem] lg:ml-[36rem]' : 'ml-0'
         }`}
       >
-        <AdvisorHeader category={category} onCategoryChange={setCategory} />
+        <AdvisorHeader category={category} onCategoryChange={setCategory} onOpenChat={() => setChatOpen(true)} />
         <main className="flex-1">
           <Hero chatOpen={chatOpen} onToggleChat={toggleChat} onOpenChat={() => setChatOpen(true)} />
           <PromoCarousel />
